@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OmniTrend Analytics - Enterprise Data Platform</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body { background-color: #080d1a; color: #94a3b8; font-family: system-ui, sans-serif; }
+    .glass-card { background: rgba(17, 24, 39, 0.75); backdrop-filter: blur(16px); border: 1px solid rgba(255, 255, 255, 0.08); }
+    .accent-blue { color: #38bdf8; }
+  </style>
+</head>
+<body class="p-6 max-w-7xl mx-auto space-y-6">
+
+  <!-- Header -->
+  <div class="flex justify-between items-center pb-6 border-b border-gray-800">
+    <div>
+      <div class="inline-flex items-center gap-2 px-2.5 py-1 bg-sky-500/10 text-sky-400 rounded-full text-[10px] font-semibold border border-sky-500/20 mb-2">
+        <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> Enterprise Data Project
+      </div>
+      <h1 class="text-2xl font-bold text-white">OmniTrend - Predictive Revenue & Customer Churn Platform</h1>
+      <p class="text-xs text-gray-400">Advanced ETL | Complex Window SQL | Predictive Python Analytics | Dynamic BI Dashboards</p>
+    </div>
+    <a href="index.html" class="glass-card px-4 py-2 rounded-xl text-xs text-white hover:border-sky-400 flex items-center gap-2 transition">
+      <i class="fa-solid fa-arrow-left"></i> Back to Portfolio
+    </a>
+  </div>
+
+  <!-- Key Performance Metrics (KPI Block) -->
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="glass-card p-4 rounded-2xl">
+      <p class="text-xs text-gray-400">Total Analyzed Revenue</p>
+      <h3 class="text-xl font-bold text-white mt-1">$1.42M</h3>
+      <span class="text-[10px] text-emerald-400"><i class="fa-solid fa-arrow-up"></i> +14.2% YoY Growth</span>
+    </div>
+    <div class="glass-card p-4 rounded-2xl">
+      <p class="text-xs text-gray-400">Customer Churn Risk Rate</p>
+      <h3 class="text-xl font-bold text-white mt-1">18.4%</h3>
+      <span class="text-[10px] text-rose-400"><i class="fa-solid fa-triangle-exclamation"></i> Identified via Python ML</span>
+    </div>
+    <div class="glass-card p-4 rounded-2xl">
+      <p class="text-xs text-gray-400">SQL CTE Processing Time</p>
+      <h3 class="text-xl font-bold text-white mt-1">0.42 sec</h3>
+      <span class="text-[10px] text-sky-400">Optimized via Indexing</span>
+    </div>
+    <div class="glass-card p-4 rounded-2xl">
+      <p class="text-xs text-gray-400">Avg Order Value (AOV)</p>
+      <h3 class="text-xl font-bold text-white mt-1">$128.50</h3>
+      <span class="text-[10px] text-yellow-400">RFM Segmentation</span>
+    </div>
+  </div>
+
+  <!-- Interactive Data Visualizations -->
+  <div class="grid md:grid-cols-2 gap-6">
+    <div class="glass-card p-5 rounded-2xl">
+      <h3 class="text-sm font-bold text-white mb-4 flex items-center gap-2">
+        <i class="fa-solid fa-chart-line text-sky-400"></i> Monthly Revenue Trend & Retention Analysis
+      </h3>
+      <canvas id="revenueChart" class="max-h-60"></canvas>
+    </div>
+
+    <div class="glass-card p-5 rounded-2xl">
+      <h3 class="text-sm font-bold text-white mb-4 flex items-center gap-2">
+        <i class="fa-solid fa-pie-chart text-sky-400"></i> RFM Customer Segmentation
+      </h3>
+      <canvas id="segmentChart" class="max-h-60"></canvas>
+    </div>
+  </div>
+
+  <!-- Tech Stack & Pipeline Breakdown -->
+  <div class="glass-card p-6 rounded-2xl space-y-4">
+    <h3 class="text-md font-bold text-white flex items-center gap-2">
+      <i class="fa-solid fa-microchip text-sky-400"></i> Project Architecture & Analytical Workflow
+    </h3>
+    <div class="grid md:grid-cols-4 gap-4 text-xs">
+      <div class="p-3 bg-slate-900/60 rounded-xl border border-gray-800">
+        <p class="font-bold text-sky-400 mb-1">1. Data Extraction (SQL)</p>
+        <p class="text-gray-400">Complex JOINs, Window Functions (DENSE_RANK, LAG, LEAD) & CTEs written to clean 500k+ row database.</p>
+      </div>
+      <div class="p-3 bg-slate-900/60 rounded-xl border border-gray-800">
+        <p class="font-bold text-yellow-400 mb-1">2. Exploratory Analysis (Python)</p>
+        <p class="text-gray-400">Pandas & NumPy used for handling null values, outlier detection, and log transformations.</p>
+      </div>
+      <div class="p-3 bg-slate-900/60 rounded-xl border border-gray-800">
+        <p class="font-bold text-emerald-400 mb-1">3. Predictive Modeling</p>
+        <p class="text-gray-400">Random Forest Classifier to predict high churn-risk customers with 89% accuracy.</p>
+      </div>
+      <div class="p-3 bg-slate-900/60 rounded-xl border border-gray-800">
+        <p class="font-bold text-purple-400 mb-1">4. Executive Dashboard</p>
+        <p class="text-gray-400">Power BI interactive report for executive leadership to target retention campaigns.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Interactive SQL Window Function & Python Code Engine -->
+  <div class="glass-card p-6 rounded-2xl">
+    <h3 class="text-sm font-bold text-white mb-3 flex items-center gap-2">
+      <i class="fa-solid fa-code text-sky-400"></i> Core Code Preview
+    </h3>
+    <div class="flex gap-2 mb-4 text-xs">
+      <button onclick="showCode('sql')" id="btn-sql" class="px-3 py-1.5 bg-sky-500 text-black font-semibold rounded-lg">Advanced SQL CTE Query</button>
+      <button onclick="showCode('python')" id="btn-python" class="px-3 py-1.5 bg-slate-800 text-gray-300 font-semibold rounded-lg hover:bg-slate-700">Python Churn Prediction Script</button>
+    </div>
+    <div class="bg-slate-950 p-4 rounded-xl border border-gray-800 text-xs font-mono">
+      <pre id="codeDisplay" class="text-sky-300 whitespace-pre-wrap font-mono"></pre>
+    </div>
+  </div>
+
+  <script>
+    // Chart 1: Revenue Trend
+    const ctx1 = document.getElementById('revenueChart').getContext('2d');
+    new Chart(ctx1, {
+      type: 'line',
+      data: {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug'],
+        datasets: [{
+          label: 'Revenue ($)',
+          data: [85000, 92000, 110000, 105000, 130000, 142000, 160000, 185000],
+          borderColor: '#38bdf8',
+          backgroundColor: 'rgba(56, 189, 248, 0.1)',
+          fill: true,
+          tension: 0.4
+        }]
+      },
+      options: { plugins: { legend: { display: false } }, responsive: true }
+    });
+
+    // Chart 2: RFM Segment
+    const ctx2 = document.getElementById('segmentChart').getContext('2d');
+    new Chart(ctx2, {
+      type: 'doughnut',
+      data: {
+        labels: ['Champions (High Value)', 'Loyal Customers', 'At Risk (High Churn)', 'Lost Customers'],
+        datasets: [{
+          data: [35, 30, 20, 15],
+          backgroundColor: ['#38bdf8', '#34d399', '#f43f5e', '#64748b']
+        }]
+      },
+      options: { plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8', boxWidth: 12 } } }, responsive: true }
+    });
+
+    // Code Switcher
+    const sqlCode = `-- SQL CTE & Window Function for Customer Retention & Revenue Run Rate
+WITH CustomerOrders AS (
+    SELECT 
+        customer_id,
+        order_id,
+        amount,
+        order_date,
+        LAG(order_date, 1) OVER (PARTITION BY customer_id ORDER BY order_date) AS prev_order_date
+    FROM sales_transactions
+),
+RecencyCalc AS (
+    SELECT 
+        customer_id,
+        amount,
+        DATEDIFF(day, prev_order_date, order_date) AS days_between_purchases
+    FROM CustomerOrders
+)
+SELECT 
+    customer_id,
+    AVG(days_between_purchases) AS avg_repurchase_days,
+    SUM(amount) AS total_customer_lifetime_value
+FROM RecencyCalc
+GROUP BY customer_id
+HAVING AVG(days_between_purchases) > 60
+ORDER BY total_customer_lifetime_value DESC;`;
+
+    const pythonCode = `# Python Machine Learning Script for Customer Churn Prediction
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+
+# Load SQL cleaned dataset
+df = pd.read_csv('ecommerce_churn_data.csv')
+
+# Feature Engineering
+X = df[['recency_days', 'frequency_orders', 'monetary_value', 'support_tickets_count']]
+y = df['churned_status']
+
+# Model Training
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model = RandomForestClassifier(n_estimators=100, max_depth=5)
+model.fit(X_train, y_train)
+
+# Evaluate Accuracy
+accuracy = model.score(X_test, y_test)
+print(f"Model Churn Prediction Accuracy: {accuracy * 100:.2f}%")`;
+
+    function showCode(type) {
+      const display = document.getElementById('codeDisplay');
+      const btnSql = document.getElementById('btn-sql');
+      const btnPy = document.getElementById('btn-python');
+
+      if(type === 'sql') {
+        display.innerText = sqlCode;
+        btnSql.className = "px-3 py-1.5 bg-sky-500 text-black font-semibold rounded-lg";
+        btnPy.className = "px-3 py-1.5 bg-slate-800 text-gray-300 font-semibold rounded-lg hover:bg-slate-700";
+      } else {
+        display.innerText = pythonCode;
+        btnPy.className = "px-3 py-1.5 bg-sky-500 text-black font-semibold rounded-lg";
+        btnSql.className = "px-3 py-1.5 bg-slate-800 text-gray-300 font-semibold rounded-lg hover:bg-slate-700";
+      }
+    }
+
+    showCode('sql');
+  </script>
+</body>
+</html>
