@@ -3,258 +3,142 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pranav N. Ghate | Data Analyst</title>
+<title>Pranav Ghate | Data Analyst</title>
 
-<style>
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Arial, sans-serif;
-scroll-behavior:smooth;
-}
+<link rel="stylesheet" href="style.css">
 
-body{
-background:#081225;
-color:white;
-}
-
-.hero{
-min-height:100vh;
-display:flex;
-align-items:center;
-justify-content:center;
-flex-direction:column;
-text-align:center;
-padding:40px;
-}
-
-.profile{
-width:220px;
-height:220px;
-border-radius:50%;
-object-fit:cover;
-border:6px solid #38bdf8;
-margin-bottom:20px;
-}
-
-h1{
-font-size:60px;
-margin-bottom:10px;
-}
-
-h2{
-color:#38bdf8;
-margin-bottom:15px;
-}
-
-p{
-font-size:20px;
-line-height:1.8;
-}
-
-.btn{
-display:inline-block;
-margin:15px;
-padding:15px 30px;
-background:#38bdf8;
-color:white;
-text-decoration:none;
-border-radius:10px;
-font-weight:bold;
-}
-
-section{
-padding:80px 10%;
-}
-
-.section-title{
-font-size:40px;
-margin-bottom:30px;
-color:#38bdf8;
-}
-
-.skills{
-display:flex;
-flex-wrap:wrap;
-gap:15px;
-}
-
-.skill{
-background:#12213d;
-padding:15px 25px;
-border-radius:10px;
-}
-
-.card{
-background:#12213d;
-padding:25px;
-border-radius:15px;
-margin-top:20px;
-}
-
-footer{
-text-align:center;
-padding:30px;
-background:#020617;
-margin-top:50px;
-}
-</style>
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
 
-<section class="hero">
+<nav>
+<div class="logo">
+Pranav N. <span>Ghate</span>
+</div>
 
-<img src="Image.png" class="profile" alt="Pranav Ghate">
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#experience">Experience</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#certifications">Certificates</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
 
-<h1>Pranav N. Ghate</h1>
+<a href="Pranav_Ghate_Resume.pdf.pdf"
+target="_blank"
+class="resume-btn">
+Download Resume
+</a>
+
+</nav>
+
+<section class="hero" id="home">
+
+<div class="hero-text">
+
+<h3>Hello, I'm</h3>
+
+<h1>
+Pranav N.
+<span>Ghate</span>
+</h1>
 
 <h2>Aspiring Data Analyst</h2>
 
-<p>Python | SQL | Power BI | Advanced Excel</p>
+<p>
+Turning data into meaningful insights using Python,
+SQL, Power BI and Advanced Excel.
+</p>
 
-<div>
-<a href="#projects" class="btn">View Projects</a>
+<div class="hero-buttons">
 
-<a href="Pranav_Ghate_Resume.pdf.pdf" class="btn" target="_blank">
+<a href="Pranav_Ghate_Resume.pdf.pdf"
+target="_blank"
+class="btn">
 Download Resume
 </a>
+
+<a href="#projects" class="btn2">
+View Projects
+</a>
+
+</div>
+
+<div class="social">
+
+<a href="#"><i class="fab fa-linkedin"></i></a>
+<a href="#"><i class="fab fa-github"></i></a>
+<a href="#"><i class="fas fa-envelope"></i></a>
+<a href="#"><i class="fas fa-phone"></i></a>
+
+</div>
+
+</div>
+
+<div class="hero-image">
+
+<img src="Image.png" alt="Pranav Ghate">
+
 </div>
 
 </section>
 
-<section>
+<section id="about" class="section">
 
-<h2 class="section-title">About Me</h2>
+<h2>About Me</h2>
 
 <p>
 MCA Graduate from Modern College of Engineering, Pune.
-Passionate about Data Analytics, SQL, Python,
-Power BI and Business Intelligence.
-Currently looking for Data Analyst opportunities.
+Passionate about Data Analytics, SQL, Python, Power BI,
+Advanced Excel and Business Intelligence.
+I enjoy transforming raw data into meaningful business
+insights and creating impactful dashboards.
 </p>
 
 </section>
 
-<section>
+<section id="skills" class="section">
 
-<h2 class="section-title">Skills</h2>
+<h2>Technical Skills</h2>
 
-<div class="skills">
+<div class="skill-grid">
 
-<div class="skill">Python</div>
-<div class="skill">SQL</div>
-<div class="skill">Power BI</div>
-<div class="skill">Advanced Excel</div>
-<div class="skill">Pandas</div>
-<div class="skill">NumPy</div>
-<div class="skill">Matplotlib</div>
-<div class="skill">Data Cleaning</div>
-<div class="skill">Data Visualization</div>
+<div class="card">Python</div>
+<div class="card">SQL</div>
+<div class="card">Power BI</div>
+<div class="card">Advanced Excel</div>
+<div class="card">MySQL</div>
+<div class="card">Pandas</div>
+<div class="card">NumPy</div>
+<div class="card">Matplotlib</div>
+<div class="card">Seaborn</div>
+<div class="card">Git</div>
 
 </div>
 
 </section>
 
-<section>
+<section id="experience" class="section">
 
-<h2 class="section-title">Internship</h2>
+<h2>Internship Experience</h2>
 
-<div class="card">
+<div class="experience-card">
 
 <h3>Data Analyst Intern</h3>
 
-<br>
-
-<p>
-Landmark Techedge Pvt. Ltd.
-</p>
-
-<br>
-
-<p>
-Worked on SQL, data cleaning,
-dashboard creation, reporting,
-business insights and analytics.
-</p>
-
-</div>
-
-</section>
-
-<section id="projects">
-
-<h2 class="section-title">Projects</h2>
-
-<div class="card">
-
-<h3>Sales Analysis Dashboard</h3>
-
-<br>
-
-<p>
-Power BI dashboard for sales and profit analysis.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>Netflix Data Analysis</h3>
-
-<br>
-
-<p>
-Python project analyzing Netflix datasets and trends.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>HR Analytics Dashboard</h3>
-
-<br>
-
-<p>
-Power BI dashboard to analyze employee attrition.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>My Coding Prompt</h3>
-
-<br>
-
-<p>
-AI Powered Website and App Builder Project.
-</p>
-
-</div>
-
-</section>
-
-<section>
-
-<h2 class="section-title">Certifications</h2>
-
-<div class="card">
+<h4>Landmark Techedge Pvt. Ltd.</h4>
 
 <ul>
 
-<li>Cisco Networking Lab Training</li>
-<br>
-
-<li>JavaScript Training - IIT Bombay</li>
-<br>
-
-<li>IBM Enterprise Design Thinking Practitioner</li>
-<br>
-
-<li>Python Training - IIT Bombay</li>
+<li>Data Collection & Cleaning</li>
+<li>SQL Query Development</li>
+<li>Data Validation & Reporting</li>
+<li>Excel Dashboards</li>
+<li>Business Insights Generation</li>
 
 </ul>
 
@@ -262,25 +146,79 @@ AI Powered Website and App Builder Project.
 
 </section>
 
-<section>
+<section id="projects" class="section">
 
-<h2 class="section-title">Contact</h2>
+<h2>Projects</h2>
 
-<div class="card">
+<div class="project-grid">
 
-<p>Email: pranavghate45@gmail.com</p>
+<div class="project-card">
 
-<br>
+<h3>My Coding Prompt</h3>
 
-<p>Location: Pune, Maharashtra</p>
+<p>
+AI-powered application with data collection,
+analysis and reporting.
+</p>
+
+</div>
+
+<div class="project-card">
+
+<h3>Sales Analysis Dashboard</h3>
+
+<p>
+Interactive dashboard for sales performance
+and profit analysis.
+</p>
+
+</div>
+
+<div class="project-card">
+
+<h3>Netflix Data Analysis</h3>
+
+<p>
+Analyzed Netflix content trends and insights
+using Python.
+</p>
+
+</div>
 
 </div>
 
 </section>
 
+<section id="certifications" class="section">
+
+<h2>Certifications</h2>
+
+<ul class="cert-list">
+
+<li>Cisco Networking Lab Training</li>
+<li>JavaScript Training – IIT Bombay</li>
+<li>Enterprise Design Thinking Practitioner – IBM</li>
+<li>Python Training – IIT Bombay</li>
+
+</ul>
+
+</section>
+
+<section id="contact" class="section">
+
+<h2>Contact Me</h2>
+
+<p>Email: pranavghate45@gmail.com</p>
+
+<p>Pune, Maharashtra, India</p>
+
+<p>GitHub: github.com/pranavghate45</p>
+
+</section>
+
 <footer>
 
-© 2026 Pranav N. Ghate | Data Analyst Portfolio
+© 2026 Pranav N. Ghate. All Rights Reserved.
 
 </footer>
 
