@@ -1,0 +1,63 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,sans-serif;
+}
+
+body{
+background:#0f172a;
+color:white;
+}
+
+header{
+text-align:center;
+padding:100px 20px;
+}
+
+header h1{
+font-size:60px;
+}
+
+header p{
+margin:15px 0;
+font-size:22px;
+}
+
+.btn{
+display:inline-block;
+padding:12px 25px;
+background:#38bdf8;
+color:white;
+text-decoration:none;
+margin:10px;
+border-radius:8px;
+}
+
+section{
+padding:60px 10%;
+}
+
+h2{
+margin-bottom:20px;
+}
+
+.skill-box{
+display:inline-block;
+background:#1e293b;
+padding:15px 25px;
+margin:10px;
+border-radius:10px;
+}
+
+.card{
+background:#1e293b;
+padding:25px;
+margin:20px 0;
+border-radius:15px;
+}
+
+footer{
+text-align:center;
+padding:30px;
+}
