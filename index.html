@@ -343,6 +343,8 @@
       <i class="fa-solid fa-envelope text-sky-400"></i> Get In Touch
     </h3>
     <div class="grid md:grid-cols-3 gap-6">
+      
+      <!-- Left Contact Info Cards -->
       <div class="space-y-4 text-xs md:col-span-1">
         <a href="mailto:pranavghate45@gmail.com" class="glass-card p-4 rounded-2xl flex items-center gap-4 hover:border-sky-400 transition block">
           <i class="fa-solid fa-envelope text-sky-400 text-xl"></i>
@@ -367,19 +369,29 @@
         </div>
       </div>
 
-      <!-- Quick Message Form -->
+      <!-- Right Form with Email & WhatsApp Buttons -->
       <div class="glass-card p-6 rounded-2xl md:col-span-2">
-        <form action="https://formspree.io/f/myeydaqp" method="POST" class="space-y-4 text-xs">
+        <form id="contactForm" action="https://formspree.io/f/myeydaqp" method="POST" class="space-y-4 text-xs">
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <input type="text" name="name" placeholder="Your Name" required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400">
-            <input type="email" name="email" placeholder="Your Email" required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400">
+            <input type="text" id="contactName" name="name" placeholder="Your Name" required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400">
+            <input type="email" id="contactEmail" name="email" placeholder="Your Email" required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400">
           </div>
-          <textarea name="message" rows="3" placeholder="Your Message..." required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400"></textarea>
-          <button type="submit" class="bg-sky-500 hover:bg-sky-400 text-black font-bold px-5 py-2.5 rounded-xl flex items-center gap-2 text-xs transition">
-            <i class="fa-solid fa-paper-plane"></i> Send Message
-          </button>
+          <textarea id="contactMessage" name="message" rows="3" placeholder="Your Message..." required class="w-full bg-slate-900/60 border border-gray-700/60 rounded-xl p-3 text-white focus:outline-none focus:border-sky-400"></textarea>
+          
+          <div class="flex flex-wrap items-center gap-3 pt-2">
+            <!-- Send via Email Button -->
+            <button type="submit" class="bg-sky-500 hover:bg-sky-400 text-black font-bold px-5 py-2.5 rounded-xl flex items-center gap-2 text-xs transition">
+              <i class="fa-solid fa-paper-plane"></i> Send via Email
+            </button>
+            
+            <!-- Send via WhatsApp Button -->
+            <button type="button" onclick="sendToWhatsApp()" class="bg-emerald-500 hover:bg-emerald-400 text-black font-bold px-5 py-2.5 rounded-xl flex items-center gap-2 text-xs transition">
+              <i class="fa-brands fa-whatsapp text-sm"></i> Send via WhatsApp
+            </button>
+          </div>
         </form>
       </div>
+
     </div>
   </section>
 
@@ -389,8 +401,9 @@
     <p class="mt-2 sm:mt-0">Analyze | Visualize | Grow</p>
   </footer>
 
-  <!-- Project Filtering Script -->
+  <!-- Scripts -->
   <script>
+    // Project Filtering Script
     function filterProjects(category) {
       const cards = document.querySelectorAll('.project-card');
       const buttons = document.querySelectorAll('.filter-btn');
@@ -405,6 +418,24 @@
           card.style.display = 'none';
         }
       });
+    }
+
+    // WhatsApp Direct Send Script
+    function sendToWhatsApp() {
+      const name = document.getElementById('contactName').value;
+      const email = document.getElementById('contactEmail').value;
+      const message = document.getElementById('contactMessage').value;
+
+      if (!name || !message) {
+        alert("Please fill in your Name and Message first!");
+        return;
+      }
+
+      const phoneNumber = "917447493352";
+      const text = `Hello Pranav,%0A%0AMy name is *${encodeURIComponent(name)}* (${encodeURIComponent(email)})%0A%0A*Message:* ${encodeURIComponent(message)}`;
+      const whatsappUrl = `https://wa.me/${phoneNumber}?text=${text}`;
+
+      window.open(whatsappUrl, '_blank');
     }
   </script>
 </body>
