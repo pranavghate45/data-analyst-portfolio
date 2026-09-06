@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pranav Ghate | Data Analyst Portfolio</title>
+<title>Pranav N. Ghate | Data Analyst</title>
 
 <style>
 *{
@@ -11,55 +11,67 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 font-family:Arial, sans-serif;
+scroll-behavior:smooth;
 }
 
 body{
-background:#0f172a;
+background:#081225;
 color:white;
 }
 
-header{
+.hero{
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction:column;
 text-align:center;
-padding:50px 20px;
-background:linear-gradient(135deg,#2563eb,#7c3aed);
+padding:40px;
 }
 
-header img{
-width:180px;
-height:180px;
+.profile{
+width:220px;
+height:220px;
 border-radius:50%;
 object-fit:cover;
-border:5px solid white;
+border:6px solid #38bdf8;
 margin-bottom:20px;
 }
 
-header h1{
-font-size:3rem;
+h1{
+font-size:60px;
+margin-bottom:10px;
 }
 
-header h2{
-margin-top:10px;
-font-weight:normal;
+h2{
+color:#38bdf8;
+margin-bottom:15px;
+}
+
+p{
+font-size:20px;
+line-height:1.8;
 }
 
 .btn{
 display:inline-block;
-margin-top:20px;
-padding:12px 25px;
-background:white;
-color:black;
+margin:15px;
+padding:15px 30px;
+background:#38bdf8;
+color:white;
 text-decoration:none;
-border-radius:8px;
+border-radius:10px;
 font-weight:bold;
 }
 
 section{
-padding:60px 10%;
+padding:80px 10%;
 }
 
-h2{
-margin-bottom:20px;
-color:#60a5fa;
+.section-title{
+font-size:40px;
+margin-bottom:30px;
+color:#38bdf8;
 }
 
 .skills{
@@ -69,56 +81,65 @@ gap:15px;
 }
 
 .skill{
-background:#1e293b;
-padding:10px 20px;
+background:#12213d;
+padding:15px 25px;
 border-radius:10px;
 }
 
 .card{
-background:#1e293b;
-padding:20px;
-margin-top:20px;
+background:#12213d;
+padding:25px;
 border-radius:15px;
+margin-top:20px;
 }
 
 footer{
 text-align:center;
 padding:30px;
 background:#020617;
+margin-top:50px;
 }
 </style>
 </head>
 
 <body>
 
-<header>
+<section class="hero">
 
-<img src="Image.png" alt="Pranav Ghate">
+<img src="Image.png" class="profile" alt="Pranav Ghate">
 
-<h1>Pranav Nitin Ghate</h1>
+<h1>Pranav N. Ghate</h1>
 
 <h2>Aspiring Data Analyst</h2>
 
-<p>Python | SQL | Power BI | Excel | Data Analytics</p>
+<p>Python | SQL | Power BI | Advanced Excel</p>
 
-<a href="Pranav_Ghate_Resume.pdf" class="btn" target="_blank">
-📄 Download Resume
+<div>
+<a href="#projects" class="btn">View Projects</a>
+
+<a href="Pranav_Ghate_Resume.pdf.pdf" class="btn" target="_blank">
+Download Resume
 </a>
+</div>
 
-</header>
-
-<section>
-<h2>About Me</h2>
-
-<p>
-MCA Graduate from Modern College of Engineering, Pune.
-Passionate Data Analyst skilled in Python, SQL, Power BI and Excel.
-I enjoy transforming raw data into meaningful business insights and dashboards.
-</p>
 </section>
 
 <section>
-<h2>Skills</h2>
+
+<h2 class="section-title">About Me</h2>
+
+<p>
+MCA Graduate from Modern College of Engineering, Pune.
+Passionate about Data Analytics, SQL, Python,
+Power BI and Business Intelligence.
+Currently looking for Data Analyst opportunities.
+</p>
+
+</section>
+
+<section>
+
+<h2 class="section-title">Skills</h2>
 
 <div class="skills">
 
@@ -133,81 +154,134 @@ I enjoy transforming raw data into meaningful business insights and dashboards.
 <div class="skill">Data Visualization</div>
 
 </div>
+
 </section>
 
 <section>
-<h2>Internship</h2>
+
+<h2 class="section-title">Internship</h2>
 
 <div class="card">
+
 <h3>Data Analyst Intern</h3>
-<p>Landmark Techedge Pvt. Ltd.</p>
+
+<br>
+
 <p>
-Worked on SQL queries, data cleaning,
-report generation, dashboard creation and business insights.
+Landmark Techedge Pvt. Ltd.
 </p>
+
+<br>
+
+<p>
+Worked on SQL, data cleaning,
+dashboard creation, reporting,
+business insights and analytics.
+</p>
+
 </div>
 
 </section>
 
-<section>
+<section id="projects">
 
-<h2>Projects</h2>
+<h2 class="section-title">Projects</h2>
 
 <div class="card">
+
 <h3>Sales Analysis Dashboard</h3>
-<p>Excel + Power BI</p>
-<p>Sales performance and profit analysis dashboard.</p>
+
+<br>
+
+<p>
+Power BI dashboard for sales and profit analysis.
+</p>
+
 </div>
 
 <div class="card">
+
 <h3>Netflix Data Analysis</h3>
-<p>Python + Pandas</p>
-<p>Analyzed Netflix content trends and insights.</p>
+
+<br>
+
+<p>
+Python project analyzing Netflix datasets and trends.
+</p>
+
 </div>
 
 <div class="card">
+
 <h3>HR Analytics Dashboard</h3>
-<p>Power BI</p>
-<p>Employee attrition and workforce analytics dashboard.</p>
+
+<br>
+
+<p>
+Power BI dashboard to analyze employee attrition.
+</p>
+
 </div>
 
 <div class="card">
+
 <h3>My Coding Prompt</h3>
-<p>Python + SQL + AI</p>
-<p>AI powered website and app builder project.</p>
+
+<br>
+
+<p>
+AI Powered Website and App Builder Project.
+</p>
+
 </div>
 
 </section>
 
 <section>
 
-<h2>Certifications</h2>
+<h2 class="section-title">Certifications</h2>
 
 <div class="card">
+
 <ul>
+
 <li>Cisco Networking Lab Training</li>
+<br>
+
 <li>JavaScript Training - IIT Bombay</li>
+<br>
+
 <li>IBM Enterprise Design Thinking Practitioner</li>
+<br>
+
 <li>Python Training - IIT Bombay</li>
+
 </ul>
+
 </div>
 
 </section>
 
 <section>
 
-<h2>Contact</h2>
+<h2 class="section-title">Contact</h2>
 
 <div class="card">
-<p>📍 Pune, Maharashtra</p>
-<p>📧 pranavghate45@gmail.com</p>
-<p>📱 Available for Data Analyst Opportunities</p>
+
+<p>Email: pranavghate45@gmail.com</p>
+
+<br>
+
+<p>Location: Pune, Maharashtra</p>
+
 </div>
 
 </section>
 
 <footer>
-© 2026 Pranav Nitin Ghate | Data Analyst Portfolio
+
+© 2026 Pranav N. Ghate | Data Analyst Portfolio
+
 </footer>
 
 </body>
