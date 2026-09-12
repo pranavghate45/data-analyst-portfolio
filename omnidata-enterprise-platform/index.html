@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="OmniData Analytics Suite - Supreme Zenith AI & SQL Platform">
+  <title>OmniData AI & SQL Platform (Supreme Zenith Edition)</title>
+
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="brand-container">
+      <a href="../index.html" style="display: inline-flex; align-items: center; gap: 0.4rem; background: rgba(56, 189, 248, 0.15); border: 1px solid rgba(56, 189, 248, 0.3); color: #38bdf8; text-decoration: none; padding: 0.4rem 0.8rem; border-radius: 8px; font-size: 0.8rem; font-weight: 600; transition: all 0.2s; margin-right: 0.8rem;" onmouseover="this.style.background='rgba(56,189,248,0.3)';this.style.color='#fff'" onmouseout="this.style.background='rgba(56,189,248,0.15)';this.style.color='#38bdf8'">
+        ← Back to Portfolio
+      </a>
+      <div class="brand-icon">👑</div>
+      <div>
+        <h1 class="brand-title">OmniData AI & SQL Platform (Zenith)</h1>
+        <p style="font-size: 0.75rem; color: var(--text-muted);">Supreme Zenith Edition - Enterprise Data Science & SQL Engine</p>
+      </div>
+    </div>
+
+    <div class="header-controls">
+      <select id="role-selector" class="select-custom" style="border-color: var(--primary); font-weight: 600;">
+        <option value="Admin">🔒 Role: Admin (Full Access)</option>
+        <option value="Executive">💼 Role: Executive</option>
+        <option value="Analyst">🔍 Role: Analyst</option>
+        <option value="Viewer">👤 Role: Viewer (Restricted / Redacted)</option>
+      </select>
+
+      <select id="dataset-selector" class="select-custom">
+        <option value="ecommerce">🛒 E-Commerce Customer & Sales</option>
+        <option value="saas_churn">⚡ SaaS Retention & Churn</option>
+        <option value="finance">📈 Global Financial Market</option>
+        <option value="healthcare">🩺 Healthcare Cardiac Risk</option>
+        <option value="hr_attrition">👥 HR Analytics & Attrition</option>
+        <option value="marketing">🎯 Digital Marketing A/B Testing</option>
+        <option value="supply_chain">🚚 Supply Chain Logistics</option>
+        <option value="customer_reviews">💬 Customer NLP Reviews</option>
+        <option value="custom">📁 Custom CSV Upload...</option>
+      </select>
+
+      <div class="file-input-wrapper">
+        <label for="csv-file-input" class="file-btn">
+          <span>📤 Upload CSV</span>
+          <input type="file" id="csv-file-input" accept=".csv">
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="nav-tabs">
+    <div class="nav-tab active" data-tab="overview">📊 Overview</div>
+    <div class="nav-tab" data-tab="genai">🤖 GenAI Text-to-SQL & NLQ</div>
+    <div class="nav-tab" data-tab="xai">🧠 Explainable AI (SHAP & LIME)</div>
+    <div class="nav-tab" data-tab="reverse-etl">🔄 Reverse ETL & Webhooks</div>
+    <div class="nav-tab" data-tab="finops">💸 FinOps, Data Observability & SLA</div>
+    <div class="nav-tab" data-tab="gdpr">🛡️ GDPR / CCPA Privacy Compliance</div>
+    <div class="nav-tab" data-tab="drift">📉 Data & Concept Drift Monitor</div>
+    <div class="nav-tab" data-tab="security">🔐 Security, PII Masking & RBAC</div>
+    <div class="nav-tab" data-tab="sql">🗄️ SQL Console (Window Fn)</div>
+    <div class="nav-tab" data-tab="rfm">👑 Customer 360 & RFM Cohorts</div>
+    <div class="nav-tab" data-tab="fraud">🛡️ Financial Fraud & Risk</div>
+    <div class="nav-tab" data-tab="schema">🏛️ Data Warehouse Schema (dbt)</div>
+    <div class="nav-tab" data-tab="pipeline">⚡ Enterprise Airflow ETL DAG</div>
+    <div class="nav-tab" data-tab="quality">🧪 Data Quality (Great Expectations)</div>
+    <div class="nav-tab" data-tab="lineage">🗺️ Data Lineage & Governance</div>
+    <div class="nav-tab" data-tab="mlflow">🔬 MLflow Experiment Tracking</div>
+    <div class="nav-tab" data-tab="semantic">📐 dbt Semantic Metric Layer</div>
+    <div class="nav-tab" data-tab="cicd">🚀 CI/CD & dbt Test Suite</div>
+    <div class="nav-tab" data-tab="roi">📊 A/B Testing & Business ROI</div>
+    <div class="nav-tab" data-tab="health">🛡️ Data Health (0-100)</div>
+    <div class="nav-tab" data-tab="cleaning">🧹 Cleaning & Wrangling</div>
+    <div class="nav-tab" data-tab="pivot">🎛️ Pivot Matrix</div>
+    <div class="nav-tab" data-tab="nlp">💬 Text NLP & Sentiment</div>
+    <div class="nav-tab" data-tab="eda">📈 EDA</div>
+    <div class="nav-tab" data-tab="automl">🏆 AutoML Leaderboard</div>
+    <div class="nav-tab" data-tab="ai-deep">🧠 AI & Deep Learning</div>
+    <div class="nav-tab" data-tab="hypothesis">🧪 Hypothesis Lab</div>
+    <div class="nav-tab" data-tab="storyteller">📜 Data Storyteller</div>
+    <div class="nav-tab" data-tab="stream">⚡ Live Streaming Data</div>
+    <div class="nav-tab" data-tab="forecast">🔮 30-Day Forecast</div>
+    <div class="nav-tab" data-tab="chart-builder">🎨 Chart Builder</div>
+    <div class="nav-tab" data-tab="chatbot">💬 AI Analyst Chatbot</div>
+    <div class="nav-tab" data-tab="insights">💡 AI Insights & Reports</div>
+  </nav>
+
+  <!-- Main Container -->
+  <main class="app-container">
+
+    <!-- Dataset Header Banner -->
+    <div class="glass-card" style="margin-bottom: 1.25rem; padding: 1rem 1.5rem;">
+      <h2 id="dataset-title" style="font-size: 1.3rem; color: var(--accent-cyan);">Dataset Overview</h2>
+      <p id="dataset-desc" style="color: var(--text-muted); font-size: 0.9rem;">Select or upload an enterprise dataset to begin modeling.</p>
+    </div>
+
+    <!-- TAB 1: OVERVIEW -->
+    <section id="tab-overview" class="tab-content active">
+      <div class="kpi-grid">
+        <div class="kpi-card"><div class="kpi-icon icon-blue">📋</div><div><div class="kpi-label">Total Records</div><div class="kpi-val" id="kpi-rows">0</div></div></div>
+        <div class="kpi-card"><div class="kpi-icon icon-purple">🔢</div><div><div class="kpi-label">Attributes</div><div class="kpi-val" id="kpi-cols">0</div></div></div>
+        <div class="kpi-card"><div class="kpi-icon icon-rose">⚠️</div><div><div class="kpi-label">Missing Values</div><div class="kpi-val" id="kpi-missing">0</div></div></div>
+        <div class="kpi-card"><div class="kpi-icon icon-green">📐</div><div><div class="kpi-label">Numeric Features</div><div class="kpi-val" id="kpi-numeric">0</div></div></div>
+      </div>
+
+      <div class="glass-card">
+        <div class="card-title">🔍 Data Preview (First 10 Rows)</div>
+        <div class="table-wrapper">
+          <table class="data-table">
+            <thead id="table-header"></thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: GenAI TEXT-TO-SQL & NLQ -->
+    <section id="tab-genai" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🤖 GenAI Natural Language Query (NLQ) to SQL Translator</div>
+        <div class="control-panel">
+          <input type="text" id="genai-input" placeholder="Type query in plain English (e.g. 'Show top 5 customers by spend')" class="select-custom" style="flex: 1;">
+          <button id="btn-run-genai" class="btn-action">⚡ Translate & Execute SQL</button>
+        </div>
+        <div id="genai-sql-box" class="ml-result-card" style="margin-top: 1rem;">
+          <h4>Translated SQL Query:</h4>
+          <code>SELECT * FROM data ORDER BY Total_Spend_USD DESC LIMIT 5;</code>
+        </div>
+        <div id="genai-results-table" class="table-wrapper" style="margin-top: 1rem;"></div>
+      </div>
+
+      <div class="glass-card">
+        <div class="card-title">💡 Automated Data Insights Bullet Narrative</div>
+        <div id="genai-narrative-box" class="insight-box priority-high"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: EXPLAINABLE AI SHAP & LIME -->
+    <section id="tab-xai" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🧠 Explainable AI (XAI) - Individual Prediction SHAP Force Breakdown</div>
+        <div id="xai-summary-box" class="insight-box priority-high"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">📊 SHAP Waterfall Feature Attribution Breakdown</div>
+        <div id="xai-shap-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: REVERSE ETL & OPERATIONAL WEBHOOKS -->
+    <section id="tab-reverse-etl" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🔄 Reverse ETL & Operational Analytics Sync (Hightouch / Census)</div>
+        <div id="reverse-etl-destinations" class="grid-2"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">⚡ Trigger Action Webhook (Slack / CRM Alert Dispatch)</div>
+        <div class="control-panel">
+          <button id="btn-trigger-webhook" class="btn-action">🚀 Dispatch High-Risk Churn Alert Webhook</button>
+        </div>
+        <div id="webhook-response-box" class="ml-result-card" style="margin-top: 1rem;"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: FINOPS, DATA OBSERVABILITY & SLA -->
+    <section id="tab-finops" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">💸 FinOps, Data Observability & Snowflake Compute Cost Monitor</div>
+        <div id="finops-kpi-grid" class="kpi-grid"></div>
+        <div id="sla-alert-banner" class="insight-box priority-high" style="margin-top: 1rem;"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">💡 Query Optimization Advisor (Cost & Speed Optimization)</div>
+        <div id="finops-advisor-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: GDPR / CCPA PRIVACY COMPLIANCE -->
+    <section id="tab-gdpr" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🛡️ GDPR / CCPA Privacy Compliance - "Right to be Forgotten" Engine</div>
+        <div class="control-panel">
+          <input type="text" id="gdpr-cust-input" placeholder="Enter Customer ID to cascade delete (e.g. 'CUST_1001')" class="select-custom" style="flex: 1;">
+          <button id="btn-gdpr-erase" class="btn-action" style="background: linear-gradient(135deg, #f43f5e 0%, #e11d48 100%);">🔥 Cascade Delete & Anonymize Customer</button>
+        </div>
+        <div id="gdpr-erasure-result" class="insight-box" style="margin-top: 1rem;"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">📜 Immutable Compliance Access Audit Log</div>
+        <div id="gdpr-audit-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: DATA & CONCEPT DRIFT MONITOR -->
+    <section id="tab-drift" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>📉 Production Data & Concept Drift Monitoring (PSI & KS-Test)</span>
+          <span id="drift-alert-badge" class="badge" style="background: rgba(16,185,129,0.2); border-color: var(--accent-emerald);">🟢 System Baseline Stable</span>
+        </div>
+        <div id="drift-summary-box" class="insight-box" style="margin-top: 1rem;"></div>
+        <div id="drift-table-container" class="table-wrapper" style="margin-top: 1rem;"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: SECURITY, PII MASKING & RBAC -->
+    <section id="tab-security" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>🔐 Data Governance: PII Dynamic Masking & Role-Based Access Control (RBAC)</span>
+          <span id="active-rbac-role-badge" class="badge">Active Role: Admin (Full Access)</span>
+        </div>
+        <div id="rbac-role-banner" class="insight-box priority-high" style="margin-top: 1rem;"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">🛡️ PII Masked Data View (Email, Phone, Card & Salary Redaction)</div>
+        <div id="security-table-container" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- TAB 2: IN-MEMORY SQL CONSOLE -->
+    <section id="tab-sql" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+          <span>🗄️ In-Memory SQL Query Console (Window Functions & CTEs)</span>
+          <button id="btn-export-sql-csv" class="btn-secondary">📥 Export Query Results to CSV</button>
+        </div>
+        <div class="sql-preset-chips" style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1rem;">
+          <span style="font-size: 0.8rem; color: var(--text-muted); align-self: center;">Preset Queries:</span>
+          <button class="chip-btn" data-sql="SELECT Category, AVG(Total_Spend_USD) FROM data GROUP BY Category ORDER BY AVG(Total_Spend_USD) DESC">🛒 Group By Category</button>
+          <button class="chip-btn" data-sql="SELECT * FROM data ORDER BY Total_Spend_USD DESC ROW_NUMBER() OVER (PARTITION BY Category ORDER BY Total_Spend_USD DESC)">🥇 ROW_NUMBER() Partition</button>
+          <button class="chip-btn" data-sql="SELECT * FROM data ORDER BY Rating DESC LAG(Rating) OVER (ORDER BY Rating DESC)">⏮️ LAG() Previous Rating</button>
+          <button class="chip-btn" data-sql="SELECT * FROM data ORDER BY Price_USD DESC SUM(Total_Spend_USD) OVER (ORDER BY Price_USD DESC)">📈 Cumulative SUM() OVER</button>
+        </div>
+        <div class="control-panel" style="margin-bottom: 1rem;">
+          <input type="text" id="sql-query-input" value="SELECT * FROM data ORDER BY Total_Spend_USD DESC ROW_NUMBER() OVER (PARTITION BY Category ORDER BY Total_Spend_USD DESC)" class="select-custom" style="flex: 1; font-family: monospace;">
+          <button id="btn-run-sql" class="btn-action">Run SQL Query</button>
+        </div>
+        <div id="sql-results-container" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: CUSTOMER 360 & RFM COHORTS -->
+    <section id="tab-rfm" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">👑 Customer 360, RFM Quintile Scoring & LTV Intelligence</div>
+        <div id="rfm-kpi-grid" class="kpi-grid"></div>
+        <div class="grid-2" style="margin-top: 1.5rem;">
+          <div class="glass-card">
+            <div class="card-title">📊 Customer RFM Segment Breakdown</div>
+            <div id="rfm-segment-list"></div>
+          </div>
+          <div class="glass-card">
+            <div class="card-title">🏆 Top LTV Customer Leaderboard</div>
+            <div id="rfm-customer-table" class="table-wrapper"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="glass-card">
+        <div class="card-title">📅 Month-over-Month (MoM) Customer Retention Cohort Heatmap</div>
+        <div id="cohort-heatmap-container" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: FINANCIAL FRAUD & RISK -->
+    <section id="tab-fraud" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🛡️ Isolation Forest & Anomaly Risk Detection Engine</div>
+        <div id="fraud-kpi-grid" class="kpi-grid"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">🚨 Suspicious High-Risk Transactions (Isolation Anomaly Score >= 0.70)</div>
+        <div id="fraud-table-container" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: STAR SCHEMA WAREHOUSE -->
+    <section id="tab-schema" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🏛️ Enterprise Data Warehouse Star Schema & ERD Architecture</div>
+        <div id="schema-erd-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: AIRFLOW ETL PIPELINE DAG -->
+    <section id="tab-pipeline" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>⚡ Apache Airflow & dbt Production ETL Pipeline DAG</span>
+          <button id="btn-trigger-pipeline" class="btn-action">▶️ Trigger Scheduled ETL Job</button>
+        </div>
+        <div id="dag-nodes-container" style="display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem;"></div>
+        <div id="pipeline-status-log" class="insight-box" style="margin-top: 1.5rem;">
+          <p>⏳ Status: Pipeline Idle. Click "Trigger Scheduled ETL Job" to execute data pipeline.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: DATA QUALITY & GREAT EXPECTATIONS -->
+    <section id="tab-quality" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🧪 Great Expectations & Soda Core Automated Data Quality Contracts</div>
+        <div id="quality-kpi-grid" class="kpi-grid"></div>
+        <div class="card-title" style="margin-top: 1.5rem;">📋 Assertion Test Suite Results & Data Schema Contracts</div>
+        <div id="quality-results-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: DATA GOVERNANCE & LINEAGE -->
+    <section id="tab-lineage" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🗺️ OpenLineage End-to-End Data Lineage & Dependency Graph</div>
+        <div id="lineage-graph-container" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;"></div>
+      </div>
+      <div class="glass-card">
+        <div class="card-title">📚 Centralized Metadata Catalog & Business Data Dictionary</div>
+        <div id="data-catalog-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: MLFLOW EXPERIMENT TRACKING -->
+    <section id="tab-mlflow" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🔬 MLflow Model Registry & DVC Version Control Tracker</div>
+        <div id="mlflow-experiments-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: dbt SEMANTIC METRIC LAYER -->
+    <section id="tab-semantic" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">📐 dbt Semantic Metric Layer & Cube.js Centralized Definitions</div>
+        <div id="semantic-metrics-grid" class="grid-2"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: CI/CD & dbt TEST SUITE -->
+    <section id="tab-cicd" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🚀 GitHub Actions CI/CD Pipeline & Automated Unit Test Suite</div>
+        <div id="cicd-summary-box" class="insight-box priority-high"></div>
+        <div class="card-title" style="margin-top: 1rem;">🧪 Unit Test Suite Executions (dbt test & pytest)</div>
+        <div id="cicd-tests-table" class="table-wrapper"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: A/B TESTING & BUSINESS ROI -->
+    <section id="tab-roi" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">📊 A/B Testing Statistical Significance & Financial ROI Impact Lab</div>
+        <div id="ab-results-box" class="insight-box priority-high"></div>
+        <div id="ab-comparison-grid" class="grid-2" style="margin-top: 1rem;"></div>
+      </div>
+    </section>
+
+    <!-- TAB 3: DATA HEALTH SCORE -->
+    <section id="tab-health" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🛡️ Automated Data Quality Health Rating (0-100 Scale)</div>
+        <div id="health-score-container"></div>
+      </div>
+    </section>
+
+    <!-- TAB 4: CLEANING & FEATURE WRANGLING -->
+    <section id="tab-cleaning" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🛠️ Missing Value Imputation & Outlier Removal</div>
+        <div class="control-panel">
+          <label>Target Column:</label><select id="clean-col-select" class="select-custom"></select>
+          <label>Imputation:</label>
+          <select id="impute-method" class="select-custom">
+            <option value="mean">Mean Imputation</option>
+            <option value="median">Median Imputation</option>
+            <option value="mode">Mode Imputation</option>
+          </select>
+          <button id="btn-impute" class="btn-action">Apply Imputation</button>
+
+          <span style="border-left: 1px solid var(--border-color); height: 24px; margin: 0 8px;"></span>
+
+          <label>Outlier Filter:</label>
+          <select id="outlier-method" class="select-custom">
+            <option value="zscore">Z-Score (|Z| > 3.0)</option>
+            <option value="iqr">IQR Method (1.5 × IQR)</option>
+          </select>
+          <button id="btn-remove-outliers" class="btn-action">Remove Outliers</button>
+        </div>
+        <div id="clean-stats" class="clean-stats-grid"></div>
+      </div>
+
+      <div class="glass-card">
+        <div class="card-title">⚡ Advanced Feature Transformation & Encoding</div>
+        <div class="control-panel">
+          <label>Encoding Col:</label><select id="encode-col-select" class="select-custom"></select>
+          <button id="btn-one-hot-encode" class="btn-action">One-Hot Encode</button>
+
+          <span style="border-left: 1px solid var(--border-color); height: 24px; margin: 0 8px;"></span>
+
+          <label>Scale Col:</label><select id="scale-col-select" class="select-custom"></select>
+          <select id="scale-method" class="select-custom">
+            <option value="minmax">Min-Max (0 to 1)</option>
+            <option value="zscore">Standard Z-Score</option>
+          </select>
+          <button id="btn-scale-col" class="btn-action">Scale Column</button>
+
+          <span style="border-left: 1px solid var(--border-color); height: 24px; margin: 0 8px;"></span>
+
+          <button id="btn-remove-duplicates" class="btn-secondary">Remove Duplicates</button>
+          <button id="btn-reset-data" class="btn-secondary" style="margin-left: auto;">↺ Reset Original Data</button>
+        </div>
+        <div id="wrangling-log" style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-muted);"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: PIVOT MATRIX -->
+    <section id="tab-pivot" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>🎛️ Interactive Pivot Table Matrix & Aggregations</span>
+          <button id="btn-export-pivot-csv" class="btn-secondary">📥 Export Pivot to CSV</button>
+        </div>
+        <div class="control-panel">
+          <label>Row Dimension:</label><select id="pivot-row-select" class="select-custom"></select>
+          <label>Col Dimension:</label><select id="pivot-col-select" class="select-custom"></select>
+          <label>Value Metric:</label><select id="pivot-val-select" class="select-custom"></select>
+          <label>Aggregation:</label>
+          <select id="pivot-agg-select" class="select-custom">
+            <option value="mean">Average (Mean)</option>
+            <option value="sum">Sum Total</option>
+            <option value="count">Count</option>
+            <option value="min">Minimum</option>
+            <option value="max">Maximum</option>
+          </select>
+          <button id="btn-generate-pivot" class="btn-action">Build Pivot Table</button>
+        </div>
+        <div id="pivot-results-container" class="table-wrapper" style="margin-top: 1rem;"></div>
+      </div>
+    </section>
+
+    <!-- NEW TAB: TEXT NLP & SENTIMENT -->
+    <section id="tab-nlp" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">💬 Text Mining, Sentiment Analysis & TF-IDF Word Cloud</div>
+        <div class="control-panel">
+          <label>Text Field:</label><select id="nlp-text-select" class="select-custom"></select>
+          <button id="btn-run-nlp" class="btn-action">Run NLP Analysis</button>
+        </div>
+
+        <div id="nlp-kpi-grid" class="kpi-grid" style="margin-top: 1rem;"></div>
+
+        <div class="grid-2" style="margin-top: 1.5rem;">
+          <div class="glass-card">
+            <div class="card-title">🎯 Sentiment Polarity Distribution</div>
+            <div class="chart-container"><canvas id="chart-nlp-sentiment"></canvas></div>
+          </div>
+          <div class="glass-card">
+            <div class="card-title">🔤 Top TF-IDF Keywords Frequency</div>
+            <div class="chart-container"><canvas id="chart-nlp-keywords"></canvas></div>
+          </div>
+        </div>
+
+        <div class="glass-card">
+          <div class="card-title">🏷️ Key Word Tags & Frequency Cloud</div>
+          <div id="word-cloud-container" style="display: flex; flex-wrap: wrap; gap: 8px; padding: 1rem; background: rgba(0,0,0,0.2); border-radius: 8px;"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 5: EDA -->
+    <section id="tab-eda" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">📊 Descriptive Statistics Matrix</div>
+        <div class="table-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr><th>Attribute</th><th>Count</th><th>Mean</th><th>Median</th><th>Std Dev</th><th>Min</th><th>Q1</th><th>Q3</th><th>Max</th><th>Skewness</th></tr>
+            </thead>
+            <tbody id="stats-table-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="control-panel glass-card" style="padding: 1rem;">
+        <label>Primary (X):</label><select id="eda-x-select" class="select-custom"></select>
+        <label style="margin-left: 1rem;">Secondary (Y):</label><select id="eda-y-select" class="select-custom"></select>
+      </div>
+
+      <div class="grid-2">
+        <div class="glass-card"><div class="card-title">📈 Distribution (Histogram)</div><div class="chart-container"><canvas id="chart-histogram"></canvas></div></div>
+        <div class="glass-card"><div class="card-title">🎯 Scatter Plot & Fit</div><div class="chart-container"><canvas id="chart-scatter"></canvas></div></div>
+      </div>
+
+      <div class="glass-card">
+        <div class="card-title">🔥 Pearson Correlation Heatmap</div>
+        <div style="display: flex; justify-content: center; overflow: auto; padding: 1rem;">
+          <canvas id="canvas-heatmap"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 6: AUTOML LEADERBOARD -->
+    <section id="tab-automl" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🏆 AutoML Model Tournament & Benchmark Leaderboard</div>
+        <button id="btn-run-automl" class="btn-action" style="margin-bottom: 1rem;">⚡ Run AutoML Tournament</button>
+        <div id="automl-results"></div>
+      </div>
+    </section>
+
+    <!-- TAB 7: AI & DEEP LEARNING -->
+    <section id="tab-ai-deep" class="tab-content">
+      <div class="control-panel glass-card" style="padding: 1rem;">
+        <button id="btn-train-nn" class="btn-action">⚡ Train Neural Network (MLP)</button>
+        <button id="btn-run-rf" class="btn-action" style="margin-left: 1rem;">🌲 Run Random Forest Feature Importance</button>
+      </div>
+
+      <div class="glass-card" style="margin-bottom: 1.5rem;">
+        <div class="card-title">🌐 Multi-Layer Perceptron (MLP) Neural Network Topology</div>
+        <div style="display: flex; justify-content: center; background: rgba(0,0,0,0.25); border-radius: 8px; padding: 1rem;">
+          <canvas id="canvas-nn-graph" style="max-width: 100%; height: 280px;"></canvas>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="glass-card">
+          <div class="card-title">🧠 MLP Training Loss Curve across Epochs</div>
+          <div id="nn-summary"></div>
+          <div class="chart-container"><canvas id="chart-nn-loss"></canvas></div>
+        </div>
+
+        <div class="glass-card">
+          <div class="card-title">🌲 Random Forest Gini Feature Importances</div>
+          <div id="rf-summary"></div>
+          <div class="chart-container"><canvas id="chart-rf-importance"></canvas></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 8: HYPOTHESIS TESTING LAB -->
+    <section id="tab-hypothesis" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🧪 Statistical Hypothesis Testing Laboratory</div>
+        <div class="control-panel">
+          <label>Category Group:</label><select id="hypo-cat-select" class="select-custom"></select>
+          <label>Metric:</label><select id="hypo-num-select" class="select-custom"></select>
+          <button id="btn-run-ttest" class="btn-action">Run Student's t-Test</button>
+        </div>
+        <div id="hypo-results"></div>
+      </div>
+    </section>
+
+    <!-- TAB 9: DATA STORYTELLER -->
+    <section id="tab-storyteller" class="tab-content">
+      <div id="storyteller-deck-container"></div>
+    </section>
+
+    <!-- TAB 10: LIVE STREAMING DATA -->
+    <section id="tab-stream" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>⚡ Real-Time Streaming Data & Anomaly Alerts</span>
+          <div>
+            <button id="btn-start-stream" class="btn-action">▶️ Start Live Stream</button>
+            <button id="btn-stop-stream" class="btn-secondary" style="margin-left: 8px;">⏸️ Pause</button>
+          </div>
+        </div>
+        <div id="stream-alert-box" style="margin-top: 1rem;"></div>
+        <div class="chart-container" style="height: 350px;">
+          <canvas id="chart-stream"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 11: 30-DAY FORECAST -->
+    <section id="tab-forecast" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>🔮 Predictive Forecast Horizon & Confidence Interval</span>
+        </div>
+        <div class="control-panel">
+          <label>Forecast Metric:</label><select id="forecast-col-select" class="select-custom"></select>
+          <label>Horizon:</label>
+          <select id="forecast-days-select" class="select-custom">
+            <option value="14">14 Days</option>
+            <option value="30" selected>30 Days</option>
+            <option value="60">60 Days</option>
+          </select>
+          <button id="btn-update-forecast" class="btn-action">Update Forecast Horizon</button>
+        </div>
+        <div class="chart-container" style="height: 400px; margin-top: 1rem;">
+          <canvas id="chart-forecast"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 12: CUSTOM CHART BUILDER -->
+    <section id="tab-chart-builder" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">🎨 Drag & Drop Custom Chart Builder</div>
+        <div class="control-panel">
+          <label>X-Dimension:</label><select id="builder-x-select" class="select-custom"></select>
+          <label>Y-Metric:</label><select id="builder-y-select" class="select-custom"></select>
+          <label>Chart Style:</label>
+          <select id="builder-type-select" class="select-custom">
+            <option value="bar">Bar Chart</option>
+            <option value="line">Line Chart</option>
+            <option value="doughnut">Doughnut Chart</option>
+            <option value="radar">Radar Chart</option>
+          </select>
+          <button id="btn-render-custom" class="btn-action">Render Custom Chart</button>
+        </div>
+        <div class="chart-container" style="height: 400px; margin-top: 1rem;">
+          <canvas id="chart-custom-builder"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 13: AI ANALYST CHATBOT -->
+    <section id="tab-chatbot" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title">💬 Interactive AI Data Analyst Chatbot</div>
+        <div class="chat-prompt-chips" style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1rem;">
+          <span style="font-size: 0.8rem; color: var(--text-muted); align-self: center;">Quick Prompts:</span>
+          <button class="chat-chip" data-prompt="Summarize dataset metrics">📊 Key Metrics</button>
+          <button class="chat-chip" data-prompt="Check missing values and health">🛡️ Data Quality</button>
+          <button class="chat-chip" data-prompt="Which features are strongly correlated?">🔗 Correlations</button>
+          <button class="chat-chip" data-prompt="Who won the AutoML tournament?">🏆 AutoML Winner</button>
+        </div>
+        <div id="chat-messages" style="height: 320px; overflow-y: auto; background: rgba(0,0,0,0.3); border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
+          <div class="insight-box"><p>🤖 <strong>AI Assistant:</strong> Hello! Ask me anything about your dataset (e.g. <em>"What is the average spend?"</em>, <em>"Show correlations"</em>, <em>"Check missing values"</em>).</p></div>
+        </div>
+        <div class="control-panel" style="margin-bottom: 0;">
+          <input type="text" id="chat-input" placeholder="Type your data question here..." class="select-custom" style="flex: 1;">
+          <button id="btn-send-chat" class="btn-action">Ask AI</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 14: AI INSIGHTS & EXPORTS -->
+    <section id="tab-insights" class="tab-content">
+      <div class="glass-card">
+        <div class="card-title" style="justify-content: space-between;">
+          <span>💡 Executive AI Summary & Reports</span>
+          <div>
+            <button id="btn-export-csv" class="btn-secondary">📥 Export Cleaned CSV</button>
+            <button id="btn-export-pdf" class="btn-action" style="margin-left: 8px;">🖨️ Print / Save PDF Report</button>
+          </div>
+        </div>
+        <div id="ai-insights-list"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- JS Modules -->
+  <script src="js/datasets.js"></script>
+  <script src="js/data_processor.js"></script>
+  <script src="js/ml_engine.js"></script>
+  <script src="js/advanced_ml.js"></script>
+  <script src="js/neural_network.js"></script>
+  <script src="js/decision_tree.js"></script>
+  <script src="js/hypothesis_engine.js"></script>
+  <script src="js/storyteller.js"></script>
+  <script src="js/pivot_builder.js"></script>
+  <script src="js/sql_engine.js"></script>
+  <script src="js/rfm_engine.js"></script>
+  <script src="js/fraud_engine.js"></script>
+  <script src="js/pipeline_dag.js"></script>
+  <script src="js/schema_modeler.js"></script>
+  <script src="js/data_quality.js"></script>
+  <script src="js/data_lineage.js"></script>
+  <script src="js/mlflow_tracker.js"></script>
+  <script src="js/semantic_layer.js"></script>
+  <script src="js/cicd_runner.js"></script>
+  <script src="js/roi_ab_testing.js"></script>
+  <script src="js/text_to_sql.js"></script>
+  <script src="js/drift_monitor.js"></script>
+  <script src="js/security_rbac.js"></script>
+  <script src="js/xai_shap.js"></script>
+  <script src="js/reverse_etl.js"></script>
+  <script src="js/finops_sla.js"></script>
+  <script src="js/gdpr_compliance.js"></script>
+  <script src="js/data_health.js"></script>
+  <script src="js/automl.js"></script>
+  <script src="js/stream_simulator.js"></script>
+  <script src="js/ai_assistant.js"></script>
+  <script src="js/chart_builder.js"></script>
+  <script src="js/nlp_engine.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

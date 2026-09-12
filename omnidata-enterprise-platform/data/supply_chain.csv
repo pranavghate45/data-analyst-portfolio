@@ -1,0 +1,1201 @@
+Shipment_ID,Region,Carrier,Warehouse,Package_Weight_KG,Shipping_Cost_USD,Estimated_Days,Actual_Days,Delay_Days,On_Time_Delivery
+SHP-60000,Europe,UPS Global,WH-West,33.6,260.86,3,3,0,1
+SHP-60001,North America,UPS Global,WH-East,34.0,148.36,4,4,0,1
+SHP-60002,Europe,DHL Express,WH-South,30.0,187.88,10,10,0,1
+SHP-60003,Asia Pacific,DHL Express,WH-Central,17.7,108.57,8,8,0,1
+SHP-60004,Latin America,DHL Express,WH-South,2.2,22.4,5,5,0,1
+SHP-60005,Latin America,FedEx,WH-South,31.8,135.42,5,5,0,1
+SHP-60006,Europe,UPS Global,WH-Central,33.5,196.64,4,5,1,0
+SHP-60007,Asia Pacific,Regional Post,WH-South,17.7,78.64,9,12,3,0
+SHP-60008,North America,DHL Express,WH-West,17.4,122.5,7,7,0,1
+SHP-60009,Asia Pacific,DHL Express,WH-Central,4.8,46.54,7,7,0,1
+SHP-60010,Asia Pacific,DHL Express,WH-East,14.3,96.3,8,8,0,1
+SHP-60011,Asia Pacific,Regional Post,WH-Central,12.6,72.22,7,7,0,1
+SHP-60012,Latin America,Regional Post,WH-Central,16.9,143.75,3,3,0,1
+SHP-60013,North America,DHL Express,WH-Central,6.4,52.82,6,6,0,1
+SHP-60014,North America,Regional Post,WH-South,7.8,65.63,6,6,0,1
+SHP-60015,North America,Regional Post,WH-West,35.1,141.8,6,6,0,1
+SHP-60016,North America,FedEx,WH-Central,43.4,367.23,10,10,0,1
+SHP-60017,Latin America,Regional Post,WH-South,9.9,51.79,5,5,0,1
+SHP-60018,Europe,FedEx,WH-East,32.4,194.99,7,7,0,1
+SHP-60019,Europe,Regional Post,WH-East,22.8,141.77,9,9,0,1
+SHP-60020,Asia Pacific,FedEx,WH-Central,40.9,186.49,10,10,0,1
+SHP-60021,Asia Pacific,UPS Global,WH-Central,5.8,39.67,6,9,3,0
+SHP-60022,Asia Pacific,FedEx,WH-South,6.2,42.06,2,2,0,1
+SHP-60023,Asia Pacific,Regional Post,WH-East,19.5,104.37,3,3,0,1
+SHP-60024,Asia Pacific,UPS Global,WH-West,16.6,133.16,2,2,0,1
+SHP-60025,Latin America,FedEx,WH-West,35.3,190.63,9,9,0,1
+SHP-60026,North America,DHL Express,WH-Central,43.1,356.74,10,10,0,1
+SHP-60027,Latin America,FedEx,WH-Central,23.7,131.97,7,7,0,1
+SHP-60028,Europe,Regional Post,WH-Central,11.1,53.25,6,6,0,1
+SHP-60029,North America,UPS Global,WH-South,24.9,205.63,2,2,0,1
+SHP-60030,Europe,UPS Global,WH-Central,45.0,208.05,7,7,0,1
+SHP-60031,Latin America,DHL Express,WH-East,41.1,190.12,7,8,1,0
+SHP-60032,Latin America,FedEx,WH-South,24.7,133.18,4,4,0,1
+SHP-60033,North America,DHL Express,WH-Central,15.9,123.87,10,11,1,0
+SHP-60034,Asia Pacific,Regional Post,WH-East,18.1,91.31,6,6,0,1
+SHP-60035,Europe,DHL Express,WH-South,18.8,116.42,5,5,0,1
+SHP-60036,Latin America,DHL Express,WH-Central,33.5,206.87,5,5,0,1
+SHP-60037,North America,UPS Global,WH-Central,15.5,87.8,8,8,0,1
+SHP-60038,Europe,FedEx,WH-East,27.2,187.34,5,5,0,1
+SHP-60039,North America,DHL Express,WH-East,5.7,57.78,2,3,1,0
+SHP-60040,Europe,DHL Express,WH-East,42.6,309.41,10,10,0,1
+SHP-60041,North America,Regional Post,WH-South,41.3,291.18,8,8,0,1
+SHP-60042,Latin America,UPS Global,WH-West,37.1,305.43,8,9,1,0
+SHP-60043,Europe,FedEx,WH-East,30.0,186.14,6,6,0,1
+SHP-60044,North America,DHL Express,WH-Central,2.9,26.31,5,9,4,0
+SHP-60045,Asia Pacific,Regional Post,WH-West,23.4,124.9,7,7,0,1
+SHP-60046,Latin America,FedEx,WH-Central,32.6,128.04,7,7,0,1
+SHP-60047,Asia Pacific,UPS Global,WH-South,7.3,38.16,5,5,0,1
+SHP-60048,Europe,DHL Express,WH-East,41.1,273.36,8,8,0,1
+SHP-60049,Latin America,DHL Express,WH-East,22.4,143.83,7,7,0,1
+SHP-60050,Asia Pacific,UPS Global,WH-East,15.9,114.43,3,3,0,1
+SHP-60051,Latin America,Regional Post,WH-East,13.9,85.88,8,8,0,1
+SHP-60052,Latin America,Regional Post,WH-South,34.4,132.9,6,6,0,1
+SHP-60053,North America,DHL Express,WH-East,22.8,97.52,4,4,0,1
+SHP-60054,Latin America,UPS Global,WH-East,9.5,59.61,9,13,4,0
+SHP-60055,Asia Pacific,Regional Post,WH-Central,6.7,40.18,7,7,0,1
+SHP-60056,North America,Regional Post,WH-South,34.1,281.18,2,2,0,1
+SHP-60057,Europe,Regional Post,WH-West,44.6,254.06,8,8,0,1
+SHP-60058,Europe,UPS Global,WH-West,38.2,243.85,3,3,0,1
+SHP-60059,North America,DHL Express,WH-East,8.0,46.65,3,3,0,1
+SHP-60060,Latin America,Regional Post,WH-South,35.7,202.24,8,8,0,1
+SHP-60061,Europe,UPS Global,WH-Central,44.0,263.37,9,9,0,1
+SHP-60062,Europe,UPS Global,WH-Central,8.3,59.93,4,4,0,1
+SHP-60063,Latin America,UPS Global,WH-West,4.0,39.34,6,8,2,0
+SHP-60064,Asia Pacific,Regional Post,WH-East,9.5,66.68,8,9,1,0
+SHP-60065,Asia Pacific,DHL Express,WH-West,17.6,93.08,10,10,0,1
+SHP-60066,Europe,Regional Post,WH-Central,4.4,34.65,7,8,1,0
+SHP-60067,Europe,FedEx,WH-East,27.4,175.04,2,5,3,0
+SHP-60068,Europe,UPS Global,WH-West,41.0,260.84,4,4,0,1
+SHP-60069,Asia Pacific,Regional Post,WH-West,12.9,112.3,8,8,0,1
+SHP-60070,Asia Pacific,Regional Post,WH-Central,21.9,147.25,7,7,0,1
+SHP-60071,Europe,DHL Express,WH-East,1.1,20.76,7,7,0,1
+SHP-60072,North America,DHL Express,WH-Central,39.8,260.71,10,10,0,1
+SHP-60073,Europe,FedEx,WH-South,36.0,261.21,10,10,0,1
+SHP-60074,North America,FedEx,WH-West,7.1,68.18,3,4,1,0
+SHP-60075,Asia Pacific,FedEx,WH-West,14.9,82.67,6,6,0,1
+SHP-60076,North America,FedEx,WH-East,21.4,141.8,3,5,2,0
+SHP-60077,North America,FedEx,WH-West,12.9,60.42,9,10,1,0
+SHP-60078,Asia Pacific,DHL Express,WH-Central,8.5,50.65,7,7,0,1
+SHP-60079,Asia Pacific,UPS Global,WH-Central,44.6,327.1,3,3,0,1
+SHP-60080,Latin America,FedEx,WH-West,0.7,15.79,6,6,0,1
+SHP-60081,Latin America,Regional Post,WH-Central,20.5,92.46,7,7,0,1
+SHP-60082,North America,Regional Post,WH-South,42.0,350.15,7,8,1,0
+SHP-60083,North America,Regional Post,WH-West,35.3,199.74,4,4,0,1
+SHP-60084,North America,DHL Express,WH-South,39.1,204.72,9,9,0,1
+SHP-60085,Europe,FedEx,WH-West,27.5,235.55,6,10,4,0
+SHP-60086,Latin America,UPS Global,WH-East,17.6,139.16,3,3,0,1
+SHP-60087,North America,UPS Global,WH-Central,38.6,152.16,7,7,0,1
+SHP-60088,North America,UPS Global,WH-West,1.3,22.56,9,9,0,1
+SHP-60089,Latin America,DHL Express,WH-East,38.8,260.06,10,10,0,1
+SHP-60090,Latin America,UPS Global,WH-East,10.6,54.35,9,11,2,0
+SHP-60091,Latin America,DHL Express,WH-Central,20.4,108.42,3,3,0,1
+SHP-60092,Latin America,DHL Express,WH-South,39.7,231.85,2,2,0,1
+SHP-60093,Latin America,Regional Post,WH-South,36.6,234.17,7,8,1,0
+SHP-60094,Europe,DHL Express,WH-West,43.5,367.39,7,8,1,0
+SHP-60095,Latin America,UPS Global,WH-East,3.4,37.66,6,6,0,1
+SHP-60096,North America,UPS Global,WH-East,18.3,143.58,10,10,0,1
+SHP-60097,North America,DHL Express,WH-South,30.7,230.37,9,9,0,1
+SHP-60098,Latin America,FedEx,WH-Central,23.3,99.64,7,7,0,1
+SHP-60099,Latin America,Regional Post,WH-South,17.2,125.46,8,8,0,1
+SHP-60100,Asia Pacific,DHL Express,WH-West,9.0,85.28,5,5,0,1
+SHP-60101,Asia Pacific,FedEx,WH-South,25.4,174.08,8,8,0,1
+SHP-60102,Asia Pacific,Regional Post,WH-East,43.5,330.5,7,7,0,1
+SHP-60103,North America,DHL Express,WH-South,24.8,132.87,3,3,0,1
+SHP-60104,Europe,UPS Global,WH-East,8.2,60.71,9,9,0,1
+SHP-60105,Europe,DHL Express,WH-West,24.4,200.86,9,9,0,1
+SHP-60106,North America,UPS Global,WH-East,26.0,209.85,4,4,0,1
+SHP-60107,Latin America,FedEx,WH-West,7.2,63.62,7,8,1,0
+SHP-60108,North America,DHL Express,WH-Central,9.4,76.52,4,4,0,1
+SHP-60109,Europe,DHL Express,WH-South,18.2,107.23,6,6,0,1
+SHP-60110,North America,UPS Global,WH-South,10.0,47.78,9,9,0,1
+SHP-60111,Asia Pacific,UPS Global,WH-East,42.7,315.58,10,12,2,0
+SHP-60112,Europe,UPS Global,WH-East,38.6,314.58,2,3,1,0
+SHP-60113,Latin America,Regional Post,WH-West,26.5,121.64,3,3,0,1
+SHP-60114,North America,Regional Post,WH-West,20.6,143.72,2,4,2,0
+SHP-60115,Latin America,FedEx,WH-East,7.9,66.73,10,10,0,1
+SHP-60116,Europe,FedEx,WH-South,25.5,204.94,9,10,1,0
+SHP-60117,Latin America,Regional Post,WH-East,38.8,205.43,4,4,0,1
+SHP-60118,Asia Pacific,FedEx,WH-Central,13.1,63.22,4,4,0,1
+SHP-60119,Europe,FedEx,WH-East,1.5,18.76,8,8,0,1
+SHP-60120,Asia Pacific,DHL Express,WH-East,26.7,230.81,7,7,0,1
+SHP-60121,Asia Pacific,FedEx,WH-South,1.6,22.03,5,7,2,0
+SHP-60122,North America,DHL Express,WH-West,35.0,165.44,9,11,2,0
+SHP-60123,Europe,DHL Express,WH-Central,33.7,178.6,2,2,0,1
+SHP-60124,Europe,Regional Post,WH-Central,31.0,207.78,8,8,0,1
+SHP-60125,North America,Regional Post,WH-Central,23.0,165.99,6,6,0,1
+SHP-60126,Latin America,UPS Global,WH-West,8.1,46.86,10,10,0,1
+SHP-60127,Asia Pacific,FedEx,WH-Central,0.9,16.87,9,10,1,0
+SHP-60128,Latin America,UPS Global,WH-West,17.7,141.75,10,10,0,1
+SHP-60129,Asia Pacific,DHL Express,WH-South,19.9,89.59,4,4,0,1
+SHP-60130,North America,Regional Post,WH-East,36.6,167.1,6,6,0,1
+SHP-60131,North America,DHL Express,WH-East,31.2,128.94,8,8,0,1
+SHP-60132,Latin America,FedEx,WH-South,33.2,142.61,10,10,0,1
+SHP-60133,North America,FedEx,WH-East,17.4,78.58,6,6,0,1
+SHP-60134,Europe,UPS Global,WH-Central,10.0,74.5,6,7,1,0
+SHP-60135,Latin America,Regional Post,WH-Central,7.1,55.98,8,8,0,1
+SHP-60136,Latin America,FedEx,WH-Central,35.7,264.36,4,4,0,1
+SHP-60137,Europe,DHL Express,WH-South,2.2,29.16,6,6,0,1
+SHP-60138,Europe,Regional Post,WH-Central,41.9,302.7,9,10,1,0
+SHP-60139,Latin America,Regional Post,WH-West,13.0,66.55,3,7,4,0
+SHP-60140,North America,UPS Global,WH-East,21.1,141.22,3,3,0,1
+SHP-60141,Latin America,Regional Post,WH-Central,27.1,212.04,2,2,0,1
+SHP-60142,Europe,FedEx,WH-Central,8.2,45.11,5,5,0,1
+SHP-60143,Europe,UPS Global,WH-South,3.0,31.91,6,6,0,1
+SHP-60144,Europe,FedEx,WH-West,14.5,93.08,3,3,0,1
+SHP-60145,Asia Pacific,DHL Express,WH-East,13.0,88.11,7,7,0,1
+SHP-60146,Asia Pacific,DHL Express,WH-Central,10.4,62.13,7,7,0,1
+SHP-60147,Latin America,Regional Post,WH-West,27.4,118.14,10,10,0,1
+SHP-60148,North America,Regional Post,WH-West,11.2,100.37,9,9,0,1
+SHP-60149,Latin America,UPS Global,WH-South,14.5,90.33,7,7,0,1
+SHP-60150,Latin America,Regional Post,WH-South,17.3,148.62,6,6,0,1
+SHP-60151,North America,FedEx,WH-Central,31.8,138.72,6,6,0,1
+SHP-60152,Europe,FedEx,WH-Central,35.2,161.9,8,8,0,1
+SHP-60153,Asia Pacific,UPS Global,WH-West,31.7,252.91,6,6,0,1
+SHP-60154,Asia Pacific,FedEx,WH-East,14.1,67.65,2,3,1,0
+SHP-60155,Asia Pacific,DHL Express,WH-East,15.4,102.25,10,11,1,0
+SHP-60156,Asia Pacific,Regional Post,WH-East,14.9,110.8,10,10,0,1
+SHP-60157,Latin America,Regional Post,WH-Central,9.6,66.23,2,3,1,0
+SHP-60158,Europe,UPS Global,WH-East,1.3,16.85,7,10,3,0
+SHP-60159,Asia Pacific,DHL Express,WH-West,45.0,227.11,7,10,3,0
+SHP-60160,Asia Pacific,DHL Express,WH-West,32.8,220.47,6,8,2,0
+SHP-60161,North America,UPS Global,WH-Central,0.6,14.64,3,5,2,0
+SHP-60162,North America,UPS Global,WH-Central,41.0,224.25,7,7,0,1
+SHP-60163,Europe,UPS Global,WH-East,27.5,165.05,8,8,0,1
+SHP-60164,Asia Pacific,FedEx,WH-South,36.6,160.41,3,4,1,0
+SHP-60165,North America,FedEx,WH-West,24.9,177.63,4,4,0,1
+SHP-60166,Europe,FedEx,WH-South,3.7,29.94,3,3,0,1
+SHP-60167,Europe,DHL Express,WH-South,15.5,88.95,10,10,0,1
+SHP-60168,Asia Pacific,Regional Post,WH-South,42.8,238.12,3,3,0,1
+SHP-60169,Latin America,DHL Express,WH-West,5.9,38.44,6,6,0,1
+SHP-60170,Europe,UPS Global,WH-Central,28.4,191.33,9,9,0,1
+SHP-60171,North America,FedEx,WH-East,9.5,83.73,3,3,0,1
+SHP-60172,Europe,UPS Global,WH-West,11.9,90.92,8,8,0,1
+SHP-60173,Europe,DHL Express,WH-West,41.5,314.35,4,4,0,1
+SHP-60174,Asia Pacific,UPS Global,WH-East,34.5,133.11,6,6,0,1
+SHP-60175,North America,FedEx,WH-East,15.8,140.48,6,6,0,1
+SHP-60176,Asia Pacific,UPS Global,WH-South,17.1,121.61,8,8,0,1
+SHP-60177,North America,Regional Post,WH-Central,23.4,195.24,5,5,0,1
+SHP-60178,Europe,FedEx,WH-South,40.9,208.07,9,9,0,1
+SHP-60179,North America,DHL Express,WH-South,30.0,171.5,10,14,4,0
+SHP-60180,Asia Pacific,FedEx,WH-South,25.4,216.77,8,8,0,1
+SHP-60181,Asia Pacific,Regional Post,WH-East,41.6,158.49,5,7,2,0
+SHP-60182,North America,Regional Post,WH-West,25.7,217.39,10,15,5,0
+SHP-60183,Europe,Regional Post,WH-South,18.5,93.6,5,5,0,1
+SHP-60184,Latin America,FedEx,WH-South,11.5,81.7,9,10,1,0
+SHP-60185,North America,DHL Express,WH-West,4.2,30.59,7,7,0,1
+SHP-60186,Europe,FedEx,WH-Central,7.7,55.05,4,4,0,1
+SHP-60187,Europe,DHL Express,WH-Central,39.9,220.65,8,8,0,1
+SHP-60188,Latin America,UPS Global,WH-Central,21.0,175.75,8,8,0,1
+SHP-60189,Europe,UPS Global,WH-South,23.8,199.8,4,6,2,0
+SHP-60190,Europe,FedEx,WH-Central,35.0,201.28,10,12,2,0
+SHP-60191,Europe,FedEx,WH-South,1.7,23.54,8,9,1,0
+SHP-60192,Europe,DHL Express,WH-West,26.5,163.32,10,10,0,1
+SHP-60193,Latin America,UPS Global,WH-Central,35.7,271.97,8,8,0,1
+SHP-60194,North America,FedEx,WH-East,29.4,230.82,10,10,0,1
+SHP-60195,Latin America,UPS Global,WH-West,21.6,171.48,6,6,0,1
+SHP-60196,North America,FedEx,WH-South,13.6,121.67,6,6,0,1
+SHP-60197,Europe,Regional Post,WH-South,6.1,54.37,7,7,0,1
+SHP-60198,North America,UPS Global,WH-East,37.4,182.86,6,7,1,0
+SHP-60199,Europe,DHL Express,WH-East,24.6,213.42,6,8,2,0
+SHP-60200,Asia Pacific,Regional Post,WH-East,25.3,215.65,3,3,0,1
+SHP-60201,Latin America,DHL Express,WH-South,29.4,163.66,10,11,1,0
+SHP-60202,Asia Pacific,UPS Global,WH-West,42.9,358.31,10,10,0,1
+SHP-60203,Asia Pacific,UPS Global,WH-Central,27.7,120.86,4,4,0,1
+SHP-60204,Asia Pacific,DHL Express,WH-West,5.4,51.89,9,9,0,1
+SHP-60205,Asia Pacific,Regional Post,WH-Central,43.1,314.87,5,5,0,1
+SHP-60206,North America,FedEx,WH-South,1.6,21.05,4,5,1,0
+SHP-60207,North America,FedEx,WH-Central,1.5,22.79,4,8,4,0
+SHP-60208,North America,FedEx,WH-Central,23.4,179.74,9,9,0,1
+SHP-60209,Asia Pacific,DHL Express,WH-South,28.7,207.16,7,7,0,1
+SHP-60210,Asia Pacific,Regional Post,WH-West,10.9,89.36,3,3,0,1
+SHP-60211,Asia Pacific,UPS Global,WH-West,38.3,254.1,9,9,0,1
+SHP-60212,North America,FedEx,WH-Central,28.6,218.73,6,6,0,1
+SHP-60213,Asia Pacific,UPS Global,WH-Central,6.6,61.2,7,12,5,0
+SHP-60214,Latin America,FedEx,WH-East,8.8,63.64,8,8,0,1
+SHP-60215,Europe,UPS Global,WH-West,20.8,167.29,8,8,0,1
+SHP-60216,Europe,FedEx,WH-East,0.7,14.69,3,3,0,1
+SHP-60217,Asia Pacific,UPS Global,WH-South,35.9,169.53,7,7,0,1
+SHP-60218,North America,Regional Post,WH-South,6.1,58.45,8,8,0,1
+SHP-60219,Latin America,UPS Global,WH-South,9.6,58.35,9,10,1,0
+SHP-60220,Europe,Regional Post,WH-South,11.3,97.15,8,8,0,1
+SHP-60221,North America,FedEx,WH-South,28.4,172.13,3,3,0,1
+SHP-60222,Asia Pacific,UPS Global,WH-East,15.3,135.11,3,3,0,1
+SHP-60223,Latin America,UPS Global,WH-Central,8.6,62.59,9,9,0,1
+SHP-60224,North America,Regional Post,WH-West,21.1,173.78,2,5,3,0
+SHP-60225,North America,DHL Express,WH-Central,39.0,321.22,10,11,1,0
+SHP-60226,North America,FedEx,WH-Central,4.4,29.19,6,6,0,1
+SHP-60227,Latin America,UPS Global,WH-Central,1.2,21.64,2,2,0,1
+SHP-60228,North America,Regional Post,WH-Central,42.7,361.54,2,2,0,1
+SHP-60229,Latin America,DHL Express,WH-West,30.8,152.91,6,6,0,1
+SHP-60230,North America,DHL Express,WH-Central,38.1,204.19,7,10,3,0
+SHP-60231,North America,FedEx,WH-South,25.4,182.03,4,5,1,0
+SHP-60232,North America,DHL Express,WH-West,41.6,332.36,5,5,0,1
+SHP-60233,Europe,DHL Express,WH-East,34.7,237.44,7,7,0,1
+SHP-60234,North America,UPS Global,WH-West,7.0,61.36,5,7,2,0
+SHP-60235,North America,Regional Post,WH-East,31.1,257.28,3,3,0,1
+SHP-60236,Europe,Regional Post,WH-South,17.5,111.7,10,10,0,1
+SHP-60237,Latin America,DHL Express,WH-South,2.9,26.83,2,2,0,1
+SHP-60238,Asia Pacific,DHL Express,WH-Central,4.7,40.39,4,4,0,1
+SHP-60239,Asia Pacific,DHL Express,WH-East,29.8,217.86,2,2,0,1
+SHP-60240,North America,UPS Global,WH-West,41.1,347.6,5,5,0,1
+SHP-60241,Europe,FedEx,WH-Central,19.8,113.96,7,7,0,1
+SHP-60242,North America,DHL Express,WH-West,42.0,174.58,10,10,0,1
+SHP-60243,North America,FedEx,WH-South,33.1,215.95,8,8,0,1
+SHP-60244,Europe,UPS Global,WH-West,21.5,141.49,8,8,0,1
+SHP-60245,Asia Pacific,Regional Post,WH-East,32.4,187.72,6,7,1,0
+SHP-60246,Asia Pacific,Regional Post,WH-East,43.3,336.95,3,3,0,1
+SHP-60247,Latin America,Regional Post,WH-Central,25.7,123.74,5,5,0,1
+SHP-60248,Asia Pacific,UPS Global,WH-Central,27.9,110.3,10,11,1,0
+SHP-60249,Asia Pacific,UPS Global,WH-East,33.2,154.51,5,7,2,0
+SHP-60250,Latin America,DHL Express,WH-Central,29.7,231.0,2,2,0,1
+SHP-60251,Europe,Regional Post,WH-East,37.9,322.52,10,11,1,0
+SHP-60252,North America,DHL Express,WH-East,35.4,284.84,10,11,1,0
+SHP-60253,Europe,Regional Post,WH-East,5.5,32.39,9,10,1,0
+SHP-60254,Asia Pacific,UPS Global,WH-Central,11.9,101.59,5,5,0,1
+SHP-60255,Europe,UPS Global,WH-South,21.4,95.89,3,3,0,1
+SHP-60256,Asia Pacific,DHL Express,WH-East,0.8,15.82,4,4,0,1
+SHP-60257,Europe,DHL Express,WH-South,15.7,73.48,8,11,3,0
+SHP-60258,North America,DHL Express,WH-East,24.2,154.98,10,10,0,1
+SHP-60259,Latin America,Regional Post,WH-Central,33.6,146.47,5,5,0,1
+SHP-60260,Latin America,FedEx,WH-West,8.5,56.48,8,8,0,1
+SHP-60261,Europe,DHL Express,WH-Central,25.6,144.32,10,10,0,1
+SHP-60262,North America,Regional Post,WH-West,6.9,49.65,3,3,0,1
+SHP-60263,North America,FedEx,WH-South,43.1,254.27,3,5,2,0
+SHP-60264,Asia Pacific,FedEx,WH-South,44.3,233.34,5,8,3,0
+SHP-60265,Asia Pacific,DHL Express,WH-Central,30.2,206.52,6,6,0,1
+SHP-60266,Asia Pacific,Regional Post,WH-South,6.5,52.7,10,10,0,1
+SHP-60267,North America,DHL Express,WH-West,4.8,49.82,2,2,0,1
+SHP-60268,North America,UPS Global,WH-Central,40.2,253.86,9,9,0,1
+SHP-60269,North America,UPS Global,WH-West,16.9,126.14,9,9,0,1
+SHP-60270,Latin America,Regional Post,WH-West,6.3,45.1,6,6,0,1
+SHP-60271,Latin America,DHL Express,WH-South,35.4,165.19,9,11,2,0
+SHP-60272,Latin America,FedEx,WH-West,25.0,141.89,3,3,0,1
+SHP-60273,North America,Regional Post,WH-South,8.5,57.11,8,8,0,1
+SHP-60274,Europe,Regional Post,WH-West,12.3,85.32,2,2,0,1
+SHP-60275,Asia Pacific,FedEx,WH-South,24.6,183.46,6,8,2,0
+SHP-60276,Latin America,UPS Global,WH-West,44.3,181.69,3,3,0,1
+SHP-60277,Europe,FedEx,WH-East,41.5,215.25,3,3,0,1
+SHP-60278,Asia Pacific,FedEx,WH-Central,43.1,270.62,7,7,0,1
+SHP-60279,Asia Pacific,DHL Express,WH-Central,14.4,73.79,2,2,0,1
+SHP-60280,Asia Pacific,UPS Global,WH-East,18.5,95.51,8,8,0,1
+SHP-60281,Latin America,UPS Global,WH-East,22.2,95.24,5,6,1,0
+SHP-60282,Asia Pacific,Regional Post,WH-Central,36.0,157.76,2,2,0,1
+SHP-60283,Latin America,DHL Express,WH-Central,39.3,289.4,2,2,0,1
+SHP-60284,Asia Pacific,Regional Post,WH-East,34.0,246.76,3,3,0,1
+SHP-60285,North America,DHL Express,WH-South,36.6,187.49,2,2,0,1
+SHP-60286,Europe,DHL Express,WH-South,39.3,176.5,8,8,0,1
+SHP-60287,Latin America,Regional Post,WH-South,10.5,79.31,10,10,0,1
+SHP-60288,Latin America,DHL Express,WH-East,33.3,240.38,2,2,0,1
+SHP-60289,Asia Pacific,UPS Global,WH-East,32.2,229.09,7,10,3,0
+SHP-60290,Europe,DHL Express,WH-West,20.1,150.32,7,7,0,1
+SHP-60291,North America,Regional Post,WH-South,3.2,32.0,10,11,1,0
+SHP-60292,Latin America,FedEx,WH-East,44.9,332.02,6,6,0,1
+SHP-60293,Asia Pacific,UPS Global,WH-South,4.0,30.11,7,7,0,1
+SHP-60294,Latin America,FedEx,WH-Central,25.2,110.87,2,2,0,1
+SHP-60295,Asia Pacific,FedEx,WH-South,39.6,332.71,8,8,0,1
+SHP-60296,Asia Pacific,FedEx,WH-West,0.8,16.89,3,3,0,1
+SHP-60297,Latin America,Regional Post,WH-West,41.4,157.54,8,8,0,1
+SHP-60298,North America,DHL Express,WH-East,19.8,145.18,3,3,0,1
+SHP-60299,North America,Regional Post,WH-East,24.0,118.87,4,4,0,1
+SHP-60300,Latin America,UPS Global,WH-West,44.9,378.26,3,3,0,1
+SHP-60301,North America,DHL Express,WH-South,25.4,205.34,5,5,0,1
+SHP-60302,Asia Pacific,FedEx,WH-South,29.3,138.9,3,5,2,0
+SHP-60303,Latin America,DHL Express,WH-East,6.3,35.93,4,4,0,1
+SHP-60304,Europe,FedEx,WH-South,9.7,48.01,8,8,0,1
+SHP-60305,Europe,Regional Post,WH-Central,42.7,207.04,9,9,0,1
+SHP-60306,Asia Pacific,DHL Express,WH-East,25.0,200.24,7,8,1,0
+SHP-60307,Asia Pacific,UPS Global,WH-East,9.1,60.33,6,6,0,1
+SHP-60308,Europe,FedEx,WH-East,42.1,260.77,6,6,0,1
+SHP-60309,Asia Pacific,FedEx,WH-West,37.1,198.3,6,6,0,1
+SHP-60310,Europe,UPS Global,WH-East,12.0,104.35,8,8,0,1
+SHP-60311,Europe,UPS Global,WH-Central,24.0,144.64,3,5,2,0
+SHP-60312,Europe,DHL Express,WH-Central,19.5,154.22,5,5,0,1
+SHP-60313,Europe,Regional Post,WH-West,42.4,299.2,8,8,0,1
+SHP-60314,North America,FedEx,WH-East,42.6,309.52,7,7,0,1
+SHP-60315,Europe,FedEx,WH-East,36.7,153.66,10,10,0,1
+SHP-60316,Europe,DHL Express,WH-South,26.5,131.31,5,6,1,0
+SHP-60317,North America,FedEx,WH-East,28.5,193.11,8,8,0,1
+SHP-60318,North America,FedEx,WH-East,38.7,297.09,10,11,1,0
+SHP-60319,North America,DHL Express,WH-Central,11.0,90.02,10,10,0,1
+SHP-60320,Europe,UPS Global,WH-East,16.6,112.45,9,9,0,1
+SHP-60321,Latin America,DHL Express,WH-South,18.6,120.37,2,2,0,1
+SHP-60322,Asia Pacific,UPS Global,WH-West,41.8,287.19,10,10,0,1
+SHP-60323,Latin America,UPS Global,WH-Central,1.8,24.44,4,4,0,1
+SHP-60324,Latin America,DHL Express,WH-West,26.2,203.14,7,7,0,1
+SHP-60325,Europe,UPS Global,WH-East,4.5,37.56,10,10,0,1
+SHP-60326,Europe,Regional Post,WH-West,29.3,198.11,3,4,1,0
+SHP-60327,Asia Pacific,Regional Post,WH-South,30.6,222.71,3,5,2,0
+SHP-60328,Asia Pacific,UPS Global,WH-Central,43.4,230.06,8,8,0,1
+SHP-60329,Europe,FedEx,WH-South,9.0,54.52,9,10,1,0
+SHP-60330,North America,Regional Post,WH-Central,44.1,349.38,8,8,0,1
+SHP-60331,North America,UPS Global,WH-Central,29.9,171.31,10,10,0,1
+SHP-60332,North America,UPS Global,WH-South,6.0,46.63,8,8,0,1
+SHP-60333,North America,FedEx,WH-West,29.8,232.03,7,7,0,1
+SHP-60334,Latin America,DHL Express,WH-South,41.5,258.88,7,10,3,0
+SHP-60335,Asia Pacific,DHL Express,WH-Central,13.3,85.74,6,6,0,1
+SHP-60336,Asia Pacific,Regional Post,WH-East,24.2,153.09,7,7,0,1
+SHP-60337,Asia Pacific,Regional Post,WH-South,23.8,109.84,5,5,0,1
+SHP-60338,North America,DHL Express,WH-South,42.5,350.91,2,3,1,0
+SHP-60339,North America,Regional Post,WH-South,12.7,82.57,6,6,0,1
+SHP-60340,North America,Regional Post,WH-East,14.8,87.26,2,6,4,0
+SHP-60341,Europe,FedEx,WH-West,36.8,304.13,6,6,0,1
+SHP-60342,Europe,DHL Express,WH-South,32.8,277.12,9,9,0,1
+SHP-60343,Latin America,FedEx,WH-East,22.8,146.08,5,5,0,1
+SHP-60344,North America,FedEx,WH-South,40.3,309.54,2,4,2,0
+SHP-60345,Asia Pacific,FedEx,WH-South,9.7,53.66,3,4,1,0
+SHP-60346,Asia Pacific,Regional Post,WH-South,23.4,154.17,8,8,0,1
+SHP-60347,Asia Pacific,FedEx,WH-East,33.9,144.62,10,10,0,1
+SHP-60348,Europe,Regional Post,WH-West,18.3,139.96,2,3,1,0
+SHP-60349,North America,UPS Global,WH-South,36.6,215.76,6,9,3,0
+SHP-60350,Europe,Regional Post,WH-East,29.3,245.99,3,3,0,1
+SHP-60351,North America,UPS Global,WH-West,33.4,216.86,4,4,0,1
+SHP-60352,Europe,UPS Global,WH-West,35.9,182.05,5,5,0,1
+SHP-60353,North America,Regional Post,WH-West,14.6,82.32,5,5,0,1
+SHP-60354,Asia Pacific,UPS Global,WH-South,5.4,52.07,9,9,0,1
+SHP-60355,Latin America,FedEx,WH-East,39.5,271.02,10,10,0,1
+SHP-60356,Europe,FedEx,WH-South,20.2,92.49,4,4,0,1
+SHP-60357,Asia Pacific,UPS Global,WH-Central,42.2,311.06,5,5,0,1
+SHP-60358,Latin America,Regional Post,WH-East,12.6,62.2,7,7,0,1
+SHP-60359,Latin America,DHL Express,WH-West,18.1,91.91,5,5,0,1
+SHP-60360,North America,Regional Post,WH-West,6.2,48.44,9,9,0,1
+SHP-60361,Asia Pacific,UPS Global,WH-East,38.0,195.5,3,3,0,1
+SHP-60362,Latin America,UPS Global,WH-South,18.6,77.5,8,8,0,1
+SHP-60363,Latin America,Regional Post,WH-West,37.1,240.58,4,4,0,1
+SHP-60364,Europe,Regional Post,WH-East,39.1,278.24,9,9,0,1
+SHP-60365,North America,Regional Post,WH-West,36.7,226.67,10,10,0,1
+SHP-60366,Europe,DHL Express,WH-East,5.3,49.41,8,8,0,1
+SHP-60367,Asia Pacific,DHL Express,WH-West,4.1,32.79,4,4,0,1
+SHP-60368,Latin America,UPS Global,WH-South,21.9,178.7,7,7,0,1
+SHP-60369,Europe,FedEx,WH-West,42.1,340.45,7,7,0,1
+SHP-60370,Latin America,Regional Post,WH-Central,22.8,151.36,2,2,0,1
+SHP-60371,Asia Pacific,UPS Global,WH-Central,21.8,106.84,2,8,6,0
+SHP-60372,Europe,FedEx,WH-Central,36.0,175.37,9,9,0,1
+SHP-60373,North America,UPS Global,WH-West,38.4,197.71,10,10,0,1
+SHP-60374,North America,DHL Express,WH-West,41.0,244.39,4,4,0,1
+SHP-60375,Europe,UPS Global,WH-East,35.3,267.3,8,8,0,1
+SHP-60376,Latin America,UPS Global,WH-South,10.4,81.99,7,8,1,0
+SHP-60377,North America,FedEx,WH-West,1.0,16.14,7,7,0,1
+SHP-60378,North America,UPS Global,WH-South,0.7,17.46,4,5,1,0
+SHP-60379,Europe,FedEx,WH-East,11.0,94.2,5,5,0,1
+SHP-60380,North America,DHL Express,WH-South,24.4,98.58,8,16,8,0
+SHP-60381,Europe,UPS Global,WH-Central,16.8,105.45,5,13,8,0
+SHP-60382,North America,DHL Express,WH-West,29.8,228.52,6,8,2,0
+SHP-60383,North America,FedEx,WH-East,28.4,223.99,2,2,0,1
+SHP-60384,Asia Pacific,Regional Post,WH-East,12.9,92.24,8,10,2,0
+SHP-60385,Latin America,UPS Global,WH-East,17.2,81.02,3,3,0,1
+SHP-60386,Europe,FedEx,WH-Central,5.5,48.59,4,4,0,1
+SHP-60387,Asia Pacific,DHL Express,WH-East,1.6,19.44,5,5,0,1
+SHP-60388,Europe,DHL Express,WH-West,25.8,179.61,4,4,0,1
+SHP-60389,Asia Pacific,DHL Express,WH-Central,44.2,269.51,7,7,0,1
+SHP-60390,Asia Pacific,DHL Express,WH-South,38.2,155.11,3,3,0,1
+SHP-60391,Asia Pacific,FedEx,WH-West,43.4,163.91,9,9,0,1
+SHP-60392,Asia Pacific,FedEx,WH-East,36.0,295.73,5,5,0,1
+SHP-60393,North America,UPS Global,WH-East,28.3,187.0,10,10,0,1
+SHP-60394,Latin America,Regional Post,WH-West,1.5,18.0,3,3,0,1
+SHP-60395,Europe,DHL Express,WH-South,31.2,267.77,3,3,0,1
+SHP-60396,North America,DHL Express,WH-Central,30.5,248.05,10,10,0,1
+SHP-60397,North America,Regional Post,WH-Central,30.1,171.17,4,4,0,1
+SHP-60398,North America,DHL Express,WH-West,28.6,206.94,5,5,0,1
+SHP-60399,Asia Pacific,FedEx,WH-West,27.6,125.57,4,12,8,0
+SHP-60400,Asia Pacific,Regional Post,WH-Central,18.8,142.35,3,3,0,1
+SHP-60401,Latin America,Regional Post,WH-East,40.3,180.01,6,6,0,1
+SHP-60402,North America,DHL Express,WH-West,1.5,24.14,9,11,2,0
+SHP-60403,Europe,FedEx,WH-Central,34.9,229.83,2,2,0,1
+SHP-60404,Europe,DHL Express,WH-South,25.2,202.84,10,10,0,1
+SHP-60405,Latin America,DHL Express,WH-West,42.4,324.88,4,4,0,1
+SHP-60406,Europe,UPS Global,WH-Central,2.5,20.91,8,8,0,1
+SHP-60407,Latin America,Regional Post,WH-Central,14.7,67.65,7,7,0,1
+SHP-60408,Europe,FedEx,WH-Central,36.0,182.31,3,3,0,1
+SHP-60409,North America,Regional Post,WH-East,13.4,111.09,10,11,1,0
+SHP-60410,North America,UPS Global,WH-South,43.9,236.11,8,10,2,0
+SHP-60411,North America,Regional Post,WH-West,26.4,125.53,10,12,2,0
+SHP-60412,Europe,UPS Global,WH-Central,10.5,75.62,5,6,1,0
+SHP-60413,Latin America,Regional Post,WH-West,9.8,48.62,4,4,0,1
+SHP-60414,North America,UPS Global,WH-West,2.4,24.5,6,7,1,0
+SHP-60415,Europe,UPS Global,WH-Central,2.8,28.87,7,7,0,1
+SHP-60416,Asia Pacific,DHL Express,WH-South,33.7,240.65,7,7,0,1
+SHP-60417,Asia Pacific,UPS Global,WH-Central,39.1,278.33,4,4,0,1
+SHP-60418,North America,UPS Global,WH-Central,14.7,82.13,3,4,1,0
+SHP-60419,North America,DHL Express,WH-South,40.1,259.84,6,6,0,1
+SHP-60420,Asia Pacific,UPS Global,WH-West,8.7,63.45,4,4,0,1
+SHP-60421,Asia Pacific,Regional Post,WH-Central,7.4,70.95,8,8,0,1
+SHP-60422,North America,UPS Global,WH-Central,37.1,201.32,6,6,0,1
+SHP-60423,Latin America,UPS Global,WH-East,39.7,187.75,10,10,0,1
+SHP-60424,North America,DHL Express,WH-Central,32.5,211.85,4,4,0,1
+SHP-60425,North America,UPS Global,WH-South,7.6,73.73,3,3,0,1
+SHP-60426,Latin America,UPS Global,WH-Central,17.9,149.61,8,8,0,1
+SHP-60427,North America,DHL Express,WH-Central,37.0,282.8,5,7,2,0
+SHP-60428,North America,DHL Express,WH-Central,18.1,100.47,9,9,0,1
+SHP-60429,Asia Pacific,UPS Global,WH-South,25.7,204.54,6,6,0,1
+SHP-60430,Latin America,FedEx,WH-Central,28.0,238.86,10,11,1,0
+SHP-60431,Latin America,FedEx,WH-Central,34.1,270.8,6,6,0,1
+SHP-60432,Latin America,DHL Express,WH-South,41.5,228.24,8,8,0,1
+SHP-60433,Latin America,Regional Post,WH-Central,1.1,16.95,8,8,0,1
+SHP-60434,Latin America,DHL Express,WH-South,5.7,33.44,8,8,0,1
+SHP-60435,Latin America,FedEx,WH-West,13.0,93.22,8,8,0,1
+SHP-60436,Europe,UPS Global,WH-Central,9.4,71.43,4,4,0,1
+SHP-60437,Asia Pacific,DHL Express,WH-Central,19.0,142.19,5,5,0,1
+SHP-60438,Asia Pacific,Regional Post,WH-South,28.6,121.4,5,5,0,1
+SHP-60439,North America,DHL Express,WH-East,43.0,354.24,8,8,0,1
+SHP-60440,North America,UPS Global,WH-West,13.1,119.3,2,5,3,0
+SHP-60441,North America,Regional Post,WH-Central,41.5,276.42,10,10,0,1
+SHP-60442,North America,Regional Post,WH-East,23.3,127.69,6,6,0,1
+SHP-60443,Latin America,Regional Post,WH-East,43.5,300.92,7,7,0,1
+SHP-60444,Latin America,UPS Global,WH-South,36.1,142.7,8,8,0,1
+SHP-60445,Europe,FedEx,WH-Central,6.3,57.15,8,9,1,0
+SHP-60446,Europe,DHL Express,WH-South,10.5,67.86,7,7,0,1
+SHP-60447,Latin America,Regional Post,WH-West,45.0,181.32,2,2,0,1
+SHP-60448,Europe,Regional Post,WH-South,34.2,280.72,5,5,0,1
+SHP-60449,Latin America,Regional Post,WH-East,42.4,251.98,8,8,0,1
+SHP-60450,Latin America,DHL Express,WH-South,11.9,103.87,4,4,0,1
+SHP-60451,Europe,FedEx,WH-Central,38.8,253.96,6,6,0,1
+SHP-60452,Asia Pacific,Regional Post,WH-West,12.4,70.7,3,3,0,1
+SHP-60453,Asia Pacific,FedEx,WH-South,4.8,46.85,3,4,1,0
+SHP-60454,Asia Pacific,Regional Post,WH-East,43.4,213.72,10,10,0,1
+SHP-60455,North America,Regional Post,WH-East,10.3,59.62,3,3,0,1
+SHP-60456,Latin America,Regional Post,WH-East,15.6,127.07,2,2,0,1
+SHP-60457,Asia Pacific,DHL Express,WH-West,24.7,143.2,8,8,0,1
+SHP-60458,Europe,UPS Global,WH-Central,19.0,129.58,3,3,0,1
+SHP-60459,Latin America,UPS Global,WH-South,10.0,79.56,2,2,0,1
+SHP-60460,North America,UPS Global,WH-Central,4.8,37.57,8,8,0,1
+SHP-60461,North America,FedEx,WH-East,18.2,103.75,10,11,1,0
+SHP-60462,Latin America,DHL Express,WH-East,13.4,91.33,2,2,0,1
+SHP-60463,North America,UPS Global,WH-South,40.3,341.6,10,10,0,1
+SHP-60464,Latin America,UPS Global,WH-Central,35.3,276.51,4,5,1,0
+SHP-60465,Latin America,DHL Express,WH-West,24.5,166.65,4,4,0,1
+SHP-60466,Europe,UPS Global,WH-Central,34.2,264.9,6,9,3,0
+SHP-60467,North America,UPS Global,WH-South,40.9,194.03,2,2,0,1
+SHP-60468,Asia Pacific,FedEx,WH-South,3.8,30.25,7,7,0,1
+SHP-60469,Latin America,FedEx,WH-Central,16.9,121.99,8,8,0,1
+SHP-60470,Asia Pacific,DHL Express,WH-West,23.5,103.51,5,5,0,1
+SHP-60471,Latin America,FedEx,WH-East,43.8,215.19,5,5,0,1
+SHP-60472,Asia Pacific,Regional Post,WH-West,18.1,140.35,7,7,0,1
+SHP-60473,North America,DHL Express,WH-Central,30.6,240.12,5,5,0,1
+SHP-60474,Latin America,FedEx,WH-West,9.5,59.62,4,4,0,1
+SHP-60475,Europe,FedEx,WH-Central,43.2,181.16,4,9,5,0
+SHP-60476,Latin America,UPS Global,WH-West,37.0,179.62,10,10,0,1
+SHP-60477,Latin America,FedEx,WH-South,34.6,261.24,10,10,0,1
+SHP-60478,Europe,UPS Global,WH-Central,18.4,145.44,7,7,0,1
+SHP-60479,Europe,DHL Express,WH-East,21.4,151.19,2,2,0,1
+SHP-60480,North America,Regional Post,WH-East,24.9,150.19,6,7,1,0
+SHP-60481,Asia Pacific,FedEx,WH-Central,16.7,121.88,9,9,0,1
+SHP-60482,Latin America,DHL Express,WH-Central,39.6,270.3,8,9,1,0
+SHP-60483,Latin America,DHL Express,WH-East,33.9,237.82,5,5,0,1
+SHP-60484,Europe,DHL Express,WH-West,9.0,53.14,8,8,0,1
+SHP-60485,Latin America,UPS Global,WH-South,10.7,99.0,10,11,1,0
+SHP-60486,North America,FedEx,WH-Central,1.8,24.43,6,6,0,1
+SHP-60487,North America,Regional Post,WH-West,23.1,159.1,10,10,0,1
+SHP-60488,Asia Pacific,FedEx,WH-Central,40.2,257.46,3,3,0,1
+SHP-60489,Latin America,FedEx,WH-West,3.7,26.08,6,6,0,1
+SHP-60490,Latin America,Regional Post,WH-Central,24.0,122.36,6,6,0,1
+SHP-60491,Latin America,Regional Post,WH-South,24.1,166.1,2,2,0,1
+SHP-60492,Latin America,FedEx,WH-South,1.2,21.28,9,9,0,1
+SHP-60493,Asia Pacific,Regional Post,WH-Central,10.8,83.49,2,2,0,1
+SHP-60494,Europe,UPS Global,WH-South,1.9,21.02,7,7,0,1
+SHP-60495,Asia Pacific,FedEx,WH-West,16.8,111.22,9,9,0,1
+SHP-60496,Europe,DHL Express,WH-East,26.4,133.36,10,12,2,0
+SHP-60497,Latin America,UPS Global,WH-West,0.8,15.25,8,8,0,1
+SHP-60498,North America,Regional Post,WH-Central,35.7,294.61,5,5,0,1
+SHP-60499,Asia Pacific,Regional Post,WH-South,34.4,286.8,2,2,0,1
+SHP-60500,Asia Pacific,FedEx,WH-South,2.3,25.61,8,8,0,1
+SHP-60501,Asia Pacific,UPS Global,WH-Central,28.6,203.76,5,5,0,1
+SHP-60502,North America,UPS Global,WH-West,41.9,239.59,6,6,0,1
+SHP-60503,North America,Regional Post,WH-South,22.9,119.88,9,9,0,1
+SHP-60504,North America,UPS Global,WH-Central,11.6,95.52,4,4,0,1
+SHP-60505,Europe,UPS Global,WH-East,13.3,58.97,9,10,1,0
+SHP-60506,North America,FedEx,WH-East,35.0,141.04,10,10,0,1
+SHP-60507,Latin America,Regional Post,WH-Central,36.2,149.85,6,6,0,1
+SHP-60508,Latin America,UPS Global,WH-South,3.3,25.16,9,9,0,1
+SHP-60509,Latin America,UPS Global,WH-East,1.8,21.69,5,5,0,1
+SHP-60510,Latin America,FedEx,WH-Central,19.3,164.08,2,4,2,0
+SHP-60511,Latin America,Regional Post,WH-Central,38.2,205.88,10,10,0,1
+SHP-60512,Latin America,Regional Post,WH-West,19.5,151.64,5,5,0,1
+SHP-60513,North America,DHL Express,WH-West,12.8,90.59,3,3,0,1
+SHP-60514,Asia Pacific,Regional Post,WH-Central,40.5,284.97,3,3,0,1
+SHP-60515,Asia Pacific,DHL Express,WH-South,23.3,169.17,9,9,0,1
+SHP-60516,Europe,DHL Express,WH-West,41.3,250.69,2,2,0,1
+SHP-60517,Latin America,DHL Express,WH-West,9.3,74.72,10,11,1,0
+SHP-60518,Europe,FedEx,WH-South,35.5,166.86,6,9,3,0
+SHP-60519,Latin America,UPS Global,WH-East,5.1,33.06,8,8,0,1
+SHP-60520,Latin America,DHL Express,WH-Central,3.6,29.14,9,9,0,1
+SHP-60521,North America,Regional Post,WH-West,5.7,40.41,5,5,0,1
+SHP-60522,Latin America,FedEx,WH-South,23.3,136.74,3,5,2,0
+SHP-60523,North America,FedEx,WH-West,31.0,161.37,6,6,0,1
+SHP-60524,North America,FedEx,WH-Central,29.9,242.78,10,10,0,1
+SHP-60525,Latin America,UPS Global,WH-West,17.2,96.89,10,10,0,1
+SHP-60526,Asia Pacific,FedEx,WH-East,13.8,109.68,6,6,0,1
+SHP-60527,Europe,Regional Post,WH-South,41.7,289.21,8,8,0,1
+SHP-60528,Europe,Regional Post,WH-South,25.4,110.0,7,7,0,1
+SHP-60529,Europe,FedEx,WH-Central,36.8,311.17,5,5,0,1
+SHP-60530,Europe,Regional Post,WH-West,8.9,50.39,8,8,0,1
+SHP-60531,North America,DHL Express,WH-Central,14.3,99.82,2,2,0,1
+SHP-60532,Europe,DHL Express,WH-Central,6.8,50.74,7,7,0,1
+SHP-60533,North America,FedEx,WH-East,14.5,130.18,10,10,0,1
+SHP-60534,Asia Pacific,UPS Global,WH-West,25.6,153.72,4,8,4,0
+SHP-60535,Europe,Regional Post,WH-East,2.1,25.02,8,8,0,1
+SHP-60536,Asia Pacific,FedEx,WH-East,28.5,216.99,4,4,0,1
+SHP-60537,Europe,UPS Global,WH-Central,10.2,67.59,4,4,0,1
+SHP-60538,Europe,DHL Express,WH-South,19.1,110.3,7,7,0,1
+SHP-60539,Latin America,Regional Post,WH-East,41.5,243.15,2,2,0,1
+SHP-60540,North America,DHL Express,WH-Central,43.7,345.55,9,9,0,1
+SHP-60541,Asia Pacific,FedEx,WH-West,44.3,328.46,9,9,0,1
+SHP-60542,Europe,Regional Post,WH-East,43.9,263.78,3,3,0,1
+SHP-60543,Asia Pacific,Regional Post,WH-East,31.1,225.78,9,9,0,1
+SHP-60544,North America,Regional Post,WH-Central,41.3,254.55,3,3,0,1
+SHP-60545,North America,Regional Post,WH-West,11.0,61.12,10,11,1,0
+SHP-60546,Latin America,DHL Express,WH-Central,21.7,123.1,8,8,0,1
+SHP-60547,Europe,DHL Express,WH-East,42.9,329.2,6,6,0,1
+SHP-60548,North America,UPS Global,WH-East,19.8,111.87,8,8,0,1
+SHP-60549,North America,DHL Express,WH-West,40.6,329.93,10,10,0,1
+SHP-60550,North America,UPS Global,WH-South,38.2,251.46,2,4,2,0
+SHP-60551,Asia Pacific,FedEx,WH-West,21.5,184.75,5,5,0,1
+SHP-60552,Latin America,FedEx,WH-West,5.4,52.92,6,6,0,1
+SHP-60553,North America,FedEx,WH-South,31.0,229.42,8,8,0,1
+SHP-60554,Europe,FedEx,WH-South,17.8,87.88,5,5,0,1
+SHP-60555,North America,DHL Express,WH-West,13.4,113.61,6,6,0,1
+SHP-60556,Latin America,Regional Post,WH-West,1.9,24.94,10,10,0,1
+SHP-60557,Europe,DHL Express,WH-East,25.0,123.25,8,8,0,1
+SHP-60558,Asia Pacific,FedEx,WH-Central,26.7,129.53,7,7,0,1
+SHP-60559,Europe,Regional Post,WH-West,22.7,186.05,6,6,0,1
+SHP-60560,Europe,UPS Global,WH-Central,31.0,250.71,10,10,0,1
+SHP-60561,North America,FedEx,WH-West,25.8,197.87,4,4,0,1
+SHP-60562,Europe,FedEx,WH-West,31.8,249.23,7,9,2,0
+SHP-60563,Latin America,DHL Express,WH-Central,41.6,213.44,6,9,3,0
+SHP-60564,Asia Pacific,Regional Post,WH-Central,16.2,82.63,3,3,0,1
+SHP-60565,Latin America,DHL Express,WH-South,2.0,26.99,6,6,0,1
+SHP-60566,North America,UPS Global,WH-East,1.1,18.28,3,3,0,1
+SHP-60567,Latin America,Regional Post,WH-South,33.9,248.5,8,8,0,1
+SHP-60568,North America,UPS Global,WH-Central,33.9,179.06,9,9,0,1
+SHP-60569,Europe,Regional Post,WH-Central,10.7,60.24,5,6,1,0
+SHP-60570,Asia Pacific,FedEx,WH-South,7.1,47.27,9,9,0,1
+SHP-60571,North America,FedEx,WH-West,17.3,120.65,3,6,3,0
+SHP-60572,Europe,Regional Post,WH-West,41.6,166.69,3,3,0,1
+SHP-60573,Asia Pacific,UPS Global,WH-West,38.9,284.26,2,3,1,0
+SHP-60574,North America,UPS Global,WH-West,23.1,178.02,9,10,1,0
+SHP-60575,Asia Pacific,DHL Express,WH-East,9.6,84.48,6,6,0,1
+SHP-60576,Latin America,Regional Post,WH-West,19.6,101.11,9,9,0,1
+SHP-60577,Europe,UPS Global,WH-South,3.6,30.2,5,8,3,0
+SHP-60578,Asia Pacific,UPS Global,WH-South,27.6,236.58,7,9,2,0
+SHP-60579,Asia Pacific,DHL Express,WH-Central,26.6,180.74,8,8,0,1
+SHP-60580,Europe,UPS Global,WH-South,28.7,246.84,9,9,0,1
+SHP-60581,Latin America,DHL Express,WH-East,29.7,121.48,3,3,0,1
+SHP-60582,North America,UPS Global,WH-West,20.1,134.88,3,3,0,1
+SHP-60583,Asia Pacific,DHL Express,WH-Central,21.6,132.41,5,6,1,0
+SHP-60584,North America,UPS Global,WH-Central,14.8,132.46,3,3,0,1
+SHP-60585,Europe,FedEx,WH-West,23.6,120.66,9,9,0,1
+SHP-60586,North America,Regional Post,WH-Central,38.3,299.08,10,10,0,1
+SHP-60587,Europe,Regional Post,WH-Central,22.3,100.11,10,10,0,1
+SHP-60588,Europe,FedEx,WH-East,31.1,170.69,7,7,0,1
+SHP-60589,Latin America,DHL Express,WH-South,14.6,101.13,3,3,0,1
+SHP-60590,Europe,DHL Express,WH-East,33.1,224.3,4,5,1,0
+SHP-60591,Latin America,FedEx,WH-East,19.2,117.84,4,4,0,1
+SHP-60592,Europe,Regional Post,WH-East,26.9,144.74,3,3,0,1
+SHP-60593,North America,FedEx,WH-West,27.1,132.48,10,10,0,1
+SHP-60594,Europe,Regional Post,WH-Central,34.2,271.88,4,4,0,1
+SHP-60595,North America,FedEx,WH-East,15.9,114.6,4,5,1,0
+SHP-60596,North America,Regional Post,WH-South,8.3,78.38,4,5,1,0
+SHP-60597,Latin America,FedEx,WH-South,24.1,110.79,2,2,0,1
+SHP-60598,Asia Pacific,FedEx,WH-South,2.7,22.32,3,3,0,1
+SHP-60599,North America,FedEx,WH-West,41.3,249.75,10,10,0,1
+SHP-60600,North America,DHL Express,WH-West,7.9,44.71,5,5,0,1
+SHP-60601,Latin America,UPS Global,WH-West,42.8,180.94,3,5,2,0
+SHP-60602,Asia Pacific,UPS Global,WH-West,40.9,164.2,7,7,0,1
+SHP-60603,North America,DHL Express,WH-East,27.5,201.79,3,3,0,1
+SHP-60604,Asia Pacific,DHL Express,WH-East,43.7,177.93,7,8,1,0
+SHP-60605,North America,FedEx,WH-West,32.8,179.77,3,3,0,1
+SHP-60606,Latin America,UPS Global,WH-East,44.5,205.75,9,9,0,1
+SHP-60607,Europe,DHL Express,WH-South,11.5,52.7,3,7,4,0
+SHP-60608,Latin America,DHL Express,WH-East,1.9,21.95,6,7,1,0
+SHP-60609,North America,Regional Post,WH-Central,34.0,141.26,7,7,0,1
+SHP-60610,Asia Pacific,FedEx,WH-Central,41.9,171.53,4,4,0,1
+SHP-60611,Europe,Regional Post,WH-West,13.9,117.31,2,2,0,1
+SHP-60612,Europe,FedEx,WH-Central,21.7,89.33,3,3,0,1
+SHP-60613,Europe,UPS Global,WH-South,9.0,70.85,6,6,0,1
+SHP-60614,Asia Pacific,UPS Global,WH-East,5.0,38.22,9,9,0,1
+SHP-60615,Latin America,DHL Express,WH-South,38.0,209.45,8,8,0,1
+SHP-60616,Latin America,FedEx,WH-South,3.7,39.75,8,8,0,1
+SHP-60617,Europe,DHL Express,WH-West,1.4,18.26,7,8,1,0
+SHP-60618,Europe,DHL Express,WH-Central,28.2,237.76,10,12,2,0
+SHP-60619,Latin America,DHL Express,WH-South,27.4,115.9,10,10,0,1
+SHP-60620,Latin America,UPS Global,WH-Central,3.2,29.8,10,10,0,1
+SHP-60621,Asia Pacific,FedEx,WH-Central,13.0,103.04,4,4,0,1
+SHP-60622,Europe,Regional Post,WH-West,27.1,150.64,10,12,2,0
+SHP-60623,Europe,FedEx,WH-Central,41.2,325.33,6,6,0,1
+SHP-60624,Asia Pacific,UPS Global,WH-West,26.0,206.17,4,4,0,1
+SHP-60625,Latin America,Regional Post,WH-East,9.0,66.06,8,10,2,0
+SHP-60626,North America,DHL Express,WH-East,9.6,50.86,9,9,0,1
+SHP-60627,North America,Regional Post,WH-South,30.1,191.55,4,4,0,1
+SHP-60628,Europe,DHL Express,WH-East,41.6,245.72,9,9,0,1
+SHP-60629,Asia Pacific,DHL Express,WH-East,27.5,108.94,8,8,0,1
+SHP-60630,Asia Pacific,DHL Express,WH-Central,18.7,111.22,8,11,3,0
+SHP-60631,North America,Regional Post,WH-East,42.2,337.84,7,7,0,1
+SHP-60632,Europe,Regional Post,WH-West,21.0,140.64,2,2,0,1
+SHP-60633,North America,UPS Global,WH-East,26.4,125.91,6,6,0,1
+SHP-60634,Latin America,DHL Express,WH-South,20.4,96.51,9,9,0,1
+SHP-60635,Latin America,FedEx,WH-East,25.8,104.11,5,5,0,1
+SHP-60636,Europe,DHL Express,WH-East,30.5,141.71,3,3,0,1
+SHP-60637,Latin America,UPS Global,WH-South,1.4,20.38,7,7,0,1
+SHP-60638,Europe,Regional Post,WH-Central,32.1,250.9,3,3,0,1
+SHP-60639,Latin America,UPS Global,WH-East,10.2,70.4,7,7,0,1
+SHP-60640,North America,DHL Express,WH-South,11.9,82.45,10,11,1,0
+SHP-60641,North America,DHL Express,WH-West,2.0,25.74,3,3,0,1
+SHP-60642,Europe,Regional Post,WH-West,2.6,29.16,8,8,0,1
+SHP-60643,Asia Pacific,Regional Post,WH-Central,30.7,134.45,10,10,0,1
+SHP-60644,Latin America,FedEx,WH-Central,1.2,16.35,9,10,1,0
+SHP-60645,Latin America,UPS Global,WH-West,38.4,265.31,3,3,0,1
+SHP-60646,North America,DHL Express,WH-East,39.5,335.28,10,11,1,0
+SHP-60647,Europe,DHL Express,WH-West,15.2,97.96,2,2,0,1
+SHP-60648,Europe,Regional Post,WH-South,32.5,199.67,8,8,0,1
+SHP-60649,North America,FedEx,WH-South,37.6,316.37,8,9,1,0
+SHP-60650,North America,FedEx,WH-Central,15.7,71.03,9,9,0,1
+SHP-60651,Europe,DHL Express,WH-South,43.1,195.17,8,8,0,1
+SHP-60652,Europe,UPS Global,WH-Central,14.2,80.03,4,4,0,1
+SHP-60653,Asia Pacific,UPS Global,WH-East,3.0,28.94,3,3,0,1
+SHP-60654,Latin America,Regional Post,WH-West,14.4,101.78,5,5,0,1
+SHP-60655,North America,Regional Post,WH-West,7.7,39.3,5,5,0,1
+SHP-60656,Latin America,UPS Global,WH-Central,10.9,50.32,3,4,1,0
+SHP-60657,Europe,Regional Post,WH-West,6.4,51.61,9,9,0,1
+SHP-60658,Europe,UPS Global,WH-South,21.6,156.73,2,2,0,1
+SHP-60659,Latin America,FedEx,WH-Central,16.7,76.68,3,3,0,1
+SHP-60660,Latin America,DHL Express,WH-West,34.9,189.2,4,4,0,1
+SHP-60661,North America,DHL Express,WH-South,24.1,142.7,8,8,0,1
+SHP-60662,Latin America,UPS Global,WH-Central,1.9,20.29,3,3,0,1
+SHP-60663,Europe,Regional Post,WH-Central,26.4,160.39,8,9,1,0
+SHP-60664,North America,FedEx,WH-East,31.8,168.05,10,10,0,1
+SHP-60665,Latin America,Regional Post,WH-Central,3.8,31.58,4,4,0,1
+SHP-60666,North America,DHL Express,WH-West,26.4,151.36,5,5,0,1
+SHP-60667,North America,FedEx,WH-West,26.2,157.02,4,4,0,1
+SHP-60668,North America,DHL Express,WH-West,42.6,166.65,5,6,1,0
+SHP-60669,Asia Pacific,UPS Global,WH-West,22.5,112.49,9,9,0,1
+SHP-60670,Asia Pacific,Regional Post,WH-West,8.0,50.9,9,12,3,0
+SHP-60671,Asia Pacific,UPS Global,WH-Central,25.7,215.36,10,10,0,1
+SHP-60672,Latin America,Regional Post,WH-East,12.1,106.66,4,4,0,1
+SHP-60673,North America,Regional Post,WH-South,5.4,33.19,6,6,0,1
+SHP-60674,Europe,Regional Post,WH-West,42.3,194.56,9,9,0,1
+SHP-60675,Europe,UPS Global,WH-Central,42.3,303.88,6,6,0,1
+SHP-60676,Latin America,DHL Express,WH-West,2.7,27.05,3,3,0,1
+SHP-60677,North America,DHL Express,WH-South,35.7,167.37,4,5,1,0
+SHP-60678,Latin America,Regional Post,WH-South,31.4,264.71,5,6,1,0
+SHP-60679,Europe,DHL Express,WH-South,31.7,173.69,2,2,0,1
+SHP-60680,Asia Pacific,DHL Express,WH-Central,23.3,123.74,6,6,0,1
+SHP-60681,North America,DHL Express,WH-East,37.9,273.86,8,8,0,1
+SHP-60682,North America,Regional Post,WH-East,33.9,226.56,10,10,0,1
+SHP-60683,Latin America,FedEx,WH-East,1.8,24.15,5,5,0,1
+SHP-60684,North America,Regional Post,WH-West,3.6,30.9,10,11,1,0
+SHP-60685,Latin America,FedEx,WH-Central,2.5,24.06,6,6,0,1
+SHP-60686,Asia Pacific,DHL Express,WH-East,21.7,187.31,6,11,5,0
+SHP-60687,North America,Regional Post,WH-Central,16.6,92.95,5,6,1,0
+SHP-60688,Asia Pacific,DHL Express,WH-West,43.1,353.67,2,4,2,0
+SHP-60689,Asia Pacific,FedEx,WH-West,43.2,268.96,4,4,0,1
+SHP-60690,Europe,FedEx,WH-East,40.9,313.46,10,10,0,1
+SHP-60691,North America,Regional Post,WH-Central,40.1,302.32,2,2,0,1
+SHP-60692,Asia Pacific,FedEx,WH-West,17.7,118.59,6,10,4,0
+SHP-60693,Latin America,Regional Post,WH-East,43.1,290.72,5,6,1,0
+SHP-60694,Europe,UPS Global,WH-Central,40.8,209.59,9,9,0,1
+SHP-60695,Latin America,UPS Global,WH-South,7.1,65.69,5,7,2,0
+SHP-60696,Europe,Regional Post,WH-East,34.9,285.73,5,5,0,1
+SHP-60697,Latin America,UPS Global,WH-South,5.0,44.79,7,7,0,1
+SHP-60698,Asia Pacific,UPS Global,WH-East,37.0,179.58,10,10,0,1
+SHP-60699,North America,DHL Express,WH-West,13.4,116.22,4,6,2,0
+SHP-60700,Europe,Regional Post,WH-West,16.4,115.84,7,8,1,0
+SHP-60701,Europe,FedEx,WH-East,34.4,168.03,9,9,0,1
+SHP-60702,North America,DHL Express,WH-West,27.7,162.0,9,9,0,1
+SHP-60703,North America,UPS Global,WH-Central,15.8,124.49,6,8,2,0
+SHP-60704,Europe,Regional Post,WH-West,22.3,134.95,5,5,0,1
+SHP-60705,Asia Pacific,FedEx,WH-West,22.1,126.02,9,9,0,1
+SHP-60706,Europe,Regional Post,WH-Central,4.6,49.05,5,5,0,1
+SHP-60707,North America,DHL Express,WH-South,15.2,73.33,8,11,3,0
+SHP-60708,Latin America,Regional Post,WH-Central,37.8,150.5,9,11,2,0
+SHP-60709,North America,UPS Global,WH-East,29.5,146.18,5,5,0,1
+SHP-60710,Europe,FedEx,WH-Central,18.1,141.06,7,7,0,1
+SHP-60711,Asia Pacific,UPS Global,WH-East,34.4,141.3,5,5,0,1
+SHP-60712,North America,DHL Express,WH-West,20.1,159.98,4,5,1,0
+SHP-60713,Europe,FedEx,WH-East,4.2,45.31,5,5,0,1
+SHP-60714,Europe,FedEx,WH-South,35.0,140.97,8,8,0,1
+SHP-60715,Latin America,Regional Post,WH-West,0.5,14.88,8,8,0,1
+SHP-60716,Latin America,FedEx,WH-South,14.4,91.45,3,3,0,1
+SHP-60717,Asia Pacific,DHL Express,WH-East,43.7,191.39,10,11,1,0
+SHP-60718,Europe,UPS Global,WH-East,36.8,183.14,9,9,0,1
+SHP-60719,Europe,Regional Post,WH-Central,38.2,279.33,5,5,0,1
+SHP-60720,Europe,DHL Express,WH-East,38.0,274.62,2,2,0,1
+SHP-60721,Asia Pacific,FedEx,WH-West,8.1,63.21,8,8,0,1
+SHP-60722,North America,DHL Express,WH-South,17.4,145.2,3,3,0,1
+SHP-60723,Asia Pacific,DHL Express,WH-South,13.6,104.45,6,6,0,1
+SHP-60724,Asia Pacific,FedEx,WH-West,28.2,213.68,9,9,0,1
+SHP-60725,Latin America,DHL Express,WH-East,24.0,96.4,9,9,0,1
+SHP-60726,Latin America,DHL Express,WH-East,37.3,230.9,10,13,3,0
+SHP-60727,Europe,DHL Express,WH-West,31.4,161.36,9,12,3,0
+SHP-60728,North America,UPS Global,WH-West,25.5,164.65,5,5,0,1
+SHP-60729,North America,UPS Global,WH-Central,7.7,70.7,4,5,1,0
+SHP-60730,Latin America,DHL Express,WH-East,1.4,23.28,9,14,5,0
+SHP-60731,Europe,FedEx,WH-East,6.1,54.76,3,7,4,0
+SHP-60732,North America,DHL Express,WH-South,43.8,340.56,9,9,0,1
+SHP-60733,Asia Pacific,Regional Post,WH-East,13.0,98.69,4,4,0,1
+SHP-60734,Latin America,Regional Post,WH-South,38.1,221.76,5,5,0,1
+SHP-60735,Asia Pacific,UPS Global,WH-West,3.9,38.98,6,9,3,0
+SHP-60736,Latin America,UPS Global,WH-West,7.8,42.21,9,9,0,1
+SHP-60737,Europe,UPS Global,WH-East,21.9,127.56,4,6,2,0
+SHP-60738,Latin America,UPS Global,WH-East,26.4,138.3,6,6,0,1
+SHP-60739,Asia Pacific,FedEx,WH-East,22.6,189.1,6,6,0,1
+SHP-60740,Europe,Regional Post,WH-East,36.0,150.44,3,3,0,1
+SHP-60741,Latin America,Regional Post,WH-West,33.2,272.77,5,5,0,1
+SHP-60742,Europe,UPS Global,WH-South,17.1,92.85,5,5,0,1
+SHP-60743,North America,Regional Post,WH-East,5.1,34.93,10,10,0,1
+SHP-60744,North America,DHL Express,WH-West,25.8,202.18,10,10,0,1
+SHP-60745,Europe,FedEx,WH-West,30.7,242.72,7,7,0,1
+SHP-60746,Europe,FedEx,WH-Central,44.2,196.12,4,4,0,1
+SHP-60747,Europe,FedEx,WH-South,13.9,61.74,6,6,0,1
+SHP-60748,Europe,FedEx,WH-East,16.7,135.01,7,7,0,1
+SHP-60749,Latin America,Regional Post,WH-East,32.9,189.6,4,4,0,1
+SHP-60750,North America,Regional Post,WH-Central,11.1,59.85,2,2,0,1
+SHP-60751,Europe,FedEx,WH-East,11.6,58.07,8,9,1,0
+SHP-60752,North America,FedEx,WH-South,30.1,220.8,9,10,1,0
+SHP-60753,North America,DHL Express,WH-South,37.3,216.91,8,8,0,1
+SHP-60754,Latin America,UPS Global,WH-South,17.3,97.11,8,8,0,1
+SHP-60755,Latin America,UPS Global,WH-East,8.6,80.66,9,9,0,1
+SHP-60756,Latin America,UPS Global,WH-South,27.8,207.63,10,12,2,0
+SHP-60757,Asia Pacific,Regional Post,WH-South,11.3,67.21,9,9,0,1
+SHP-60758,Europe,DHL Express,WH-East,5.4,43.35,8,8,0,1
+SHP-60759,Asia Pacific,FedEx,WH-East,10.9,56.76,6,8,2,0
+SHP-60760,Asia Pacific,Regional Post,WH-Central,10.6,92.72,4,5,1,0
+SHP-60761,North America,UPS Global,WH-South,6.5,59.05,9,9,0,1
+SHP-60762,Europe,DHL Express,WH-East,7.0,61.07,5,5,0,1
+SHP-60763,North America,Regional Post,WH-South,25.6,103.73,2,2,0,1
+SHP-60764,Europe,DHL Express,WH-Central,39.7,184.63,10,10,0,1
+SHP-60765,North America,UPS Global,WH-Central,15.6,134.7,8,8,0,1
+SHP-60766,Latin America,DHL Express,WH-East,2.8,24.43,10,10,0,1
+SHP-60767,Asia Pacific,DHL Express,WH-South,17.8,148.96,8,12,4,0
+SHP-60768,Europe,DHL Express,WH-South,14.9,92.09,3,4,1,0
+SHP-60769,Asia Pacific,Regional Post,WH-West,22.0,117.18,3,3,0,1
+SHP-60770,North America,UPS Global,WH-West,11.0,73.76,10,10,0,1
+SHP-60771,North America,DHL Express,WH-East,25.8,143.66,7,8,1,0
+SHP-60772,Europe,UPS Global,WH-South,18.2,132.87,10,10,0,1
+SHP-60773,North America,FedEx,WH-West,40.0,308.29,5,5,0,1
+SHP-60774,Europe,Regional Post,WH-East,43.4,195.43,5,5,0,1
+SHP-60775,Latin America,DHL Express,WH-West,28.9,118.45,9,9,0,1
+SHP-60776,Europe,Regional Post,WH-South,37.3,150.15,3,3,0,1
+SHP-60777,Latin America,Regional Post,WH-East,20.5,142.16,6,6,0,1
+SHP-60778,Latin America,DHL Express,WH-East,15.5,109.36,5,5,0,1
+SHP-60779,Asia Pacific,FedEx,WH-Central,12.4,96.76,3,3,0,1
+SHP-60780,Latin America,DHL Express,WH-Central,28.0,134.57,10,10,0,1
+SHP-60781,Europe,Regional Post,WH-West,6.7,45.67,7,7,0,1
+SHP-60782,Asia Pacific,DHL Express,WH-Central,32.5,278.08,2,2,0,1
+SHP-60783,North America,Regional Post,WH-South,1.6,20.73,6,7,1,0
+SHP-60784,Latin America,DHL Express,WH-South,25.7,116.85,5,5,0,1
+SHP-60785,Asia Pacific,FedEx,WH-East,12.5,68.65,4,4,0,1
+SHP-60786,Latin America,UPS Global,WH-Central,12.4,77.23,10,10,0,1
+SHP-60787,Asia Pacific,Regional Post,WH-East,35.7,283.88,10,10,0,1
+SHP-60788,North America,UPS Global,WH-East,16.6,106.48,2,2,0,1
+SHP-60789,Asia Pacific,DHL Express,WH-South,29.6,238.74,2,2,0,1
+SHP-60790,North America,FedEx,WH-Central,20.1,88.21,2,3,1,0
+SHP-60791,Europe,FedEx,WH-Central,41.1,268.76,9,10,1,0
+SHP-60792,Latin America,Regional Post,WH-Central,27.6,214.43,2,2,0,1
+SHP-60793,North America,DHL Express,WH-West,38.0,266.34,9,9,0,1
+SHP-60794,Latin America,UPS Global,WH-South,0.8,15.97,10,10,0,1
+SHP-60795,North America,DHL Express,WH-South,15.7,72.07,6,6,0,1
+SHP-60796,Europe,UPS Global,WH-South,44.9,242.34,4,4,0,1
+SHP-60797,North America,Regional Post,WH-West,22.8,159.28,4,4,0,1
+SHP-60798,North America,UPS Global,WH-West,41.4,315.1,6,6,0,1
+SHP-60799,Latin America,Regional Post,WH-Central,39.9,191.12,10,10,0,1
+SHP-60800,North America,UPS Global,WH-Central,33.2,164.4,7,7,0,1
+SHP-60801,North America,DHL Express,WH-West,42.0,247.87,4,4,0,1
+SHP-60802,Latin America,DHL Express,WH-Central,6.0,36.78,4,4,0,1
+SHP-60803,Asia Pacific,UPS Global,WH-East,26.5,129.16,8,8,0,1
+SHP-60804,Europe,Regional Post,WH-West,4.5,32.44,6,6,0,1
+SHP-60805,Latin America,DHL Express,WH-South,23.3,172.35,4,4,0,1
+SHP-60806,Europe,DHL Express,WH-West,24.7,138.22,4,5,1,0
+SHP-60807,North America,DHL Express,WH-Central,42.1,327.24,3,5,2,0
+SHP-60808,Asia Pacific,Regional Post,WH-South,28.5,228.44,2,3,1,0
+SHP-60809,Europe,DHL Express,WH-West,1.3,20.59,7,7,0,1
+SHP-60810,Asia Pacific,UPS Global,WH-West,34.2,158.53,10,12,2,0
+SHP-60811,North America,FedEx,WH-West,24.3,176.57,10,10,0,1
+SHP-60812,Latin America,UPS Global,WH-East,12.2,111.55,9,9,0,1
+SHP-60813,Asia Pacific,FedEx,WH-South,10.2,89.75,4,6,2,0
+SHP-60814,Latin America,DHL Express,WH-South,28.8,193.81,10,12,2,0
+SHP-60815,Europe,UPS Global,WH-East,4.0,33.1,10,10,0,1
+SHP-60816,North America,Regional Post,WH-East,42.2,251.79,4,4,0,1
+SHP-60817,North America,Regional Post,WH-Central,28.4,196.99,2,2,0,1
+SHP-60818,Europe,DHL Express,WH-East,19.7,164.89,7,7,0,1
+SHP-60819,Asia Pacific,Regional Post,WH-Central,39.8,194.95,2,2,0,1
+SHP-60820,Latin America,DHL Express,WH-South,3.6,26.88,9,9,0,1
+SHP-60821,Europe,UPS Global,WH-Central,39.6,276.99,8,8,0,1
+SHP-60822,Latin America,DHL Express,WH-Central,35.1,283.42,3,3,0,1
+SHP-60823,Europe,FedEx,WH-East,42.1,333.26,6,6,0,1
+SHP-60824,Europe,UPS Global,WH-South,36.0,231.32,9,9,0,1
+SHP-60825,North America,Regional Post,WH-South,35.0,153.66,7,7,0,1
+SHP-60826,North America,DHL Express,WH-East,38.2,173.87,9,10,1,0
+SHP-60827,Latin America,Regional Post,WH-Central,16.5,139.5,9,9,0,1
+SHP-60828,Asia Pacific,UPS Global,WH-South,7.8,40.87,6,6,0,1
+SHP-60829,Latin America,UPS Global,WH-East,21.1,182.5,5,5,0,1
+SHP-60830,Europe,Regional Post,WH-West,15.8,111.07,2,2,0,1
+SHP-60831,Europe,UPS Global,WH-West,5.9,54.05,7,10,3,0
+SHP-60832,North America,DHL Express,WH-West,28.3,189.49,4,4,0,1
+SHP-60833,Asia Pacific,Regional Post,WH-East,10.2,51.7,2,2,0,1
+SHP-60834,North America,Regional Post,WH-South,39.1,164.57,3,6,3,0
+SHP-60835,Asia Pacific,UPS Global,WH-West,23.3,160.11,8,9,1,0
+SHP-60836,Asia Pacific,FedEx,WH-Central,32.8,259.65,10,10,0,1
+SHP-60837,Latin America,Regional Post,WH-West,37.3,298.85,2,4,2,0
+SHP-60838,Europe,Regional Post,WH-West,21.2,172.9,7,7,0,1
+SHP-60839,North America,DHL Express,WH-Central,3.3,31.9,2,2,0,1
+SHP-60840,Latin America,Regional Post,WH-West,10.0,67.06,4,4,0,1
+SHP-60841,Asia Pacific,UPS Global,WH-South,12.3,99.86,7,7,0,1
+SHP-60842,Latin America,UPS Global,WH-West,3.5,38.9,4,4,0,1
+SHP-60843,Latin America,Regional Post,WH-Central,38.2,178.5,7,7,0,1
+SHP-60844,North America,UPS Global,WH-East,8.3,55.6,4,4,0,1
+SHP-60845,Latin America,UPS Global,WH-West,35.3,271.49,6,6,0,1
+SHP-60846,North America,UPS Global,WH-South,36.9,213.48,6,6,0,1
+SHP-60847,Europe,Regional Post,WH-West,16.6,95.92,4,4,0,1
+SHP-60848,Europe,FedEx,WH-Central,1.8,25.52,5,6,1,0
+SHP-60849,North America,FedEx,WH-West,39.7,290.09,6,7,1,0
+SHP-60850,Asia Pacific,DHL Express,WH-East,2.6,31.35,5,5,0,1
+SHP-60851,North America,UPS Global,WH-West,30.4,202.61,2,2,0,1
+SHP-60852,Asia Pacific,DHL Express,WH-East,20.2,128.54,6,6,0,1
+SHP-60853,North America,FedEx,WH-West,6.8,53.9,3,4,1,0
+SHP-60854,Latin America,Regional Post,WH-East,30.9,145.87,6,6,0,1
+SHP-60855,North America,Regional Post,WH-West,35.9,259.39,10,10,0,1
+SHP-60856,Latin America,Regional Post,WH-West,27.6,169.84,8,8,0,1
+SHP-60857,Europe,DHL Express,WH-South,7.0,67.26,9,9,0,1
+SHP-60858,Europe,DHL Express,WH-West,22.0,170.22,2,2,0,1
+SHP-60859,Asia Pacific,Regional Post,WH-Central,8.4,61.12,5,6,1,0
+SHP-60860,Latin America,FedEx,WH-Central,23.3,173.42,5,5,0,1
+SHP-60861,Europe,UPS Global,WH-Central,32.9,155.04,10,10,0,1
+SHP-60862,Asia Pacific,UPS Global,WH-South,35.8,291.57,6,6,0,1
+SHP-60863,North America,FedEx,WH-West,41.0,176.78,7,7,0,1
+SHP-60864,North America,FedEx,WH-South,22.8,115.3,5,5,0,1
+SHP-60865,Europe,DHL Express,WH-Central,44.1,167.14,10,10,0,1
+SHP-60866,Latin America,Regional Post,WH-Central,2.0,20.25,10,10,0,1
+SHP-60867,North America,DHL Express,WH-South,28.3,191.51,3,3,0,1
+SHP-60868,Latin America,DHL Express,WH-Central,25.3,138.44,4,4,0,1
+SHP-60869,North America,DHL Express,WH-Central,33.2,153.5,7,7,0,1
+SHP-60870,Latin America,FedEx,WH-South,4.2,46.43,5,5,0,1
+SHP-60871,Latin America,FedEx,WH-West,37.9,179.2,4,4,0,1
+SHP-60872,North America,Regional Post,WH-East,36.1,272.27,5,5,0,1
+SHP-60873,Latin America,Regional Post,WH-East,36.0,269.06,8,8,0,1
+SHP-60874,North America,Regional Post,WH-South,35.5,235.36,10,10,0,1
+SHP-60875,Latin America,Regional Post,WH-East,34.2,142.01,10,11,1,0
+SHP-60876,Asia Pacific,Regional Post,WH-East,2.9,25.08,4,4,0,1
+SHP-60877,North America,FedEx,WH-South,3.8,38.28,4,5,1,0
+SHP-60878,Latin America,DHL Express,WH-South,34.1,204.87,3,3,0,1
+SHP-60879,Latin America,FedEx,WH-Central,43.4,290.58,10,10,0,1
+SHP-60880,Europe,Regional Post,WH-South,23.6,176.12,9,9,0,1
+SHP-60881,Asia Pacific,DHL Express,WH-Central,13.9,83.42,3,4,1,0
+SHP-60882,Europe,Regional Post,WH-South,39.5,237.49,3,4,1,0
+SHP-60883,Latin America,Regional Post,WH-East,40.9,287.89,10,10,0,1
+SHP-60884,Europe,Regional Post,WH-East,43.8,195.21,7,7,0,1
+SHP-60885,Europe,FedEx,WH-East,26.8,217.58,5,5,0,1
+SHP-60886,Latin America,UPS Global,WH-West,5.7,33.76,4,4,0,1
+SHP-60887,Latin America,DHL Express,WH-East,26.7,113.76,4,4,0,1
+SHP-60888,Europe,Regional Post,WH-South,14.5,107.62,7,8,1,0
+SHP-60889,Europe,Regional Post,WH-South,32.3,220.39,5,5,0,1
+SHP-60890,Europe,Regional Post,WH-Central,44.8,202.91,8,8,0,1
+SHP-60891,Latin America,FedEx,WH-East,4.4,46.52,5,5,0,1
+SHP-60892,Asia Pacific,FedEx,WH-Central,2.2,29.27,3,3,0,1
+SHP-60893,Latin America,FedEx,WH-South,18.3,98.36,10,10,0,1
+SHP-60894,Asia Pacific,Regional Post,WH-East,29.0,165.82,3,4,1,0
+SHP-60895,Latin America,Regional Post,WH-South,41.1,164.42,4,4,0,1
+SHP-60896,Latin America,FedEx,WH-Central,15.3,80.1,7,7,0,1
+SHP-60897,North America,DHL Express,WH-East,29.7,227.03,2,2,0,1
+SHP-60898,North America,DHL Express,WH-South,28.4,226.92,7,7,0,1
+SHP-60899,Europe,Regional Post,WH-West,30.9,141.52,4,4,0,1
+SHP-60900,Latin America,UPS Global,WH-East,15.4,119.33,6,10,4,0
+SHP-60901,Latin America,DHL Express,WH-West,21.9,116.86,8,8,0,1
+SHP-60902,Europe,UPS Global,WH-East,17.2,127.84,5,5,0,1
+SHP-60903,Asia Pacific,UPS Global,WH-Central,23.9,190.88,2,2,0,1
+SHP-60904,Europe,DHL Express,WH-South,28.9,122.0,7,7,0,1
+SHP-60905,North America,DHL Express,WH-South,20.5,113.18,7,7,0,1
+SHP-60906,Latin America,UPS Global,WH-West,13.3,59.96,10,10,0,1
+SHP-60907,Asia Pacific,DHL Express,WH-Central,34.1,236.5,7,7,0,1
+SHP-60908,North America,Regional Post,WH-Central,22.4,134.07,6,6,0,1
+SHP-60909,Europe,FedEx,WH-East,14.0,113.49,8,10,2,0
+SHP-60910,North America,UPS Global,WH-West,18.3,101.07,7,15,8,0
+SHP-60911,Latin America,DHL Express,WH-East,29.0,210.06,4,4,0,1
+SHP-60912,Asia Pacific,Regional Post,WH-South,39.5,265.1,8,8,0,1
+SHP-60913,Asia Pacific,FedEx,WH-Central,40.6,293.17,3,3,0,1
+SHP-60914,North America,UPS Global,WH-East,24.4,178.23,8,8,0,1
+SHP-60915,Latin America,DHL Express,WH-Central,18.6,90.39,3,3,0,1
+SHP-60916,Europe,Regional Post,WH-South,33.9,206.95,3,3,0,1
+SHP-60917,Latin America,Regional Post,WH-South,1.0,16.68,6,6,0,1
+SHP-60918,North America,Regional Post,WH-Central,29.8,148.16,2,3,1,0
+SHP-60919,Latin America,FedEx,WH-West,14.6,111.17,9,9,0,1
+SHP-60920,North America,FedEx,WH-East,27.0,198.75,3,5,2,0
+SHP-60921,Asia Pacific,FedEx,WH-Central,10.0,53.33,6,8,2,0
+SHP-60922,Latin America,Regional Post,WH-West,43.0,171.65,10,10,0,1
+SHP-60923,Latin America,Regional Post,WH-East,38.0,279.39,2,2,0,1
+SHP-60924,Asia Pacific,UPS Global,WH-East,3.6,25.91,3,3,0,1
+SHP-60925,North America,DHL Express,WH-Central,2.0,26.35,3,3,0,1
+SHP-60926,Asia Pacific,UPS Global,WH-Central,32.6,197.15,9,9,0,1
+SHP-60927,North America,UPS Global,WH-East,40.2,211.57,7,8,1,0
+SHP-60928,Latin America,Regional Post,WH-Central,33.0,206.13,10,14,4,0
+SHP-60929,North America,UPS Global,WH-Central,7.5,39.23,3,3,0,1
+SHP-60930,Asia Pacific,UPS Global,WH-South,12.8,62.44,5,5,0,1
+SHP-60931,North America,DHL Express,WH-West,8.0,42.92,6,6,0,1
+SHP-60932,Latin America,FedEx,WH-South,19.3,82.56,7,7,0,1
+SHP-60933,Asia Pacific,Regional Post,WH-Central,37.1,304.82,8,10,2,0
+SHP-60934,Latin America,DHL Express,WH-East,15.9,78.08,6,10,4,0
+SHP-60935,Europe,DHL Express,WH-East,31.9,187.53,8,9,1,0
+SHP-60936,Asia Pacific,Regional Post,WH-East,9.2,48.22,3,5,2,0
+SHP-60937,Europe,Regional Post,WH-Central,28.4,224.96,4,4,0,1
+SHP-60938,North America,Regional Post,WH-South,2.1,26.2,9,9,0,1
+SHP-60939,Asia Pacific,Regional Post,WH-East,16.6,131.44,7,7,0,1
+SHP-60940,Europe,UPS Global,WH-South,19.0,158.32,3,3,0,1
+SHP-60941,Asia Pacific,Regional Post,WH-Central,28.1,202.69,2,2,0,1
+SHP-60942,North America,DHL Express,WH-Central,27.0,204.56,2,2,0,1
+SHP-60943,North America,FedEx,WH-West,17.8,146.73,8,8,0,1
+SHP-60944,Europe,UPS Global,WH-East,2.9,23.47,5,6,1,0
+SHP-60945,North America,FedEx,WH-West,0.5,15.98,6,6,0,1
+SHP-60946,Latin America,Regional Post,WH-South,25.1,165.32,9,9,0,1
+SHP-60947,Latin America,UPS Global,WH-East,3.0,23.25,3,4,1,0
+SHP-60948,Latin America,Regional Post,WH-West,8.3,71.08,10,10,0,1
+SHP-60949,Latin America,DHL Express,WH-West,12.0,109.74,3,3,0,1
+SHP-60950,North America,DHL Express,WH-East,10.9,82.26,7,7,0,1
+SHP-60951,North America,UPS Global,WH-West,29.5,248.89,6,6,0,1
+SHP-60952,Asia Pacific,FedEx,WH-South,13.2,81.46,8,11,3,0
+SHP-60953,Asia Pacific,FedEx,WH-West,23.1,171.2,8,8,0,1
+SHP-60954,Europe,UPS Global,WH-East,43.7,330.79,4,4,0,1
+SHP-60955,Asia Pacific,DHL Express,WH-South,16.2,72.45,6,6,0,1
+SHP-60956,North America,UPS Global,WH-Central,3.2,34.09,8,8,0,1
+SHP-60957,Asia Pacific,FedEx,WH-South,38.5,247.72,9,10,1,0
+SHP-60958,Europe,FedEx,WH-East,3.3,36.07,4,4,0,1
+SHP-60959,Europe,UPS Global,WH-East,4.6,38.34,7,7,0,1
+SHP-60960,Europe,Regional Post,WH-South,11.3,89.14,6,6,0,1
+SHP-60961,North America,DHL Express,WH-Central,6.4,57.44,4,4,0,1
+SHP-60962,Europe,Regional Post,WH-East,26.2,164.69,9,10,1,0
+SHP-60963,Asia Pacific,UPS Global,WH-East,10.9,51.35,5,5,0,1
+SHP-60964,Latin America,Regional Post,WH-West,15.3,86.76,4,5,1,0
+SHP-60965,Latin America,UPS Global,WH-South,34.3,180.69,5,5,0,1
+SHP-60966,Latin America,DHL Express,WH-South,11.8,61.93,7,7,0,1
+SHP-60967,Asia Pacific,DHL Express,WH-South,1.8,19.98,4,5,1,0
+SHP-60968,North America,UPS Global,WH-Central,6.4,40.17,3,5,2,0
+SHP-60969,North America,FedEx,WH-West,21.7,115.67,7,7,0,1
+SHP-60970,Europe,UPS Global,WH-Central,25.8,207.99,9,10,1,0
+SHP-60971,North America,Regional Post,WH-Central,12.7,96.49,6,6,0,1
+SHP-60972,Latin America,FedEx,WH-South,23.1,113.39,4,4,0,1
+SHP-60973,Asia Pacific,UPS Global,WH-West,23.7,179.35,3,3,0,1
+SHP-60974,Latin America,Regional Post,WH-East,38.7,274.13,2,2,0,1
+SHP-60975,Europe,Regional Post,WH-South,2.4,25.7,3,3,0,1
+SHP-60976,North America,UPS Global,WH-South,43.3,221.15,2,2,0,1
+SHP-60977,Europe,DHL Express,WH-West,6.2,54.47,8,12,4,0
+SHP-60978,Europe,FedEx,WH-South,7.9,63.2,7,7,0,1
+SHP-60979,Europe,FedEx,WH-Central,21.9,155.94,7,10,3,0
+SHP-60980,Europe,UPS Global,WH-West,32.9,200.66,6,6,0,1
+SHP-60981,Europe,Regional Post,WH-South,3.3,28.02,6,7,1,0
+SHP-60982,Asia Pacific,UPS Global,WH-Central,32.8,189.17,8,9,1,0
+SHP-60983,Asia Pacific,UPS Global,WH-Central,24.6,137.2,3,3,0,1
+SHP-60984,North America,FedEx,WH-Central,21.5,156.37,6,7,1,0
+SHP-60985,Asia Pacific,UPS Global,WH-West,31.8,236.72,3,5,2,0
+SHP-60986,North America,FedEx,WH-East,36.3,278.99,4,4,0,1
+SHP-60987,North America,FedEx,WH-East,38.6,286.72,3,3,0,1
+SHP-60988,Latin America,Regional Post,WH-West,16.4,76.45,9,10,1,0
+SHP-60989,North America,FedEx,WH-West,10.2,52.22,8,10,2,0
+SHP-60990,North America,DHL Express,WH-East,40.7,208.67,10,10,0,1
+SHP-60991,Latin America,DHL Express,WH-East,16.4,109.7,2,2,0,1
+SHP-60992,North America,DHL Express,WH-South,18.7,106.52,3,3,0,1
+SHP-60993,Europe,Regional Post,WH-West,7.0,65.32,5,5,0,1
+SHP-60994,Europe,Regional Post,WH-Central,34.9,228.14,6,6,0,1
+SHP-60995,Asia Pacific,Regional Post,WH-Central,31.4,255.02,4,4,0,1
+SHP-60996,Asia Pacific,DHL Express,WH-South,40.6,182.78,9,9,0,1
+SHP-60997,Latin America,FedEx,WH-East,39.2,314.94,4,4,0,1
+SHP-60998,Europe,UPS Global,WH-West,9.8,52.26,8,8,0,1
+SHP-60999,Latin America,FedEx,WH-Central,35.6,218.07,3,3,0,1
+SHP-61000,Asia Pacific,DHL Express,WH-South,16.8,142.47,10,10,0,1
+SHP-61001,Europe,UPS Global,WH-Central,26.9,134.45,3,3,0,1
+SHP-61002,Asia Pacific,Regional Post,WH-South,9.6,48.0,7,8,1,0
+SHP-61003,Latin America,Regional Post,WH-South,20.8,85.99,5,5,0,1
+SHP-61004,Europe,Regional Post,WH-South,42.2,322.8,10,10,0,1
+SHP-61005,Europe,Regional Post,WH-South,39.7,283.29,6,6,0,1
+SHP-61006,Asia Pacific,DHL Express,WH-East,8.8,83.8,9,9,0,1
+SHP-61007,Europe,FedEx,WH-Central,43.8,291.24,9,9,0,1
+SHP-61008,Europe,UPS Global,WH-East,19.8,116.3,7,7,0,1
+SHP-61009,Latin America,UPS Global,WH-Central,3.8,34.92,9,9,0,1
+SHP-61010,Latin America,UPS Global,WH-Central,25.9,171.57,3,3,0,1
+SHP-61011,Europe,Regional Post,WH-East,24.6,193.17,10,10,0,1
+SHP-61012,North America,FedEx,WH-West,1.4,20.84,6,7,1,0
+SHP-61013,North America,Regional Post,WH-Central,42.8,233.2,4,4,0,1
+SHP-61014,Europe,DHL Express,WH-West,34.5,285.59,7,7,0,1
+SHP-61015,North America,FedEx,WH-East,24.7,178.43,9,9,0,1
+SHP-61016,Latin America,Regional Post,WH-East,30.0,183.32,10,10,0,1
+SHP-61017,Europe,FedEx,WH-West,39.8,172.56,7,7,0,1
+SHP-61018,Europe,Regional Post,WH-West,2.3,27.69,4,4,0,1
+SHP-61019,Asia Pacific,Regional Post,WH-South,44.0,212.29,8,9,1,0
+SHP-61020,Europe,FedEx,WH-South,6.6,52.12,3,3,0,1
+SHP-61021,Latin America,UPS Global,WH-East,19.8,160.85,6,6,0,1
+SHP-61022,Latin America,DHL Express,WH-East,30.5,174.63,7,11,4,0
+SHP-61023,North America,DHL Express,WH-Central,7.8,54.2,5,5,0,1
+SHP-61024,Latin America,UPS Global,WH-South,36.1,231.38,8,8,0,1
+SHP-61025,Latin America,UPS Global,WH-South,37.8,155.1,9,9,0,1
+SHP-61026,North America,FedEx,WH-South,20.8,143.59,3,3,0,1
+SHP-61027,Asia Pacific,UPS Global,WH-West,10.3,77.07,8,8,0,1
+SHP-61028,Latin America,DHL Express,WH-Central,28.3,148.92,3,3,0,1
+SHP-61029,Asia Pacific,Regional Post,WH-West,11.1,97.95,10,10,0,1
+SHP-61030,Europe,DHL Express,WH-South,22.7,153.42,2,2,0,1
+SHP-61031,Asia Pacific,Regional Post,WH-East,33.4,220.67,6,7,1,0
+SHP-61032,Asia Pacific,DHL Express,WH-West,2.8,25.71,7,8,1,0
+SHP-61033,North America,FedEx,WH-Central,27.8,131.39,2,2,0,1
+SHP-61034,Latin America,DHL Express,WH-West,26.4,120.71,4,4,0,1
+SHP-61035,North America,FedEx,WH-East,22.6,182.0,5,5,0,1
+SHP-61036,North America,Regional Post,WH-Central,7.1,57.09,8,9,1,0
+SHP-61037,Asia Pacific,Regional Post,WH-East,38.1,175.06,5,5,0,1
+SHP-61038,North America,Regional Post,WH-East,37.3,151.58,4,4,0,1
+SHP-61039,Asia Pacific,Regional Post,WH-West,40.2,167.78,3,3,0,1
+SHP-61040,Europe,DHL Express,WH-Central,9.8,48.6,10,10,0,1
+SHP-61041,Asia Pacific,DHL Express,WH-West,20.9,125.7,9,9,0,1
+SHP-61042,North America,FedEx,WH-West,11.4,63.64,7,8,1,0
+SHP-61043,Europe,DHL Express,WH-South,30.8,194.62,8,8,0,1
+SHP-61044,Asia Pacific,FedEx,WH-South,19.0,136.67,7,7,0,1
+SHP-61045,North America,Regional Post,WH-South,7.2,60.52,3,3,0,1
+SHP-61046,Asia Pacific,DHL Express,WH-West,3.4,26.89,2,2,0,1
+SHP-61047,North America,DHL Express,WH-Central,39.5,332.39,8,8,0,1
+SHP-61048,Asia Pacific,UPS Global,WH-West,0.8,17.37,6,6,0,1
+SHP-61049,Europe,UPS Global,WH-Central,16.5,98.86,6,6,0,1
+SHP-61050,Asia Pacific,FedEx,WH-South,0.6,14.53,10,10,0,1
+SHP-61051,Europe,FedEx,WH-West,8.0,67.66,5,5,0,1
+SHP-61052,Latin America,Regional Post,WH-East,27.1,179.23,7,7,0,1
+SHP-61053,Europe,UPS Global,WH-East,22.6,104.03,7,7,0,1
+SHP-61054,North America,FedEx,WH-East,17.1,145.93,7,7,0,1
+SHP-61055,Asia Pacific,FedEx,WH-East,39.4,243.44,3,5,2,0
+SHP-61056,Latin America,DHL Express,WH-East,14.2,124.63,3,11,8,0
+SHP-61057,North America,FedEx,WH-South,6.0,49.65,2,2,0,1
+SHP-61058,North America,DHL Express,WH-West,32.8,246.66,8,8,0,1
+SHP-61059,Latin America,Regional Post,WH-South,23.3,114.77,5,7,2,0
+SHP-61060,Europe,UPS Global,WH-West,16.8,105.68,2,2,0,1
+SHP-61061,Latin America,UPS Global,WH-South,4.2,35.44,7,7,0,1
+SHP-61062,Latin America,UPS Global,WH-West,7.3,62.02,8,8,0,1
+SHP-61063,Europe,DHL Express,WH-East,15.0,102.07,8,9,1,0
+SHP-61064,Europe,Regional Post,WH-West,11.7,55.81,4,4,0,1
+SHP-61065,North America,UPS Global,WH-West,11.7,59.08,7,8,1,0
+SHP-61066,Europe,DHL Express,WH-East,3.5,32.83,9,9,0,1
+SHP-61067,Europe,UPS Global,WH-South,4.9,44.35,7,7,0,1
+SHP-61068,Latin America,Regional Post,WH-West,27.8,134.12,8,8,0,1
+SHP-61069,Europe,DHL Express,WH-Central,29.2,187.51,2,2,0,1
+SHP-61070,Asia Pacific,FedEx,WH-East,25.9,213.56,10,10,0,1
+SHP-61071,Latin America,FedEx,WH-Central,18.1,157.77,10,10,0,1
+SHP-61072,Latin America,Regional Post,WH-Central,31.0,239.37,9,14,5,0
+SHP-61073,Asia Pacific,FedEx,WH-West,42.6,286.88,2,2,0,1
+SHP-61074,Asia Pacific,UPS Global,WH-South,20.8,148.49,4,6,2,0
+SHP-61075,North America,UPS Global,WH-West,19.0,127.51,10,10,0,1
+SHP-61076,North America,Regional Post,WH-Central,10.3,92.25,5,5,0,1
+SHP-61077,Europe,DHL Express,WH-East,24.5,154.07,9,9,0,1
+SHP-61078,Europe,UPS Global,WH-Central,33.0,265.76,7,7,0,1
+SHP-61079,North America,FedEx,WH-South,32.8,250.89,5,5,0,1
+SHP-61080,Latin America,FedEx,WH-East,43.8,249.58,4,4,0,1
+SHP-61081,Asia Pacific,UPS Global,WH-South,41.9,321.2,8,8,0,1
+SHP-61082,Asia Pacific,DHL Express,WH-South,3.4,26.22,4,4,0,1
+SHP-61083,Asia Pacific,FedEx,WH-South,30.6,216.07,7,8,1,0
+SHP-61084,Asia Pacific,Regional Post,WH-South,40.1,249.2,3,5,2,0
+SHP-61085,North America,DHL Express,WH-Central,19.2,108.13,7,7,0,1
+SHP-61086,Asia Pacific,DHL Express,WH-South,36.0,185.06,5,5,0,1
+SHP-61087,Europe,Regional Post,WH-East,21.7,180.15,5,6,1,0
+SHP-61088,Europe,UPS Global,WH-West,9.2,57.16,10,10,0,1
+SHP-61089,Europe,FedEx,WH-West,24.7,99.91,9,10,1,0
+SHP-61090,Latin America,DHL Express,WH-East,24.8,159.66,5,5,0,1
+SHP-61091,Asia Pacific,UPS Global,WH-West,12.8,76.85,9,9,0,1
+SHP-61092,North America,FedEx,WH-Central,3.0,25.58,10,10,0,1
+SHP-61093,Asia Pacific,Regional Post,WH-East,11.7,86.68,3,3,0,1
+SHP-61094,North America,Regional Post,WH-West,6.3,55.96,7,10,3,0
+SHP-61095,North America,Regional Post,WH-West,8.9,53.46,6,7,1,0
+SHP-61096,Europe,FedEx,WH-West,43.5,207.19,10,10,0,1
+SHP-61097,Europe,UPS Global,WH-East,15.0,128.16,4,4,0,1
+SHP-61098,Asia Pacific,DHL Express,WH-Central,43.0,270.88,7,7,0,1
+SHP-61099,Asia Pacific,DHL Express,WH-Central,15.7,102.97,8,10,2,0
+SHP-61100,Europe,Regional Post,WH-West,2.8,27.26,8,8,0,1
+SHP-61101,Latin America,DHL Express,WH-Central,37.6,237.34,2,2,0,1
+SHP-61102,North America,FedEx,WH-Central,40.7,206.12,8,9,1,0
+SHP-61103,Latin America,Regional Post,WH-West,23.2,194.58,9,9,0,1
+SHP-61104,North America,FedEx,WH-East,9.4,64.94,2,2,0,1
+SHP-61105,North America,DHL Express,WH-South,27.0,165.88,7,7,0,1
+SHP-61106,Latin America,FedEx,WH-East,1.4,17.24,4,4,0,1
+SHP-61107,North America,FedEx,WH-South,7.9,71.78,7,7,0,1
+SHP-61108,Asia Pacific,DHL Express,WH-East,11.6,59.6,3,5,2,0
+SHP-61109,Latin America,DHL Express,WH-South,19.8,84.11,9,11,2,0
+SHP-61110,North America,UPS Global,WH-South,7.6,47.63,8,8,0,1
+SHP-61111,Asia Pacific,UPS Global,WH-West,32.8,214.14,10,10,0,1
+SHP-61112,North America,DHL Express,WH-Central,9.4,83.44,2,2,0,1
+SHP-61113,Asia Pacific,Regional Post,WH-Central,25.9,211.88,5,6,1,0
+SHP-61114,North America,Regional Post,WH-West,12.5,79.61,3,3,0,1
+SHP-61115,North America,Regional Post,WH-West,17.8,143.76,7,7,0,1
+SHP-61116,Europe,Regional Post,WH-West,14.6,102.48,3,3,0,1
+SHP-61117,North America,FedEx,WH-South,4.9,33.43,4,4,0,1
+SHP-61118,Latin America,FedEx,WH-West,41.0,193.96,10,10,0,1
+SHP-61119,North America,Regional Post,WH-East,17.4,78.07,10,10,0,1
+SHP-61120,Asia Pacific,DHL Express,WH-South,23.1,96.02,7,8,1,0
+SHP-61121,Asia Pacific,DHL Express,WH-West,14.5,126.79,10,10,0,1
+SHP-61122,North America,DHL Express,WH-West,39.7,272.54,7,7,0,1
+SHP-61123,Latin America,DHL Express,WH-Central,43.3,223.94,2,3,1,0
+SHP-61124,Latin America,UPS Global,WH-West,4.2,33.43,4,4,0,1
+SHP-61125,North America,DHL Express,WH-East,30.7,163.46,7,7,0,1
+SHP-61126,Asia Pacific,FedEx,WH-East,8.5,79.54,2,3,1,0
+SHP-61127,Latin America,UPS Global,WH-West,8.9,45.26,4,4,0,1
+SHP-61128,Asia Pacific,FedEx,WH-West,39.9,238.84,2,3,1,0
+SHP-61129,Asia Pacific,UPS Global,WH-East,44.7,210.71,9,9,0,1
+SHP-61130,Europe,FedEx,WH-East,38.1,239.88,10,10,0,1
+SHP-61131,Latin America,UPS Global,WH-West,3.4,33.0,4,4,0,1
+SHP-61132,Asia Pacific,UPS Global,WH-South,14.1,67.91,4,4,0,1
+SHP-61133,Europe,DHL Express,WH-South,19.9,113.59,10,11,1,0
+SHP-61134,North America,Regional Post,WH-South,6.6,51.26,4,4,0,1
+SHP-61135,Latin America,FedEx,WH-Central,25.3,121.28,6,6,0,1
+SHP-61136,Latin America,UPS Global,WH-West,18.4,130.42,3,3,0,1
+SHP-61137,North America,DHL Express,WH-South,21.8,116.76,7,8,1,0
+SHP-61138,Latin America,DHL Express,WH-Central,20.9,127.13,6,6,0,1
+SHP-61139,Latin America,DHL Express,WH-East,8.3,41.79,2,2,0,1
+SHP-61140,North America,Regional Post,WH-East,30.4,181.7,7,7,0,1
+SHP-61141,Asia Pacific,UPS Global,WH-Central,40.3,258.86,10,10,0,1
+SHP-61142,North America,FedEx,WH-South,7.7,72.13,5,7,2,0
+SHP-61143,North America,UPS Global,WH-West,26.6,156.07,6,6,0,1
+SHP-61144,North America,Regional Post,WH-West,38.4,201.42,4,5,1,0
+SHP-61145,Latin America,FedEx,WH-Central,40.3,339.07,9,9,0,1
+SHP-61146,Europe,UPS Global,WH-West,37.1,230.26,7,7,0,1
+SHP-61147,Latin America,UPS Global,WH-West,31.8,241.28,7,7,0,1
+SHP-61148,Latin America,UPS Global,WH-Central,11.1,94.79,5,5,0,1
+SHP-61149,Latin America,UPS Global,WH-Central,3.7,38.73,2,2,0,1
+SHP-61150,Latin America,UPS Global,WH-Central,11.6,83.74,4,4,0,1
+SHP-61151,North America,FedEx,WH-West,42.1,183.78,4,6,2,0
+SHP-61152,North America,FedEx,WH-West,28.7,200.2,4,4,0,1
+SHP-61153,Latin America,DHL Express,WH-West,44.8,324.03,2,3,1,0
+SHP-61154,North America,Regional Post,WH-East,1.9,26.12,6,6,0,1
+SHP-61155,Latin America,Regional Post,WH-South,31.1,188.38,5,5,0,1
+SHP-61156,Europe,Regional Post,WH-West,30.1,185.87,5,5,0,1
+SHP-61157,Asia Pacific,FedEx,WH-East,20.2,114.47,9,9,0,1
+SHP-61158,North America,UPS Global,WH-West,18.1,82.99,6,6,0,1
+SHP-61159,Europe,FedEx,WH-East,34.2,236.03,8,8,0,1
+SHP-61160,North America,DHL Express,WH-East,26.0,168.85,9,9,0,1
+SHP-61161,Europe,Regional Post,WH-Central,28.9,180.5,2,2,0,1
+SHP-61162,Asia Pacific,DHL Express,WH-East,8.2,48.43,8,8,0,1
+SHP-61163,Latin America,UPS Global,WH-East,3.6,39.51,4,4,0,1
+SHP-61164,North America,FedEx,WH-West,30.7,129.7,5,5,0,1
+SHP-61165,Latin America,UPS Global,WH-East,36.3,212.72,7,7,0,1
+SHP-61166,Latin America,Regional Post,WH-West,26.7,133.25,2,5,3,0
+SHP-61167,Asia Pacific,UPS Global,WH-Central,1.0,19.06,6,7,1,0
+SHP-61168,North America,FedEx,WH-East,31.4,195.25,9,9,0,1
+SHP-61169,Latin America,UPS Global,WH-East,35.9,267.62,4,5,1,0
+SHP-61170,Europe,FedEx,WH-South,11.6,60.58,2,2,0,1
+SHP-61171,Latin America,Regional Post,WH-West,41.7,314.25,2,2,0,1
+SHP-61172,Latin America,FedEx,WH-South,41.2,314.67,5,6,1,0
+SHP-61173,Asia Pacific,UPS Global,WH-West,42.8,292.7,10,10,0,1
+SHP-61174,Asia Pacific,FedEx,WH-Central,41.8,200.29,6,6,0,1
+SHP-61175,Latin America,UPS Global,WH-West,6.5,40.98,6,6,0,1
+SHP-61176,Europe,UPS Global,WH-West,17.7,137.79,4,4,0,1
+SHP-61177,Asia Pacific,UPS Global,WH-Central,25.5,102.02,3,3,0,1
+SHP-61178,Asia Pacific,UPS Global,WH-Central,29.7,249.28,10,10,0,1
+SHP-61179,North America,DHL Express,WH-West,28.8,179.17,4,4,0,1
+SHP-61180,Latin America,UPS Global,WH-South,18.5,123.47,2,2,0,1
+SHP-61181,Europe,UPS Global,WH-Central,31.5,232.54,9,9,0,1
+SHP-61182,North America,Regional Post,WH-East,20.9,87.33,7,7,0,1
+SHP-61183,Latin America,UPS Global,WH-South,6.5,40.91,6,6,0,1
+SHP-61184,Asia Pacific,FedEx,WH-East,7.2,68.19,8,8,0,1
+SHP-61185,Latin America,Regional Post,WH-South,34.1,187.29,3,3,0,1
+SHP-61186,Asia Pacific,FedEx,WH-Central,31.3,189.74,9,9,0,1
+SHP-61187,Latin America,FedEx,WH-West,18.2,135.39,8,8,0,1
+SHP-61188,Europe,Regional Post,WH-South,5.8,58.59,2,2,0,1
+SHP-61189,Asia Pacific,Regional Post,WH-South,34.9,213.2,6,7,1,0
+SHP-61190,North America,Regional Post,WH-West,16.0,74.4,3,4,1,0
+SHP-61191,Latin America,UPS Global,WH-West,27.9,128.11,10,10,0,1
+SHP-61192,Europe,UPS Global,WH-East,34.9,177.82,9,9,0,1
+SHP-61193,Europe,FedEx,WH-West,26.4,202.13,2,6,4,0
+SHP-61194,Latin America,FedEx,WH-South,9.5,75.44,3,3,0,1
+SHP-61195,Asia Pacific,DHL Express,WH-West,31.2,210.01,10,10,0,1
+SHP-61196,Asia Pacific,DHL Express,WH-Central,36.9,171.78,3,4,1,0
+SHP-61197,Latin America,Regional Post,WH-South,10.7,70.46,7,7,0,1
+SHP-61198,Asia Pacific,Regional Post,WH-South,5.9,41.92,10,10,0,1
+SHP-61199,Latin America,FedEx,WH-Central,0.9,17.35,3,3,0,1

@@ -1,0 +1,1001 @@
+Review_ID,Customer_Name,Product_Category,Review_Text,Rating_1to5,Sentiment
+REV-70000,User_465,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70001,User_271,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70002,User_782,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70003,User_840,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70004,User_635,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70005,User_728,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70006,User_878,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70007,User_461,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70008,User_629,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70009,User_332,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70010,User_146,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70011,User_548,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70012,User_297,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70013,User_580,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70014,User_295,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70015,User_341,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70016,User_370,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70017,User_416,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70018,User_592,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70019,User_935,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70020,User_665,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70021,User_568,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70022,User_728,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70023,User_439,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70024,User_173,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70025,User_732,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70026,User_950,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70027,User_419,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70028,User_991,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70029,User_393,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70030,User_799,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70031,User_144,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70032,User_906,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70033,User_675,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70034,User_296,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70035,User_223,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70036,User_651,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70037,User_136,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70038,User_642,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70039,User_205,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70040,User_451,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70041,User_669,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70042,User_925,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70043,User_138,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70044,User_517,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70045,User_775,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70046,User_715,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70047,User_989,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70048,User_930,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70049,User_369,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70050,User_498,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70051,User_840,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70052,User_693,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70053,User_272,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70054,User_302,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70055,User_592,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70056,User_452,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70057,User_720,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70058,User_435,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70059,User_816,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70060,User_722,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70061,User_577,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70062,User_340,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70063,User_765,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70064,User_574,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70065,User_733,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70066,User_522,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70067,User_839,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70068,User_810,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70069,User_576,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70070,User_492,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70071,User_927,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70072,User_430,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70073,User_546,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70074,User_221,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70075,User_804,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70076,User_587,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70077,User_866,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70078,User_124,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70079,User_437,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70080,User_617,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70081,User_777,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70082,User_226,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70083,User_249,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70084,User_647,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70085,User_692,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70086,User_890,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70087,User_121,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70088,User_454,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70089,User_977,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70090,User_350,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70091,User_552,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70092,User_546,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70093,User_507,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70094,User_104,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70095,User_995,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70096,User_992,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70097,User_196,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70098,User_825,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70099,User_547,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70100,User_763,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70101,User_842,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70102,User_241,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70103,User_602,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70104,User_812,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70105,User_838,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70106,User_869,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70107,User_319,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70108,User_191,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70109,User_964,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70110,User_273,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70111,User_503,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70112,User_600,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70113,User_733,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70114,User_660,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70115,User_776,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70116,User_329,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70117,User_720,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70118,User_504,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70119,User_397,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70120,User_355,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70121,User_899,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70122,User_363,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70123,User_485,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70124,User_989,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70125,User_234,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70126,User_308,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70127,User_742,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70128,User_278,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70129,User_998,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70130,User_289,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70131,User_156,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70132,User_739,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70133,User_392,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70134,User_785,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70135,User_498,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70136,User_339,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70137,User_306,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70138,User_661,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70139,User_451,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70140,User_459,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70141,User_261,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70142,User_797,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70143,User_688,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70144,User_456,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70145,User_567,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70146,User_245,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70147,User_561,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70148,User_343,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70149,User_416,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70150,User_398,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70151,User_819,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70152,User_792,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70153,User_691,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70154,User_329,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70155,User_932,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70156,User_140,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70157,User_220,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70158,User_172,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70159,User_767,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70160,User_751,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70161,User_441,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70162,User_352,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70163,User_496,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70164,User_768,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70165,User_518,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70166,User_490,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70167,User_455,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70168,User_248,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70169,User_961,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70170,User_242,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70171,User_284,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70172,User_969,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70173,User_652,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70174,User_608,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70175,User_893,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70176,User_661,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70177,User_662,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70178,User_824,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70179,User_313,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70180,User_204,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70181,User_844,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70182,User_211,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70183,User_238,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70184,User_690,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70185,User_350,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70186,User_796,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70187,User_520,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70188,User_123,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70189,User_467,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70190,User_561,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70191,User_461,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70192,User_107,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70193,User_765,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70194,User_506,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70195,User_932,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70196,User_741,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70197,User_945,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70198,User_102,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70199,User_677,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70200,User_103,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70201,User_863,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70202,User_504,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70203,User_246,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70204,User_527,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70205,User_919,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70206,User_469,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70207,User_881,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70208,User_180,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70209,User_848,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70210,User_693,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70211,User_289,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70212,User_389,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70213,User_653,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70214,User_739,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70215,User_729,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70216,User_538,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70217,User_688,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70218,User_533,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70219,User_316,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70220,User_130,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70221,User_758,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70222,User_623,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70223,User_787,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70224,User_671,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70225,User_207,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70226,User_540,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70227,User_236,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70228,User_240,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70229,User_795,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70230,User_981,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70231,User_419,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70232,User_778,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70233,User_252,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70234,User_768,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70235,User_738,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70236,User_265,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70237,User_146,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70238,User_656,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70239,User_342,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70240,User_607,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70241,User_776,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70242,User_765,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70243,User_172,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70244,User_355,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70245,User_224,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70246,User_646,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70247,User_789,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70248,User_761,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70249,User_532,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70250,User_587,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70251,User_264,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70252,User_642,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70253,User_419,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70254,User_193,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70255,User_409,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70256,User_862,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70257,User_796,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70258,User_898,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70259,User_730,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70260,User_765,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70261,User_297,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70262,User_363,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70263,User_803,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70264,User_175,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70265,User_196,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70266,User_816,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70267,User_927,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70268,User_945,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70269,User_468,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70270,User_111,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70271,User_230,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70272,User_577,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70273,User_798,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70274,User_531,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70275,User_756,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70276,User_134,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70277,User_664,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70278,User_455,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70279,User_614,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70280,User_900,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70281,User_912,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70282,User_735,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70283,User_212,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70284,User_926,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70285,User_266,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70286,User_864,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70287,User_423,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70288,User_607,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70289,User_474,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70290,User_871,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70291,User_611,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70292,User_328,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70293,User_906,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70294,User_898,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70295,User_645,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70296,User_600,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70297,User_705,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70298,User_863,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70299,User_542,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70300,User_868,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70301,User_417,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70302,User_631,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70303,User_239,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70304,User_778,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70305,User_465,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70306,User_195,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70307,User_528,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70308,User_610,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70309,User_206,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70310,User_936,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70311,User_251,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70312,User_940,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70313,User_372,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70314,User_906,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70315,User_418,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70316,User_782,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70317,User_713,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70318,User_890,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70319,User_168,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70320,User_641,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70321,User_790,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70322,User_507,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70323,User_130,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70324,User_378,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70325,User_473,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70326,User_607,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70327,User_744,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70328,User_737,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70329,User_180,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70330,User_997,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70331,User_564,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70332,User_620,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70333,User_949,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70334,User_358,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70335,User_969,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70336,User_238,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70337,User_962,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70338,User_573,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70339,User_295,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70340,User_904,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70341,User_222,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70342,User_385,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70343,User_232,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70344,User_946,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70345,User_579,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70346,User_754,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70347,User_453,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70348,User_557,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70349,User_629,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70350,User_421,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70351,User_152,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70352,User_962,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70353,User_596,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70354,User_740,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70355,User_768,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70356,User_935,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70357,User_763,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70358,User_500,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70359,User_890,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70360,User_517,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70361,User_990,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70362,User_187,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70363,User_662,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70364,User_350,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70365,User_849,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70366,User_871,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70367,User_276,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70368,User_147,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70369,User_888,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70370,User_969,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70371,User_525,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70372,User_110,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70373,User_267,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70374,User_238,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70375,User_323,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70376,User_873,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70377,User_795,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70378,User_648,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70379,User_293,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70380,User_797,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70381,User_263,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70382,User_572,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70383,User_900,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70384,User_125,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70385,User_952,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70386,User_659,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70387,User_319,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70388,User_404,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70389,User_482,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70390,User_663,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70391,User_446,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70392,User_136,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70393,User_284,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70394,User_453,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70395,User_623,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70396,User_247,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70397,User_166,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70398,User_957,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70399,User_291,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70400,User_222,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70401,User_157,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70402,User_363,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70403,User_568,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70404,User_316,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70405,User_897,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70406,User_465,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70407,User_970,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70408,User_380,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70409,User_788,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70410,User_599,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70411,User_314,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70412,User_868,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70413,User_988,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70414,User_928,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70415,User_787,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70416,User_422,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70417,User_349,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70418,User_488,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70419,User_628,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70420,User_269,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70421,User_109,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70422,User_611,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70423,User_341,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70424,User_933,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70425,User_692,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70426,User_161,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70427,User_139,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70428,User_542,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70429,User_788,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70430,User_990,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70431,User_496,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70432,User_861,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70433,User_452,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70434,User_172,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70435,User_362,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70436,User_851,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70437,User_649,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70438,User_293,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70439,User_847,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70440,User_934,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70441,User_760,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70442,User_795,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70443,User_644,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70444,User_156,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70445,User_285,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70446,User_431,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70447,User_783,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70448,User_683,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70449,User_259,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70450,User_163,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70451,User_837,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70452,User_432,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70453,User_902,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70454,User_890,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70455,User_155,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70456,User_582,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70457,User_293,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70458,User_205,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70459,User_665,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70460,User_528,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70461,User_799,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70462,User_395,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70463,User_331,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70464,User_509,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70465,User_618,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70466,User_367,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70467,User_896,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70468,User_198,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70469,User_286,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70470,User_233,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70471,User_332,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70472,User_592,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70473,User_408,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70474,User_176,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70475,User_243,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70476,User_349,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70477,User_503,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70478,User_968,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70479,User_113,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70480,User_837,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70481,User_918,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70482,User_699,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70483,User_295,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70484,User_124,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70485,User_249,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70486,User_663,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70487,User_491,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70488,User_999,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70489,User_490,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70490,User_802,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70491,User_227,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70492,User_292,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70493,User_944,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70494,User_746,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70495,User_205,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70496,User_834,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70497,User_291,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70498,User_705,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70499,User_996,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70500,User_422,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70501,User_808,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70502,User_444,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70503,User_932,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70504,User_618,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70505,User_519,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70506,User_947,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70507,User_171,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70508,User_111,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70509,User_307,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70510,User_378,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70511,User_347,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70512,User_183,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70513,User_343,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70514,User_710,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70515,User_568,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70516,User_248,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70517,User_948,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70518,User_772,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70519,User_790,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70520,User_975,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70521,User_289,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70522,User_137,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70523,User_933,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70524,User_902,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70525,User_516,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70526,User_536,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70527,User_189,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70528,User_174,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70529,User_369,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70530,User_361,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70531,User_254,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70532,User_539,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70533,User_250,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70534,User_854,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70535,User_715,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70536,User_903,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70537,User_880,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70538,User_254,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70539,User_601,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70540,User_843,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70541,User_594,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70542,User_738,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70543,User_314,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70544,User_568,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70545,User_993,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70546,User_592,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70547,User_404,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70548,User_342,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70549,User_790,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70550,User_451,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70551,User_663,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70552,User_945,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70553,User_205,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70554,User_955,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70555,User_458,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70556,User_751,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70557,User_628,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70558,User_998,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70559,User_346,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70560,User_403,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70561,User_342,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70562,User_413,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70563,User_374,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70564,User_559,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70565,User_895,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70566,User_118,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70567,User_684,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70568,User_439,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70569,User_825,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70570,User_600,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70571,User_707,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70572,User_718,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70573,User_575,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70574,User_705,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70575,User_768,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70576,User_463,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70577,User_595,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70578,User_310,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70579,User_222,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70580,User_426,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70581,User_131,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70582,User_213,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70583,User_154,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70584,User_578,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70585,User_921,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70586,User_169,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70587,User_266,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70588,User_664,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70589,User_694,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70590,User_346,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70591,User_422,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70592,User_266,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70593,User_385,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70594,User_454,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70595,User_558,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70596,User_776,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70597,User_389,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70598,User_726,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70599,User_594,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70600,User_475,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70601,User_646,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70602,User_108,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70603,User_126,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70604,User_511,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70605,User_638,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70606,User_196,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70607,User_129,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70608,User_472,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70609,User_205,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70610,User_789,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70611,User_509,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70612,User_533,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70613,User_774,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70614,User_292,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70615,User_141,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70616,User_850,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70617,User_135,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70618,User_351,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70619,User_605,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70620,User_897,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70621,User_699,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70622,User_717,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70623,User_778,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70624,User_272,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70625,User_930,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70626,User_785,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70627,User_542,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70628,User_529,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70629,User_131,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70630,User_288,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70631,User_303,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70632,User_781,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70633,User_727,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70634,User_620,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70635,User_596,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70636,User_110,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70637,User_435,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70638,User_768,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70639,User_561,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70640,User_158,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70641,User_703,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70642,User_247,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70643,User_463,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70644,User_921,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70645,User_363,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70646,User_802,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70647,User_760,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70648,User_793,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70649,User_914,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70650,User_438,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70651,User_352,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70652,User_509,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70653,User_238,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70654,User_532,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70655,User_361,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70656,User_405,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70657,User_112,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70658,User_204,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70659,User_959,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70660,User_113,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70661,User_529,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70662,User_640,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70663,User_311,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70664,User_753,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70665,User_459,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70666,User_404,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70667,User_140,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70668,User_619,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70669,User_302,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70670,User_309,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70671,User_592,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70672,User_531,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70673,User_161,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70674,User_838,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70675,User_905,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70676,User_341,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70677,User_872,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70678,User_796,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70679,User_522,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70680,User_964,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70681,User_350,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70682,User_926,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70683,User_272,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70684,User_291,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70685,User_731,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70686,User_996,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70687,User_751,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70688,User_126,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70689,User_718,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70690,User_116,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70691,User_438,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70692,User_103,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70693,User_719,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70694,User_688,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70695,User_460,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70696,User_974,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70697,User_746,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70698,User_858,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70699,User_775,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70700,User_165,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70701,User_327,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70702,User_903,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70703,User_405,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70704,User_209,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70705,User_399,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70706,User_230,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70707,User_999,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70708,User_162,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70709,User_849,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70710,User_484,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70711,User_129,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70712,User_798,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70713,User_991,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70714,User_757,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70715,User_273,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70716,User_464,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70717,User_120,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70718,User_465,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70719,User_185,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70720,User_107,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70721,User_328,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70722,User_347,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70723,User_388,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70724,User_605,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70725,User_458,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70726,User_730,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70727,User_599,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70728,User_114,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70729,User_491,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70730,User_433,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70731,User_772,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70732,User_495,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70733,User_662,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70734,User_337,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70735,User_380,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70736,User_336,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70737,User_894,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70738,User_164,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70739,User_171,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70740,User_204,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70741,User_674,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70742,User_416,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70743,User_346,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70744,User_205,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70745,User_870,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70746,User_388,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70747,User_814,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70748,User_475,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70749,User_613,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70750,User_774,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70751,User_252,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70752,User_877,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70753,User_944,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70754,User_513,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70755,User_969,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70756,User_981,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70757,User_681,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70758,User_653,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70759,User_292,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70760,User_630,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70761,User_344,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70762,User_845,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70763,User_900,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70764,User_629,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70765,User_908,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70766,User_732,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70767,User_238,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70768,User_689,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70769,User_535,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70770,User_332,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70771,User_308,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70772,User_246,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70773,User_543,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70774,User_441,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70775,User_224,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70776,User_772,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70777,User_939,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70778,User_775,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70779,User_591,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70780,User_387,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70781,User_566,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70782,User_578,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70783,User_692,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70784,User_997,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70785,User_200,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70786,User_422,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70787,User_157,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70788,User_393,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70789,User_851,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70790,User_840,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70791,User_104,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70792,User_800,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70793,User_130,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70794,User_566,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70795,User_843,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70796,User_210,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70797,User_403,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70798,User_882,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70799,User_248,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70800,User_506,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70801,User_116,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70802,User_648,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70803,User_637,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70804,User_750,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70805,User_496,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70806,User_175,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70807,User_383,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70808,User_712,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70809,User_534,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70810,User_355,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70811,User_902,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70812,User_828,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70813,User_942,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70814,User_671,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70815,User_554,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70816,User_316,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70817,User_594,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70818,User_836,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70819,User_825,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70820,User_801,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70821,User_329,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70822,User_583,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70823,User_442,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70824,User_212,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70825,User_735,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70826,User_389,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70827,User_642,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70828,User_543,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70829,User_589,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70830,User_367,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70831,User_825,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70832,User_838,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70833,User_954,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70834,User_212,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70835,User_167,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70836,User_508,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70837,User_594,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70838,User_147,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70839,User_258,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70840,User_414,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70841,User_827,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70842,User_285,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70843,User_756,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70844,User_386,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70845,User_842,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70846,User_793,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70847,User_776,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70848,User_273,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70849,User_633,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70850,User_970,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70851,User_853,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70852,User_324,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70853,User_654,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70854,User_162,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70855,User_844,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70856,User_136,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70857,User_161,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70858,User_809,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70859,User_706,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70860,User_835,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70861,User_389,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70862,User_255,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70863,User_461,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70864,User_162,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70865,User_556,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70866,User_381,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70867,User_505,Home & Kitchen,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70868,User_337,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70869,User_604,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70870,User_899,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70871,User_277,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70872,User_389,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70873,User_769,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70874,User_881,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70875,User_568,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70876,User_473,Fashion,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70877,User_421,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70878,User_113,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70879,User_196,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70880,User_970,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70881,User_274,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70882,User_395,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70883,User_555,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70884,User_301,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70885,User_274,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70886,User_875,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70887,User_225,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70888,User_934,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70889,User_453,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70890,User_476,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70891,User_532,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70892,User_508,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70893,User_750,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70894,User_391,Home & Kitchen,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70895,User_688,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70896,User_884,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70897,User_630,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70898,User_495,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70899,User_719,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70900,User_744,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70901,User_581,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70902,User_934,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70903,User_339,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70904,User_295,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70905,User_349,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70906,User_811,Fashion,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70907,User_863,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70908,User_838,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70909,User_417,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70910,User_908,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70911,User_385,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70912,User_721,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70913,User_344,Electronics,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70914,User_331,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70915,User_514,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70916,User_442,Electronics,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70917,User_730,Beauty,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70918,User_549,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70919,User_363,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70920,User_711,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70921,User_818,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70922,User_550,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70923,User_397,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70924,User_699,Fashion,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70925,User_122,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70926,User_391,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70927,User_524,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70928,User_600,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70929,User_936,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70930,User_981,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70931,User_553,Home & Kitchen,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70932,User_404,Home & Kitchen,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70933,User_349,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70934,User_958,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70935,User_653,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70936,User_894,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70937,User_248,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70938,User_570,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70939,User_648,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70940,User_882,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70941,User_590,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70942,User_677,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70943,User_971,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70944,User_810,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70945,User_110,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70946,User_210,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70947,User_710,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70948,User_572,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70949,User_361,Electronics,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70950,User_626,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70951,User_578,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70952,User_710,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70953,User_903,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70954,User_669,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70955,User_158,Sports,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70956,User_154,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70957,User_219,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70958,User_716,Fashion,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70959,User_802,Beauty,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70960,User_457,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70961,User_960,Sports,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70962,User_573,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70963,User_728,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70964,User_787,Beauty,Extremely disappointed. Software crashes repeatedly and features are missing or broken.,1,Negative
+REV-70965,User_500,Sports,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70966,User_743,Beauty,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70967,User_114,Sports,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70968,User_136,Fashion,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70969,User_632,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70970,User_799,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70971,User_746,Fashion,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70972,User_345,Home & Kitchen,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70973,User_569,Home & Kitchen,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70974,User_795,Beauty,"Decent overall. Works as advertised, nothing extraordinary but gets the job done fine.",3,Neutral
+REV-70975,User_576,Electronics,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70976,User_726,Fashion,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70977,User_128,Electronics,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70978,User_973,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70979,User_255,Electronics,Fantastic customer service! Solved my issue within 5 minutes with total professionalism.,5,Positive
+REV-70980,User_731,Beauty,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70981,User_986,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70982,User_515,Beauty,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70983,User_659,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70984,User_225,Fashion,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70985,User_624,Home & Kitchen,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70986,User_315,Sports,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70987,User_234,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70988,User_501,Beauty,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70989,User_233,Sports,"Average product. Price is a bit high for what it offers, but build quality is okay.",3,Neutral
+REV-70990,User_537,Sports,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70991,User_484,Home & Kitchen,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70992,User_417,Sports,Loved the seamless interface and intuitive dashboard! Highly recommended to everyone.,5,Positive
+REV-70993,User_510,Beauty,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70994,User_541,Electronics,Worst purchase ever. Complete waste of money and horrible return policy.,1,Negative
+REV-70995,User_466,Electronics,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70996,User_322,Sports,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative
+REV-70997,User_931,Home & Kitchen,The product quality is absolutely outstanding! Extremely satisfied with fast delivery and great support.,5,Positive
+REV-70998,User_363,Fashion,Good value for money. Easy setup and responsive customer assistance.,5,Positive
+REV-70999,User_653,Electronics,Terrible experience. The package arrived damaged and customer service was unresponsive and rude.,1,Negative

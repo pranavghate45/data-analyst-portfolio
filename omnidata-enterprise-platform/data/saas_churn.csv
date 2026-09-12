@@ -1,0 +1,1201 @@
+User_ID,Tenure_Months,Monthly_Charges_USD,Total_Charges_USD,Support_Tickets,Daily_Active_Hours,Plan_Type,Contract_Type,Churn
+USR-20000,48,145.89,6605.32,2,8.1,Pro,Month-to-Month,0
+USR-20001,21,246.04,4990.73,10,9.0,Basic,Two Year,0
+USR-20002,22,120.17,2573.58,1,1.4,Basic,One Year,0
+USR-20003,24,289.44,6523.76,2,0.3,Enterprise,Month-to-Month,1
+USR-20004,41,218.95,9045.84,3,3.0,Basic,Month-to-Month,0
+USR-20005,33,284.17,8734.03,11,0.2,Basic,Two Year,0
+USR-20006,4,215.41,811.03,3,1.9,Enterprise,Month-to-Month,0
+USR-20007,18,218.62,3659.62,0,0.8,Basic,One Year,0
+USR-20008,4,32.85,134.45,4,1.6,Enterprise,Two Year,0
+USR-20009,23,290.98,6682.91,3,1.3,Pro,Month-to-Month,0
+USR-20010,32,56.96,1773.79,1,0.8,Basic,Month-to-Month,0
+USR-20011,44,128.85,5234.93,1,0.2,Enterprise,One Year,0
+USR-20012,47,33.29,1569.02,2,0.1,Enterprise,Two Year,0
+USR-20013,33,195.12,6675.12,1,0.5,Pro,Month-to-Month,0
+USR-20014,42,120.93,5047.8,6,4.7,Basic,Month-to-Month,0
+USR-20015,24,134.73,2987.74,1,2.3,Basic,Month-to-Month,0
+USR-20016,36,45.86,1627.2,3,2.3,Pro,Month-to-Month,0
+USR-20017,18,217.47,3660.16,6,1.1,Pro,Month-to-Month,0
+USR-20018,24,262.7,5815.93,1,2.2,Pro,Month-to-Month,1
+USR-20019,11,200.87,2252.46,0,1.1,Basic,Two Year,0
+USR-20020,7,154.02,1024.85,2,3.2,Pro,One Year,0
+USR-20021,15,113.07,1734.59,0,0.4,Basic,One Year,0
+USR-20022,1,202.04,209.13,2,2.0,Basic,Two Year,1
+USR-20023,25,135.99,3217.5,0,3.7,Enterprise,Month-to-Month,0
+USR-20024,37,180.24,6921.25,1,6.8,Basic,Month-to-Month,0
+USR-20025,28,114.14,3091.83,1,0.2,Basic,Month-to-Month,0
+USR-20026,17,154.71,2565.91,0,2.1,Basic,Month-to-Month,0
+USR-20027,36,31.64,1073.76,3,1.0,Pro,One Year,0
+USR-20028,34,242.12,8089.42,6,4.2,Pro,Month-to-Month,0
+USR-20029,33,147.85,4802.27,1,2.7,Enterprise,Month-to-Month,0
+USR-20030,31,75.21,2338.24,1,2.5,Pro,One Year,0
+USR-20031,31,174.43,5499.23,2,1.1,Basic,Two Year,0
+USR-20032,38,159.48,5700.78,2,1.6,Enterprise,One Year,0
+USR-20033,9,75.38,685.53,0,0.5,Pro,Month-to-Month,0
+USR-20034,15,66.51,1031.03,0,0.6,Enterprise,One Year,0
+USR-20035,48,262.26,12711.0,0,2.9,Pro,One Year,0
+USR-20036,48,33.51,1486.77,1,0.4,Pro,Month-to-Month,0
+USR-20037,46,148.49,6578.5,7,3.9,Basic,Month-to-Month,0
+USR-20038,9,165.89,1448.45,5,1.9,Basic,Two Year,1
+USR-20039,46,244.11,10641.75,4,2.2,Enterprise,Month-to-Month,0
+USR-20040,9,237.32,2140.27,3,3.7,Enterprise,Month-to-Month,0
+USR-20041,39,41.03,1653.59,2,1.3,Pro,Month-to-Month,0
+USR-20042,26,73.78,1895.45,4,1.1,Basic,Month-to-Month,0
+USR-20043,36,268.89,10031.04,1,0.4,Basic,Month-to-Month,0
+USR-20044,26,127.74,3079.63,2,5.0,Basic,Month-to-Month,0
+USR-20045,26,294.51,7673.98,2,1.0,Basic,Month-to-Month,0
+USR-20046,25,75.15,1771.23,5,1.8,Pro,Month-to-Month,0
+USR-20047,17,88.43,1457.18,0,3.5,Basic,Month-to-Month,0
+USR-20048,33,201.77,6888.76,2,2.4,Enterprise,One Year,0
+USR-20049,27,69.82,1788.64,1,3.0,Basic,Month-to-Month,0
+USR-20050,16,269.58,4340.97,8,1.4,Enterprise,Two Year,0
+USR-20051,24,173.53,3943.95,1,1.1,Pro,Month-to-Month,1
+USR-20052,24,259.04,6114.26,1,1.8,Basic,Month-to-Month,0
+USR-20053,45,182.19,7806.89,1,2.2,Enterprise,One Year,0
+USR-20054,41,120.58,4666.55,9,2.1,Enterprise,Month-to-Month,0
+USR-20055,47,190.54,8779.27,8,0.5,Basic,Month-to-Month,0
+USR-20056,24,35.96,866.26,0,1.6,Pro,Two Year,0
+USR-20057,22,80.04,1704.34,0,5.1,Basic,Month-to-Month,0
+USR-20058,8,260.42,1976.57,2,1.8,Enterprise,Month-to-Month,0
+USR-20059,19,44.2,839.9,1,2.7,Pro,Month-to-Month,0
+USR-20060,8,111.26,852.7,1,2.8,Pro,Month-to-Month,0
+USR-20061,44,273.98,11134.09,3,4.3,Pro,Month-to-Month,0
+USR-20062,8,51.43,414.56,1,1.5,Pro,One Year,0
+USR-20063,12,146.89,1813.27,4,1.3,Pro,One Year,1
+USR-20064,32,82.37,2730.16,5,3.8,Basic,One Year,0
+USR-20065,29,154.95,4205.27,1,3.7,Basic,Month-to-Month,0
+USR-20066,4,204.33,756.51,4,3.9,Pro,Two Year,1
+USR-20067,24,117.87,2778.8,10,0.4,Basic,One Year,0
+USR-20068,5,113.47,543.73,3,0.3,Enterprise,One Year,1
+USR-20069,14,236.02,3249.73,2,0.6,Enterprise,Month-to-Month,1
+USR-20070,40,123.37,4959.98,2,1.9,Basic,One Year,0
+USR-20071,41,261.1,10855.95,1,4.1,Basic,Two Year,0
+USR-20072,14,275.57,3618.03,0,3.8,Basic,One Year,0
+USR-20073,39,194.13,6966.68,1,2.3,Enterprise,One Year,0
+USR-20074,15,64.87,944.62,0,1.7,Basic,Two Year,0
+USR-20075,30,42.29,1195.74,2,2.4,Enterprise,Month-to-Month,0
+USR-20076,32,63.65,1970.75,1,6.4,Pro,Two Year,0
+USR-20077,36,200.66,6804.39,0,6.8,Pro,Month-to-Month,0
+USR-20078,17,174.21,2816.43,1,1.1,Basic,Month-to-Month,0
+USR-20079,14,295.17,4288.98,0,0.9,Basic,Month-to-Month,0
+USR-20080,17,299.22,4891.07,12,4.1,Pro,Two Year,1
+USR-20081,23,139.35,3093.65,4,3.2,Basic,One Year,0
+USR-20082,16,254.93,4063.59,3,0.5,Pro,Month-to-Month,0
+USR-20083,1,161.09,154.3,5,3.5,Basic,One Year,1
+USR-20084,25,77.11,1926.46,2,1.4,Pro,One Year,0
+USR-20085,25,47.07,1185.76,4,0.4,Pro,One Year,0
+USR-20086,43,48.16,1926.7,9,1.3,Pro,One Year,0
+USR-20087,18,34.55,641.8,0,4.2,Basic,Month-to-Month,0
+USR-20088,23,247.3,5273.96,4,1.0,Pro,Month-to-Month,0
+USR-20089,32,55.94,1803.46,0,1.5,Pro,One Year,0
+USR-20090,40,138.94,5467.78,3,1.9,Pro,Month-to-Month,0
+USR-20091,32,271.15,8223.51,4,2.1,Pro,Month-to-Month,0
+USR-20092,37,290.23,10568.54,2,2.7,Pro,Two Year,0
+USR-20093,44,184.34,8353.49,3,1.1,Pro,Month-to-Month,0
+USR-20094,2,287.52,575.42,4,3.3,Basic,Month-to-Month,1
+USR-20095,5,125.02,576.86,1,1.4,Pro,Month-to-Month,1
+USR-20096,4,30.31,117.66,2,1.9,Pro,Month-to-Month,0
+USR-20097,37,150.9,5438.23,1,1.1,Basic,Two Year,0
+USR-20098,22,38.91,829.32,1,3.9,Basic,One Year,0
+USR-20099,37,145.18,5062.13,2,0.6,Pro,Month-to-Month,0
+USR-20100,25,90.13,2128.66,3,3.0,Basic,Month-to-Month,0
+USR-20101,11,154.91,1705.6,1,1.2,Basic,Month-to-Month,0
+USR-20102,36,256.92,9356.54,2,1.7,Pro,Month-to-Month,0
+USR-20103,17,266.15,4674.09,1,1.2,Pro,One Year,0
+USR-20104,8,136.78,1128.56,2,4.6,Pro,Two Year,0
+USR-20105,29,106.96,3067.69,1,1.9,Pro,One Year,0
+USR-20106,11,69.44,707.11,1,2.0,Basic,Two Year,0
+USR-20107,43,250.73,10750.18,5,2.9,Basic,Month-to-Month,0
+USR-20108,37,150.29,5156.71,0,6.9,Basic,Month-to-Month,0
+USR-20109,23,82.02,1878.23,4,1.8,Pro,Two Year,0
+USR-20110,16,32.73,500.75,2,0.5,Basic,Month-to-Month,1
+USR-20111,48,266.14,11916.21,4,1.1,Basic,Month-to-Month,0
+USR-20112,46,190.61,8266.86,2,3.2,Enterprise,Month-to-Month,0
+USR-20113,6,279.12,1663.23,7,1.3,Basic,Month-to-Month,1
+USR-20114,25,89.74,2083.53,7,2.7,Basic,Two Year,1
+USR-20115,27,72.53,1959.27,0,2.2,Basic,One Year,1
+USR-20116,15,209.08,3154.09,1,4.4,Pro,One Year,0
+USR-20117,2,38.81,78.78,11,3.4,Enterprise,Month-to-Month,1
+USR-20118,38,288.99,10304.7,4,0.6,Basic,Two Year,1
+USR-20119,17,80.84,1270.53,1,1.5,Pro,One Year,0
+USR-20120,4,74.1,301.68,2,1.4,Basic,One Year,0
+USR-20121,11,83.71,861.89,13,3.2,Basic,Month-to-Month,1
+USR-20122,7,88.18,632.9,1,1.2,Basic,Month-to-Month,0
+USR-20123,43,273.23,11913.35,1,5.7,Basic,One Year,0
+USR-20124,23,232.73,5127.02,6,0.5,Basic,Month-to-Month,0
+USR-20125,12,275.75,3336.02,2,1.3,Basic,Month-to-Month,0
+USR-20126,9,42.59,377.49,2,5.5,Enterprise,Month-to-Month,0
+USR-20127,11,288.55,3172.24,0,0.4,Basic,Two Year,0
+USR-20128,17,208.34,3490.69,3,2.3,Basic,One Year,0
+USR-20129,40,242.39,9618.87,5,1.7,Pro,Two Year,0
+USR-20130,44,156.66,6464.3,2,1.5,Enterprise,One Year,0
+USR-20131,26,234.72,5820.83,1,2.4,Enterprise,Month-to-Month,0
+USR-20132,29,184.81,5535.6,4,0.7,Enterprise,Month-to-Month,0
+USR-20133,33,41.32,1368.51,10,2.7,Pro,Month-to-Month,0
+USR-20134,5,152.68,706.86,4,1.4,Pro,Month-to-Month,1
+USR-20135,7,188.68,1313.27,1,1.7,Pro,Two Year,0
+USR-20136,7,76.61,502.51,2,1.8,Basic,Month-to-Month,1
+USR-20137,24,261.42,5884.83,0,1.0,Pro,Month-to-Month,0
+USR-20138,25,259.49,6118.01,1,4.3,Pro,Month-to-Month,0
+USR-20139,20,149.55,3076.49,0,2.4,Pro,Month-to-Month,0
+USR-20140,18,155.44,2844.18,0,1.8,Pro,One Year,0
+USR-20141,21,81.15,1707.26,2,3.2,Basic,One Year,0
+USR-20142,39,230.08,8701.18,1,2.1,Basic,Month-to-Month,0
+USR-20143,37,71.46,2565.24,5,1.7,Pro,Month-to-Month,0
+USR-20144,37,225.77,7843.26,2,0.7,Enterprise,Two Year,0
+USR-20145,3,70.93,203.88,4,3.9,Basic,Month-to-Month,0
+USR-20146,10,204.34,1922.19,2,1.5,Basic,Month-to-Month,1
+USR-20147,43,99.98,4220.57,3,2.7,Basic,Month-to-Month,0
+USR-20148,3,41.76,123.89,5,1.2,Basic,One Year,1
+USR-20149,10,55.47,565.49,4,1.8,Pro,Two Year,0
+USR-20150,35,71.48,2432.38,1,2.4,Enterprise,Month-to-Month,0
+USR-20151,34,118.2,3965.56,0,1.5,Basic,One Year,1
+USR-20152,25,77.96,2010.14,6,2.4,Basic,One Year,0
+USR-20153,48,289.13,13830.18,1,7.2,Pro,Month-to-Month,0
+USR-20154,9,88.77,798.15,0,0.8,Pro,Month-to-Month,0
+USR-20155,2,112.51,208.75,1,3.1,Pro,Month-to-Month,0
+USR-20156,33,277.59,9052.4,5,3.1,Basic,One Year,0
+USR-20157,11,168.69,1751.49,3,0.3,Basic,Month-to-Month,0
+USR-20158,48,75.37,3329.26,0,2.6,Basic,Two Year,1
+USR-20159,41,42.52,1773.22,1,7.9,Pro,Month-to-Month,0
+USR-20160,45,73.69,3217.07,4,1.0,Pro,Month-to-Month,0
+USR-20161,35,218.32,7180.3,2,2.1,Basic,One Year,0
+USR-20162,14,268.13,3679.47,6,3.6,Basic,One Year,0
+USR-20163,48,52.48,2419.15,0,3.3,Pro,One Year,0
+USR-20164,26,152.81,3773.37,2,3.6,Basic,Month-to-Month,0
+USR-20165,7,211.71,1514.42,3,1.2,Basic,One Year,0
+USR-20166,34,158.75,5424.43,4,1.8,Basic,One Year,0
+USR-20167,38,75.09,2842.51,7,2.5,Pro,Month-to-Month,1
+USR-20168,9,156.1,1367.46,1,2.2,Basic,Two Year,0
+USR-20169,35,203.67,7020.97,1,3.5,Pro,Two Year,0
+USR-20170,10,219.39,2117.61,3,5.8,Pro,One Year,0
+USR-20171,7,67.35,459.09,1,2.4,Enterprise,Month-to-Month,0
+USR-20172,18,211.2,3784.09,0,2.1,Basic,Two Year,1
+USR-20173,18,199.39,3363.37,2,2.0,Basic,One Year,0
+USR-20174,26,160.79,4128.25,2,3.0,Pro,Month-to-Month,0
+USR-20175,40,259.65,9909.36,1,3.1,Basic,Month-to-Month,0
+USR-20176,30,170.12,5081.09,1,4.3,Pro,Two Year,0
+USR-20177,38,174.09,6296.73,1,3.3,Enterprise,Month-to-Month,0
+USR-20178,3,74.28,208.74,2,1.9,Pro,Month-to-Month,0
+USR-20179,12,103.04,1261.24,1,0.7,Pro,Month-to-Month,0
+USR-20180,43,247.2,10200.01,1,5.6,Pro,One Year,0
+USR-20181,48,298.6,14137.87,1,1.7,Pro,Month-to-Month,0
+USR-20182,39,126.08,4643.71,6,0.7,Pro,One Year,0
+USR-20183,43,258.05,11527.38,1,2.8,Basic,One Year,0
+USR-20184,8,173.31,1302.51,5,3.3,Basic,One Year,1
+USR-20185,18,278.1,4787.36,9,0.8,Basic,Month-to-Month,1
+USR-20186,28,180.82,5222.42,4,1.8,Basic,Month-to-Month,0
+USR-20187,8,117.36,902.55,2,1.0,Basic,Month-to-Month,1
+USR-20188,41,204.82,8022.98,4,1.3,Enterprise,Month-to-Month,0
+USR-20189,21,130.53,2595.14,1,1.0,Pro,Month-to-Month,0
+USR-20190,32,254.21,8430.29,1,4.2,Basic,One Year,0
+USR-20191,4,30.89,117.37,0,1.0,Enterprise,Two Year,0
+USR-20192,16,279.24,4453.59,3,2.2,Pro,Month-to-Month,0
+USR-20193,16,196.71,3105.44,3,1.6,Basic,One Year,0
+USR-20194,23,67.77,1594.73,0,0.7,Basic,One Year,0
+USR-20195,4,120.71,447.24,5,0.4,Basic,Month-to-Month,1
+USR-20196,31,92.18,2754.52,1,4.9,Enterprise,One Year,0
+USR-20197,19,60.27,1162.01,2,1.7,Pro,Month-to-Month,0
+USR-20198,19,258.79,4879.46,0,1.2,Basic,Month-to-Month,0
+USR-20199,27,52.44,1436.41,3,1.2,Enterprise,Two Year,0
+USR-20200,3,168.49,495.73,6,5.6,Basic,Month-to-Month,0
+USR-20201,13,32.59,431.83,1,1.5,Basic,Month-to-Month,0
+USR-20202,21,254.56,5054.55,1,1.2,Pro,Month-to-Month,0
+USR-20203,7,126.17,885.19,1,1.4,Basic,Month-to-Month,0
+USR-20204,11,189.96,2022.06,7,3.1,Basic,One Year,1
+USR-20205,22,44.21,963.39,2,0.4,Basic,Month-to-Month,1
+USR-20206,15,254.81,3829.99,1,0.7,Pro,One Year,0
+USR-20207,19,75.94,1378.48,1,1.5,Enterprise,One Year,0
+USR-20208,38,130.08,4648.85,6,1.8,Basic,One Year,0
+USR-20209,34,64.12,2141.27,0,3.0,Basic,One Year,0
+USR-20210,35,194.47,6994.74,5,6.2,Basic,Month-to-Month,0
+USR-20211,29,272.64,7712.49,7,4.5,Enterprise,Month-to-Month,0
+USR-20212,7,243.27,1729.07,1,2.4,Pro,Month-to-Month,0
+USR-20213,6,79.19,449.54,0,2.6,Basic,Month-to-Month,0
+USR-20214,37,96.35,3701.59,2,2.6,Enterprise,Month-to-Month,0
+USR-20215,2,229.22,455.72,6,3.3,Basic,Month-to-Month,1
+USR-20216,21,69.9,1502.21,6,2.9,Pro,Month-to-Month,0
+USR-20217,21,231.01,4776.58,0,4.2,Basic,One Year,0
+USR-20218,9,211.79,1758.19,3,0.8,Pro,Month-to-Month,0
+USR-20219,35,63.92,2212.19,2,0.8,Basic,Month-to-Month,0
+USR-20220,37,45.94,1672.13,4,5.3,Pro,Month-to-Month,0
+USR-20221,9,110.81,1003.03,1,0.5,Pro,One Year,0
+USR-20222,25,234.52,5492.36,1,1.1,Pro,Month-to-Month,0
+USR-20223,23,95.33,2179.96,3,3.2,Enterprise,Two Year,0
+USR-20224,28,54.38,1516.46,1,3.6,Basic,Month-to-Month,0
+USR-20225,38,161.57,5785.48,1,1.4,Pro,Month-to-Month,0
+USR-20226,33,275.96,8893.44,1,0.3,Pro,Two Year,0
+USR-20227,27,31.26,869.08,1,2.5,Basic,Month-to-Month,0
+USR-20228,27,50.66,1405.02,2,3.9,Basic,Two Year,0
+USR-20229,41,278.13,11051.55,1,0.4,Pro,Month-to-Month,0
+USR-20230,1,101.29,99.1,1,0.8,Enterprise,Month-to-Month,0
+USR-20231,18,152.38,2697.49,2,3.0,Enterprise,Month-to-Month,0
+USR-20232,3,142.96,415.27,3,6.9,Pro,Two Year,0
+USR-20233,37,76.89,2789.96,4,1.4,Basic,Month-to-Month,0
+USR-20234,23,60.2,1391.29,4,4.8,Enterprise,Month-to-Month,0
+USR-20235,30,101.78,2881.14,3,2.0,Pro,Month-to-Month,1
+USR-20236,25,256.56,6532.6,4,1.5,Pro,Month-to-Month,1
+USR-20237,32,85.49,2671.08,3,1.7,Pro,Month-to-Month,0
+USR-20238,31,151.36,4783.79,0,4.1,Pro,Month-to-Month,0
+USR-20239,13,168.41,2181.51,1,0.3,Basic,Month-to-Month,0
+USR-20240,3,279.42,778.02,5,3.5,Basic,Month-to-Month,1
+USR-20241,2,45.27,90.8,3,2.8,Basic,One Year,0
+USR-20242,42,50.32,2101.96,3,1.5,Enterprise,Month-to-Month,0
+USR-20243,30,37.59,1136.3,2,0.9,Basic,Two Year,0
+USR-20244,12,77.9,868.78,2,1.5,Basic,Month-to-Month,0
+USR-20245,42,211.82,8368.77,0,2.6,Basic,Month-to-Month,0
+USR-20246,7,215.63,1427.62,2,0.9,Pro,Month-to-Month,0
+USR-20247,10,240.33,2220.21,1,5.2,Pro,One Year,0
+USR-20248,24,83.07,2063.48,2,0.2,Pro,Month-to-Month,1
+USR-20249,16,66.86,1106.81,2,0.2,Basic,Month-to-Month,1
+USR-20250,3,206.66,583.15,0,1.1,Pro,One Year,0
+USR-20251,5,206.86,1013.07,1,0.3,Basic,Two Year,0
+USR-20252,48,140.02,6273.51,2,2.8,Enterprise,Month-to-Month,0
+USR-20253,30,99.34,2829.36,0,4.7,Pro,Two Year,0
+USR-20254,10,55.06,532.8,0,1.0,Basic,Month-to-Month,0
+USR-20255,43,227.2,9671.91,1,5.8,Basic,Month-to-Month,0
+USR-20256,14,212.08,2881.47,2,1.5,Basic,Month-to-Month,0
+USR-20257,39,250.94,9849.53,0,1.7,Basic,Month-to-Month,0
+USR-20258,37,210.19,7453.2,7,2.9,Basic,Month-to-Month,0
+USR-20259,45,107.08,4783.9,2,2.0,Basic,Two Year,0
+USR-20260,44,143.74,5980.93,1,2.5,Basic,Month-to-Month,0
+USR-20261,43,180.51,7223.47,2,2.8,Pro,Month-to-Month,0
+USR-20262,20,41.77,809.03,3,4.7,Pro,Two Year,0
+USR-20263,39,289.72,11243.03,4,5.1,Basic,Month-to-Month,0
+USR-20264,29,285.02,7643.09,0,1.2,Basic,Month-to-Month,0
+USR-20265,46,261.02,11288.67,15,1.1,Pro,One Year,0
+USR-20266,23,273.71,5792.83,1,1.1,Basic,Month-to-Month,0
+USR-20267,19,230.81,4557.68,2,3.0,Basic,Month-to-Month,0
+USR-20268,37,299.79,10366.33,0,1.8,Pro,One Year,0
+USR-20269,32,84.41,2633.08,4,3.6,Pro,Month-to-Month,0
+USR-20270,3,134.81,398.37,3,1.5,Enterprise,Two Year,0
+USR-20271,36,144.81,5421.67,1,3.0,Pro,Month-to-Month,0
+USR-20272,28,62.05,1618.59,5,0.7,Basic,One Year,0
+USR-20273,24,217.45,5007.79,0,2.8,Basic,Month-to-Month,0
+USR-20274,43,33.24,1377.24,1,1.2,Basic,Month-to-Month,0
+USR-20275,39,191.24,7115.32,6,1.4,Basic,One Year,1
+USR-20276,36,67.24,2482.97,3,5.5,Pro,Month-to-Month,0
+USR-20277,9,206.2,1821.65,2,4.8,Basic,Two Year,0
+USR-20278,34,123.59,4313.28,2,3.8,Basic,One Year,0
+USR-20279,13,141.12,1722.97,7,1.7,Basic,Month-to-Month,0
+USR-20280,36,286.6,10175.21,1,2.7,Enterprise,One Year,0
+USR-20281,21,123.4,2389.65,3,0.3,Basic,Month-to-Month,0
+USR-20282,2,44.51,83.26,1,0.9,Basic,Two Year,0
+USR-20283,13,295.56,3593.52,3,1.7,Pro,Month-to-Month,0
+USR-20284,24,33.1,800.95,1,1.6,Pro,One Year,0
+USR-20285,17,114.25,1955.94,9,1.5,Basic,Month-to-Month,0
+USR-20286,41,110.95,4635.5,0,3.2,Basic,Month-to-Month,0
+USR-20287,41,295.41,12544.02,1,1.7,Basic,Two Year,0
+USR-20288,11,283.84,3156.03,3,0.8,Enterprise,Month-to-Month,0
+USR-20289,33,135.83,4348.8,4,5.0,Enterprise,Month-to-Month,1
+USR-20290,40,267.41,10975.2,1,2.7,Pro,One Year,0
+USR-20291,30,254.05,7617.59,2,3.3,Basic,Two Year,0
+USR-20292,33,111.88,3647.27,13,1.5,Basic,Month-to-Month,1
+USR-20293,48,233.54,11049.87,7,0.9,Pro,One Year,0
+USR-20294,23,74.17,1622.0,4,0.2,Pro,One Year,0
+USR-20295,6,236.92,1325.04,3,2.4,Pro,Month-to-Month,0
+USR-20296,1,261.43,253.98,1,1.6,Basic,Two Year,0
+USR-20297,12,225.47,2660.69,1,5.4,Enterprise,Month-to-Month,0
+USR-20298,2,123.77,230.66,0,1.1,Basic,One Year,0
+USR-20299,2,61.98,120.01,1,4.4,Basic,Two Year,0
+USR-20300,7,222.64,1553.84,2,0.9,Basic,Month-to-Month,0
+USR-20301,38,198.17,7752.54,0,0.6,Enterprise,Month-to-Month,0
+USR-20302,31,249.58,7341.5,3,2.4,Pro,One Year,0
+USR-20303,3,240.77,673.62,2,1.8,Pro,Two Year,0
+USR-20304,40,293.99,12216.75,3,1.3,Basic,Two Year,0
+USR-20305,34,118.73,3890.52,0,0.8,Basic,Month-to-Month,0
+USR-20306,46,62.22,2795.45,0,2.6,Basic,One Year,0
+USR-20307,30,191.65,5328.34,1,0.7,Basic,Month-to-Month,0
+USR-20308,40,156.89,6402.21,0,1.1,Pro,One Year,0
+USR-20309,31,162.4,4704.51,1,1.6,Basic,Month-to-Month,0
+USR-20310,1,79.15,75.54,0,4.2,Pro,Month-to-Month,0
+USR-20311,3,33.97,101.72,3,1.4,Basic,Two Year,0
+USR-20312,11,291.97,3001.58,2,5.1,Pro,Month-to-Month,0
+USR-20313,30,100.08,3002.3,0,5.4,Basic,Month-to-Month,0
+USR-20314,16,186.07,3089.97,7,3.9,Enterprise,Month-to-Month,1
+USR-20315,8,256.45,2107.73,4,1.7,Enterprise,One Year,0
+USR-20316,11,106.15,1103.93,3,0.7,Basic,Month-to-Month,0
+USR-20317,19,165.91,2983.48,0,3.0,Pro,Month-to-Month,0
+USR-20318,10,57.24,589.22,1,4.1,Pro,Two Year,0
+USR-20319,26,222.48,5491.83,3,1.2,Basic,Month-to-Month,0
+USR-20320,18,276.25,4825.68,4,0.9,Pro,One Year,0
+USR-20321,8,116.41,884.36,1,4.4,Basic,Month-to-Month,1
+USR-20322,29,275.04,7653.46,0,1.2,Pro,Month-to-Month,0
+USR-20323,17,71.78,1247.7,3,4.7,Basic,Month-to-Month,0
+USR-20324,10,109.81,1048.82,4,1.4,Basic,Month-to-Month,1
+USR-20325,7,37.37,247.05,4,2.2,Pro,One Year,0
+USR-20326,42,233.2,9576.36,3,1.1,Basic,Month-to-Month,1
+USR-20327,12,269.93,3095.28,0,1.5,Pro,One Year,0
+USR-20328,11,181.9,1920.62,4,1.9,Enterprise,Two Year,0
+USR-20329,34,255.14,9018.66,1,2.0,Basic,Two Year,0
+USR-20330,10,159.11,1476.72,5,1.1,Pro,Two Year,0
+USR-20331,27,216.73,5635.06,0,2.4,Basic,Two Year,0
+USR-20332,17,169.58,2976.08,13,3.0,Basic,Month-to-Month,1
+USR-20333,16,100.11,1540.29,0,2.5,Pro,Month-to-Month,0
+USR-20334,48,52.62,2597.94,2,2.1,Pro,Month-to-Month,0
+USR-20335,48,116.84,5462.66,3,2.4,Basic,Month-to-Month,0
+USR-20336,28,259.64,7200.15,5,1.2,Basic,One Year,0
+USR-20337,26,232.38,5652.96,3,1.0,Basic,One Year,0
+USR-20338,7,235.62,1682.84,4,3.4,Pro,Two Year,1
+USR-20339,11,45.44,477.52,2,2.7,Basic,Month-to-Month,0
+USR-20340,15,38.73,546.72,0,2.0,Basic,Two Year,0
+USR-20341,2,272.58,550.41,13,0.2,Enterprise,Month-to-Month,1
+USR-20342,32,253.77,7529.99,2,7.7,Enterprise,One Year,0
+USR-20343,13,150.32,1980.39,5,3.8,Basic,Month-to-Month,1
+USR-20344,30,79.55,2458.14,1,1.2,Pro,Month-to-Month,0
+USR-20345,29,146.96,4044.49,2,2.6,Basic,Month-to-Month,0
+USR-20346,17,46.42,809.43,2,3.1,Basic,One Year,0
+USR-20347,39,90.7,3450.43,0,2.8,Basic,One Year,0
+USR-20348,37,250.61,8596.97,4,4.1,Pro,One Year,0
+USR-20349,11,179.29,1886.29,9,2.9,Pro,Month-to-Month,1
+USR-20350,47,30.14,1449.3,1,5.7,Basic,Month-to-Month,0
+USR-20351,2,75.79,149.38,3,0.4,Basic,Month-to-Month,0
+USR-20352,20,268.16,5087.44,0,1.3,Basic,Month-to-Month,0
+USR-20353,23,288.41,6299.58,0,0.5,Basic,One Year,0
+USR-20354,4,60.64,248.91,1,1.6,Pro,Two Year,0
+USR-20355,26,186.83,4942.97,4,1.4,Pro,One Year,0
+USR-20356,11,109.52,1143.95,6,3.0,Pro,Month-to-Month,0
+USR-20357,48,175.35,8395.03,0,6.0,Pro,Month-to-Month,0
+USR-20358,4,149.96,575.85,2,1.5,Pro,Month-to-Month,1
+USR-20359,10,95.53,935.78,1,2.3,Basic,Month-to-Month,0
+USR-20360,25,79.2,2005.71,1,0.6,Basic,One Year,0
+USR-20361,38,65.75,2417.21,0,1.2,Basic,Month-to-Month,0
+USR-20362,18,157.82,2665.02,5,3.3,Basic,Two Year,0
+USR-20363,2,270.39,525.14,1,2.8,Pro,Month-to-Month,0
+USR-20364,9,103.02,874.26,3,0.5,Enterprise,Month-to-Month,1
+USR-20365,18,86.66,1579.58,0,3.3,Pro,Month-to-Month,0
+USR-20366,32,277.67,8666.14,0,2.2,Basic,One Year,0
+USR-20367,10,292.09,2863.08,1,5.7,Pro,One Year,0
+USR-20368,8,189.48,1528.44,9,1.5,Basic,Month-to-Month,1
+USR-20369,37,83.52,2920.51,1,1.0,Pro,Month-to-Month,0
+USR-20370,40,284.53,10697.32,2,2.7,Basic,Month-to-Month,0
+USR-20371,41,165.92,6898.82,3,2.6,Pro,Two Year,0
+USR-20372,28,221.85,6071.04,1,1.0,Basic,Month-to-Month,0
+USR-20373,11,127.84,1449.66,5,3.3,Basic,One Year,0
+USR-20374,36,72.93,2473.28,1,4.6,Basic,One Year,0
+USR-20375,26,75.35,2009.94,1,1.0,Pro,Month-to-Month,0
+USR-20376,1,54.46,56.28,4,1.3,Basic,Month-to-Month,0
+USR-20377,1,193.47,193.2,1,0.8,Basic,One Year,0
+USR-20378,4,289.97,1117.38,1,0.5,Pro,Month-to-Month,1
+USR-20379,5,43.46,219.74,2,1.3,Pro,Month-to-Month,1
+USR-20380,30,55.27,1714.4,1,6.6,Basic,Month-to-Month,0
+USR-20381,30,161.17,4469.92,1,1.9,Pro,One Year,0
+USR-20382,28,264.97,7173.67,1,2.5,Basic,Month-to-Month,0
+USR-20383,12,83.96,978.14,1,2.0,Basic,Month-to-Month,0
+USR-20384,13,242.35,2941.86,3,4.1,Basic,Two Year,0
+USR-20385,25,124.21,3192.17,1,1.0,Enterprise,Month-to-Month,0
+USR-20386,27,271.45,7404.25,1,3.8,Pro,Month-to-Month,0
+USR-20387,18,267.59,4898.8,2,2.7,Basic,One Year,0
+USR-20388,37,80.96,2863.64,1,1.2,Pro,Month-to-Month,0
+USR-20389,15,102.53,1493.98,1,1.1,Pro,Month-to-Month,0
+USR-20390,1,74.68,76.54,4,1.8,Pro,Month-to-Month,0
+USR-20391,3,105.83,309.91,1,2.1,Basic,Month-to-Month,0
+USR-20392,39,121.49,4643.84,1,1.9,Basic,Month-to-Month,1
+USR-20393,3,187.01,530.98,2,1.3,Basic,One Year,0
+USR-20394,48,55.33,2514.17,2,1.1,Pro,Month-to-Month,0
+USR-20395,42,290.01,11719.61,1,8.3,Basic,Two Year,0
+USR-20396,26,179.42,4744.67,8,0.5,Enterprise,Month-to-Month,1
+USR-20397,34,231.56,7782.9,7,0.9,Pro,Month-to-Month,1
+USR-20398,34,113.17,3558.89,2,6.3,Basic,Two Year,0
+USR-20399,28,38.97,1121.64,1,1.3,Basic,Month-to-Month,0
+USR-20400,26,160.41,4057.23,1,5.7,Pro,Two Year,0
+USR-20401,9,79.41,673.24,1,6.8,Pro,One Year,0
+USR-20402,33,152.06,5006.16,1,1.1,Pro,One Year,0
+USR-20403,31,232.88,7137.82,1,3.7,Pro,One Year,0
+USR-20404,31,296.59,8485.3,5,5.3,Pro,One Year,0
+USR-20405,37,67.26,2536.93,3,0.5,Pro,One Year,0
+USR-20406,35,263.36,9235.44,1,1.9,Pro,One Year,0
+USR-20407,11,186.02,2118.78,6,0.2,Pro,Month-to-Month,0
+USR-20408,33,256.6,7871.76,13,5.7,Basic,Month-to-Month,1
+USR-20409,21,290.75,6181.07,4,1.2,Pro,Two Year,0
+USR-20410,20,194.89,3666.25,2,0.9,Pro,Month-to-Month,0
+USR-20411,16,292.56,4355.41,4,0.2,Pro,One Year,0
+USR-20412,2,298.34,591.82,0,1.6,Basic,Month-to-Month,0
+USR-20413,34,73.84,2610.78,1,1.4,Pro,One Year,0
+USR-20414,45,213.13,9675.69,2,2.6,Pro,Two Year,0
+USR-20415,25,287.53,6847.02,1,0.7,Pro,Two Year,0
+USR-20416,4,57.79,230.71,1,4.9,Pro,Two Year,0
+USR-20417,6,118.7,672.29,1,0.4,Enterprise,Two Year,0
+USR-20418,20,41.47,850.62,1,2.5,Pro,Two Year,0
+USR-20419,5,152.64,738.97,2,3.0,Basic,Two Year,0
+USR-20420,20,257.45,4938.66,7,0.9,Pro,Month-to-Month,0
+USR-20421,42,204.64,8558.45,0,4.1,Basic,Month-to-Month,0
+USR-20422,26,135.81,3255.17,0,3.2,Pro,One Year,0
+USR-20423,27,82.54,2291.34,1,1.3,Pro,One Year,0
+USR-20424,17,120.17,2007.41,4,2.3,Basic,One Year,0
+USR-20425,43,281.21,11331.59,0,3.0,Enterprise,Month-to-Month,0
+USR-20426,24,97.12,2195.49,6,2.8,Pro,One Year,0
+USR-20427,25,205.23,4996.65,0,4.6,Basic,One Year,0
+USR-20428,20,41.34,795.86,3,2.0,Basic,Month-to-Month,0
+USR-20429,24,240.29,5498.25,0,1.2,Pro,One Year,0
+USR-20430,35,69.64,2345.45,3,2.1,Pro,Month-to-Month,0
+USR-20431,27,71.1,1811.64,0,2.0,Pro,One Year,0
+USR-20432,34,140.08,4716.22,0,2.9,Basic,Two Year,0
+USR-20433,12,66.41,738.0,1,3.1,Basic,Month-to-Month,0
+USR-20434,1,133.62,129.31,8,1.9,Basic,One Year,1
+USR-20435,39,207.46,7593.5,6,3.1,Pro,Month-to-Month,0
+USR-20436,48,158.9,7907.15,2,2.2,Pro,Month-to-Month,0
+USR-20437,1,111.29,105.69,2,0.4,Pro,Two Year,0
+USR-20438,7,118.38,822.34,3,0.9,Basic,Month-to-Month,1
+USR-20439,20,43.4,900.52,3,3.2,Basic,One Year,0
+USR-20440,43,91.23,3624.95,1,2.5,Basic,Two Year,0
+USR-20441,31,65.74,2019.54,2,3.4,Basic,Month-to-Month,0
+USR-20442,45,66.56,3082.15,1,0.5,Basic,Month-to-Month,0
+USR-20443,32,298.19,9268.92,7,0.7,Pro,One Year,1
+USR-20444,37,283.83,10704.12,2,3.4,Basic,Month-to-Month,1
+USR-20445,31,207.89,6119.27,7,2.1,Basic,Month-to-Month,0
+USR-20446,31,71.28,2235.62,6,3.4,Pro,Month-to-Month,0
+USR-20447,20,162.49,3036.81,0,1.2,Basic,One Year,0
+USR-20448,26,56.16,1352.43,2,1.1,Basic,Two Year,0
+USR-20449,27,53.25,1422.04,3,1.6,Pro,Month-to-Month,1
+USR-20450,13,169.21,2074.8,2,1.0,Pro,Two Year,0
+USR-20451,29,107.38,3092.45,4,2.4,Pro,Month-to-Month,0
+USR-20452,15,115.1,1601.99,9,0.1,Basic,Month-to-Month,1
+USR-20453,5,242.33,1206.3,9,3.8,Enterprise,Month-to-Month,1
+USR-20454,43,74.93,3172.32,1,1.3,Enterprise,Month-to-Month,0
+USR-20455,36,244.58,8638.17,1,2.7,Pro,Month-to-Month,0
+USR-20456,29,100.34,2927.89,2,3.6,Pro,Two Year,0
+USR-20457,32,251.73,7413.53,1,2.9,Pro,One Year,0
+USR-20458,20,61.64,1175.05,0,4.7,Pro,Month-to-Month,0
+USR-20459,35,36.51,1207.67,1,4.8,Pro,Month-to-Month,0
+USR-20460,35,179.75,6304.71,1,3.5,Basic,Month-to-Month,0
+USR-20461,45,121.24,5654.93,1,3.8,Basic,Month-to-Month,0
+USR-20462,47,142.72,6332.27,7,3.1,Basic,Month-to-Month,0
+USR-20463,4,235.75,962.66,2,2.4,Pro,Two Year,1
+USR-20464,11,41.07,452.47,0,6.2,Pro,Two Year,0
+USR-20465,6,54.8,329.36,6,5.6,Basic,Month-to-Month,0
+USR-20466,36,42.69,1443.96,1,1.0,Pro,Month-to-Month,0
+USR-20467,30,245.64,7374.12,0,0.2,Enterprise,One Year,0
+USR-20468,18,128.1,2198.4,2,3.9,Enterprise,One Year,0
+USR-20469,9,277.99,2570.58,0,4.5,Pro,One Year,0
+USR-20470,47,95.84,4291.31,5,2.3,Basic,Two Year,0
+USR-20471,21,219.83,4566.32,6,1.7,Basic,Month-to-Month,0
+USR-20472,20,34.43,664.41,4,0.4,Basic,Month-to-Month,0
+USR-20473,16,147.16,2168.56,0,4.3,Basic,One Year,0
+USR-20474,1,198.43,196.55,0,0.8,Pro,Month-to-Month,1
+USR-20475,24,66.51,1585.06,1,3.8,Basic,Month-to-Month,0
+USR-20476,39,128.99,5145.79,2,5.9,Basic,One Year,0
+USR-20477,3,65.91,204.86,1,5.6,Basic,Month-to-Month,0
+USR-20478,41,189.43,7273.04,1,4.5,Basic,Month-to-Month,0
+USR-20479,33,54.44,1772.97,2,0.8,Basic,One Year,0
+USR-20480,19,269.3,5226.36,4,1.9,Enterprise,Month-to-Month,0
+USR-20481,10,63.29,629.09,0,3.9,Basic,One Year,0
+USR-20482,27,256.89,6638.83,1,2.1,Enterprise,Month-to-Month,0
+USR-20483,26,34.32,842.0,4,0.5,Basic,Month-to-Month,1
+USR-20484,1,48.31,45.78,3,0.5,Pro,Month-to-Month,1
+USR-20485,20,50.25,954.18,1,2.1,Pro,Two Year,0
+USR-20486,24,87.71,2108.41,1,2.9,Basic,Month-to-Month,0
+USR-20487,42,281.74,11791.27,2,2.1,Basic,One Year,0
+USR-20488,28,119.12,3422.82,2,1.1,Pro,Month-to-Month,0
+USR-20489,30,136.91,4249.34,1,2.2,Enterprise,Two Year,0
+USR-20490,31,246.34,7106.9,1,6.7,Basic,Month-to-Month,0
+USR-20491,24,146.76,3342.7,1,5.7,Pro,Month-to-Month,0
+USR-20492,9,86.78,812.1,1,1.3,Pro,Month-to-Month,0
+USR-20493,11,250.17,2840.4,6,2.2,Pro,Month-to-Month,1
+USR-20494,31,277.97,8570.83,3,1.2,Basic,Month-to-Month,0
+USR-20495,44,79.23,3447.87,1,3.2,Pro,Month-to-Month,0
+USR-20496,14,289.6,3970.71,0,3.0,Pro,One Year,0
+USR-20497,21,262.73,5293.27,1,1.6,Basic,Two Year,0
+USR-20498,37,216.22,7957.58,1,0.1,Pro,Two Year,0
+USR-20499,10,79.75,806.28,12,4.2,Basic,Month-to-Month,1
+USR-20500,14,283.58,3849.83,3,1.9,Pro,Month-to-Month,0
+USR-20501,1,85.97,82.82,1,5.3,Basic,One Year,0
+USR-20502,9,200.14,1675.49,4,3.3,Basic,Month-to-Month,0
+USR-20503,18,34.99,628.41,1,5.0,Basic,Month-to-Month,0
+USR-20504,37,280.01,10578.17,1,0.9,Basic,Month-to-Month,0
+USR-20505,43,295.16,12642.57,4,5.3,Pro,Month-to-Month,0
+USR-20506,21,190.64,3993.36,1,2.5,Pro,One Year,0
+USR-20507,48,185.06,8749.65,1,1.3,Pro,Month-to-Month,0
+USR-20508,21,249.73,4833.72,1,3.9,Basic,Month-to-Month,0
+USR-20509,19,88.44,1572.51,1,3.0,Basic,Month-to-Month,0
+USR-20510,38,220.04,8576.1,4,0.6,Basic,One Year,0
+USR-20511,22,91.54,1856.7,3,1.0,Pro,Two Year,0
+USR-20512,9,275.59,2524.94,9,3.9,Basic,Month-to-Month,0
+USR-20513,41,73.63,2921.39,2,2.4,Pro,One Year,0
+USR-20514,9,85.35,755.17,2,2.3,Pro,One Year,1
+USR-20515,34,43.35,1479.36,11,1.1,Pro,Month-to-Month,1
+USR-20516,48,294.47,14020.56,9,4.6,Basic,Month-to-Month,0
+USR-20517,25,82.05,2054.11,1,0.1,Enterprise,Month-to-Month,0
+USR-20518,8,43.68,344.25,2,0.8,Basic,Month-to-Month,0
+USR-20519,23,273.22,6333.67,3,1.9,Basic,Two Year,0
+USR-20520,21,118.49,2515.76,5,1.7,Basic,Month-to-Month,1
+USR-20521,1,44.11,43.35,1,5.1,Pro,Month-to-Month,0
+USR-20522,23,49.24,1093.92,1,0.7,Basic,Month-to-Month,1
+USR-20523,33,188.95,6089.92,1,0.9,Basic,Month-to-Month,0
+USR-20524,28,34.58,980.89,5,5.8,Pro,Month-to-Month,0
+USR-20525,27,82.37,2281.43,1,1.1,Basic,Month-to-Month,0
+USR-20526,47,43.09,2011.81,2,0.3,Enterprise,One Year,0
+USR-20527,43,186.15,7924.93,1,0.5,Pro,Two Year,0
+USR-20528,37,266.95,9246.9,1,0.7,Pro,Month-to-Month,0
+USR-20529,3,155.28,448.36,4,4.6,Enterprise,Two Year,1
+USR-20530,21,164.52,3443.52,1,1.6,Pro,Month-to-Month,0
+USR-20531,28,30.28,852.98,1,0.9,Enterprise,One Year,0
+USR-20532,23,276.05,6298.71,4,1.6,Pro,Month-to-Month,1
+USR-20533,20,71.45,1353.67,2,2.1,Basic,Month-to-Month,0
+USR-20534,24,288.02,6453.78,1,2.5,Basic,Two Year,0
+USR-20535,11,84.39,909.82,4,0.8,Pro,Month-to-Month,0
+USR-20536,33,247.6,7788.2,2,0.9,Basic,Two Year,0
+USR-20537,48,203.55,9835.95,1,3.2,Basic,One Year,0
+USR-20538,34,86.63,3009.97,1,3.9,Basic,Month-to-Month,0
+USR-20539,42,276.97,10822.8,0,5.6,Pro,Month-to-Month,0
+USR-20540,10,109.61,1027.71,1,1.7,Basic,One Year,0
+USR-20541,2,282.05,581.78,1,2.2,Pro,Month-to-Month,0
+USR-20542,38,37.27,1328.71,0,2.2,Basic,One Year,0
+USR-20543,28,115.41,3078.72,4,2.6,Basic,Two Year,0
+USR-20544,30,295.79,8782.4,3,0.5,Basic,Month-to-Month,0
+USR-20545,34,50.89,1761.79,5,2.6,Pro,One Year,0
+USR-20546,5,125.23,580.93,2,0.5,Basic,Two Year,0
+USR-20547,41,135.45,5379.06,2,2.4,Basic,Month-to-Month,1
+USR-20548,10,289.05,2896.95,1,0.9,Pro,Month-to-Month,0
+USR-20549,43,192.7,8251.66,1,0.6,Pro,Month-to-Month,0
+USR-20550,35,171.2,5790.88,3,4.7,Basic,One Year,0
+USR-20551,32,31.89,988.04,3,6.5,Enterprise,Month-to-Month,0
+USR-20552,15,159.87,2248.43,2,1.8,Basic,Month-to-Month,0
+USR-20553,43,281.01,11749.92,1,8.7,Basic,Month-to-Month,0
+USR-20554,21,154.26,3219.06,5,5.0,Enterprise,Month-to-Month,0
+USR-20555,29,33.57,952.52,1,0.7,Pro,Two Year,0
+USR-20556,21,118.89,2486.34,3,4.8,Enterprise,Month-to-Month,0
+USR-20557,34,159.17,5370.76,5,1.2,Pro,Month-to-Month,0
+USR-20558,33,175.09,5388.31,0,0.5,Enterprise,One Year,0
+USR-20559,10,282.77,2933.27,4,2.6,Basic,One Year,0
+USR-20560,35,192.46,6798.33,2,2.1,Pro,Month-to-Month,0
+USR-20561,10,92.66,960.72,4,3.2,Pro,Month-to-Month,0
+USR-20562,37,248.75,8494.77,4,1.2,Pro,Month-to-Month,0
+USR-20563,2,47.92,90.68,0,1.6,Basic,One Year,0
+USR-20564,23,187.21,4218.79,2,4.0,Basic,Month-to-Month,0
+USR-20565,36,238.98,8130.14,0,2.8,Pro,Two Year,0
+USR-20566,42,74.18,3173.5,1,1.5,Enterprise,Month-to-Month,0
+USR-20567,41,229.48,9262.9,2,2.2,Basic,Month-to-Month,0
+USR-20568,17,134.96,2310.97,1,3.3,Basic,Month-to-Month,0
+USR-20569,18,229.99,4267.33,2,2.0,Basic,Two Year,0
+USR-20570,5,168.67,785.4,2,0.5,Basic,Two Year,0
+USR-20571,20,256.19,5124.4,1,1.3,Pro,One Year,0
+USR-20572,48,298.97,14221.1,3,0.8,Pro,Two Year,0
+USR-20573,2,249.21,483.95,5,1.7,Basic,One Year,0
+USR-20574,46,251.17,10791.14,6,2.0,Basic,One Year,0
+USR-20575,27,147.58,3703.16,0,1.5,Basic,Month-to-Month,0
+USR-20576,3,66.29,203.22,0,3.7,Basic,Month-to-Month,1
+USR-20577,14,225.79,3276.86,2,2.3,Basic,Month-to-Month,0
+USR-20578,26,62.47,1551.54,2,1.1,Basic,Month-to-Month,0
+USR-20579,24,147.25,3381.54,5,1.8,Pro,Month-to-Month,0
+USR-20580,25,88.9,2196.08,4,1.7,Basic,One Year,0
+USR-20581,38,234.63,8886.72,2,2.1,Basic,Month-to-Month,0
+USR-20582,2,88.4,180.87,4,1.6,Pro,Month-to-Month,0
+USR-20583,18,240.45,4462.46,1,2.7,Basic,Two Year,0
+USR-20584,1,111.18,112.36,8,0.5,Basic,One Year,0
+USR-20585,24,215.38,4936.97,4,0.9,Basic,One Year,0
+USR-20586,34,155.96,5402.69,1,0.8,Basic,Month-to-Month,0
+USR-20587,29,163.79,4618.12,0,1.1,Pro,Month-to-Month,0
+USR-20588,47,218.1,10021.6,1,1.5,Basic,Two Year,0
+USR-20589,28,159.96,4342.3,2,2.2,Pro,One Year,0
+USR-20590,20,64.79,1310.47,5,1.9,Pro,Month-to-Month,0
+USR-20591,38,207.26,7476.79,4,0.5,Basic,One Year,1
+USR-20592,3,44.24,125.21,1,2.4,Enterprise,One Year,0
+USR-20593,45,35.08,1514.15,4,1.0,Basic,One Year,1
+USR-20594,27,159.7,4020.29,0,1.6,Basic,Month-to-Month,0
+USR-20595,28,271.06,7169.95,3,0.8,Basic,Month-to-Month,0
+USR-20596,15,264.64,3931.7,1,1.0,Basic,Month-to-Month,0
+USR-20597,48,195.76,8697.03,0,4.6,Basic,Month-to-Month,0
+USR-20598,15,203.26,2938.02,2,1.1,Pro,Month-to-Month,0
+USR-20599,44,106.48,4381.28,1,2.4,Pro,One Year,0
+USR-20600,1,76.77,76.01,1,1.1,Basic,One Year,0
+USR-20601,16,148.05,2308.3,3,3.2,Basic,One Year,0
+USR-20602,41,127.33,5192.44,4,1.7,Basic,One Year,0
+USR-20603,26,130.14,3247.96,5,1.3,Basic,Month-to-Month,0
+USR-20604,41,167.93,6846.23,1,1.5,Pro,Month-to-Month,0
+USR-20605,38,218.44,7795.29,5,4.9,Enterprise,Month-to-Month,0
+USR-20606,43,92.99,3778.67,2,3.8,Basic,One Year,0
+USR-20607,36,269.81,9807.89,0,1.1,Pro,Month-to-Month,0
+USR-20608,10,110.4,1060.56,0,3.4,Pro,Month-to-Month,0
+USR-20609,41,177.69,6898.82,1,2.7,Basic,One Year,0
+USR-20610,7,136.18,938.59,1,2.2,Pro,One Year,0
+USR-20611,43,50.82,2035.66,5,3.6,Basic,Two Year,0
+USR-20612,13,217.54,2631.77,1,2.4,Basic,Month-to-Month,0
+USR-20613,1,284.6,271.19,2,5.6,Enterprise,Month-to-Month,0
+USR-20614,25,227.61,5626.87,0,1.9,Pro,One Year,0
+USR-20615,12,117.28,1341.72,0,2.9,Basic,One Year,0
+USR-20616,26,85.37,2259.38,2,2.2,Pro,One Year,0
+USR-20617,20,33.05,639.48,2,2.4,Enterprise,Month-to-Month,0
+USR-20618,45,275.97,12496.05,2,0.6,Enterprise,Month-to-Month,0
+USR-20619,36,90.52,3126.53,2,0.3,Basic,Month-to-Month,0
+USR-20620,2,60.66,122.91,1,3.0,Basic,One Year,0
+USR-20621,15,103.48,1478.67,2,3.6,Pro,Month-to-Month,0
+USR-20622,35,244.52,8162.59,4,2.7,Basic,Month-to-Month,1
+USR-20623,28,163.27,4324.61,0,1.3,Basic,Month-to-Month,0
+USR-20624,42,221.79,9310.99,0,0.3,Pro,Two Year,0
+USR-20625,3,70.63,209.22,5,6.6,Basic,Month-to-Month,1
+USR-20626,5,266.56,1322.49,1,0.9,Pro,Month-to-Month,0
+USR-20627,22,111.63,2336.35,0,0.5,Basic,Month-to-Month,0
+USR-20628,43,55.96,2455.56,7,0.7,Basic,Month-to-Month,0
+USR-20629,7,260.9,1873.88,4,0.7,Pro,Month-to-Month,0
+USR-20630,2,299.01,571.96,2,3.5,Basic,One Year,0
+USR-20631,41,110.74,4251.6,2,3.9,Pro,Two Year,0
+USR-20632,33,129.49,4126.46,5,1.0,Pro,Two Year,1
+USR-20633,41,164.81,6715.04,0,2.9,Basic,Month-to-Month,0
+USR-20634,4,50.55,191.79,6,1.1,Pro,Month-to-Month,0
+USR-20635,25,47.93,1181.17,4,1.6,Basic,One Year,0
+USR-20636,5,30.53,152.03,1,4.0,Pro,One Year,0
+USR-20637,23,144.99,3309.9,2,0.7,Pro,Month-to-Month,0
+USR-20638,43,277.58,11279.28,1,2.4,Enterprise,Month-to-Month,0
+USR-20639,6,153.02,887.61,0,3.5,Basic,Month-to-Month,1
+USR-20640,2,209.09,388.89,5,3.5,Pro,Month-to-Month,0
+USR-20641,33,205.03,7004.98,5,1.3,Pro,One Year,1
+USR-20642,1,30.92,30.81,4,1.9,Pro,Two Year,0
+USR-20643,7,161.17,1110.54,0,1.9,Pro,Month-to-Month,0
+USR-20644,43,73.55,2996.69,2,1.0,Basic,Month-to-Month,0
+USR-20645,10,172.01,1656.37,2,3.0,Basic,Month-to-Month,0
+USR-20646,18,152.13,2782.99,1,0.7,Pro,One Year,0
+USR-20647,21,82.43,1793.45,7,3.4,Enterprise,Month-to-Month,0
+USR-20648,19,61.76,1178.16,3,0.4,Pro,Month-to-Month,0
+USR-20649,2,259.89,479.68,1,3.2,Pro,Month-to-Month,0
+USR-20650,40,119.88,4848.36,4,2.5,Enterprise,Month-to-Month,0
+USR-20651,27,245.95,6338.77,5,0.6,Pro,One Year,1
+USR-20652,15,234.11,3440.46,6,3.4,Pro,Month-to-Month,0
+USR-20653,8,210.25,1567.09,4,3.2,Basic,Two Year,0
+USR-20654,47,138.66,6445.89,1,1.6,Basic,Month-to-Month,0
+USR-20655,37,112.63,4218.06,2,1.4,Pro,One Year,0
+USR-20656,28,182.93,4742.3,1,5.4,Basic,One Year,0
+USR-20657,27,154.11,3944.7,4,1.8,Basic,Month-to-Month,0
+USR-20658,6,280.13,1630.68,2,1.5,Basic,Month-to-Month,0
+USR-20659,33,105.69,3409.19,1,3.1,Pro,Month-to-Month,0
+USR-20660,32,262.1,7897.74,4,5.6,Pro,Month-to-Month,0
+USR-20661,17,77.0,1251.64,0,4.0,Pro,Month-to-Month,0
+USR-20662,26,192.09,4791.15,1,2.2,Pro,Month-to-Month,0
+USR-20663,32,182.03,5623.76,0,0.9,Basic,One Year,0
+USR-20664,10,197.55,1897.57,2,1.7,Pro,Month-to-Month,0
+USR-20665,9,171.84,1464.84,1,2.1,Enterprise,One Year,0
+USR-20666,11,56.78,596.76,0,0.8,Basic,Month-to-Month,0
+USR-20667,12,274.39,3171.19,1,1.0,Pro,Month-to-Month,0
+USR-20668,1,136.97,142.22,4,4.5,Basic,Month-to-Month,1
+USR-20669,3,111.55,339.21,4,2.0,Basic,Month-to-Month,0
+USR-20670,14,130.88,1735.36,2,4.0,Basic,Month-to-Month,0
+USR-20671,22,131.66,2914.34,1,2.4,Basic,Two Year,0
+USR-20672,47,151.35,7395.85,4,5.2,Pro,Month-to-Month,0
+USR-20673,6,289.83,1735.69,2,0.6,Basic,One Year,0
+USR-20674,29,33.46,978.89,2,3.7,Basic,Month-to-Month,0
+USR-20675,32,145.53,4519.52,1,0.5,Basic,Two Year,0
+USR-20676,9,37.15,330.69,2,5.8,Basic,Month-to-Month,0
+USR-20677,47,198.73,8767.8,1,3.7,Pro,One Year,0
+USR-20678,25,199.87,4883.52,1,1.6,Basic,Month-to-Month,0
+USR-20679,38,71.92,2799.32,1,3.3,Pro,Month-to-Month,0
+USR-20680,32,52.61,1606.63,0,0.3,Basic,Month-to-Month,0
+USR-20681,37,233.12,8519.79,3,7.3,Basic,Month-to-Month,0
+USR-20682,39,207.84,7945.79,1,3.1,Basic,Two Year,0
+USR-20683,7,162.53,1122.29,4,2.4,Basic,Two Year,0
+USR-20684,34,67.64,2141.79,4,1.8,Pro,Month-to-Month,0
+USR-20685,29,263.76,7841.94,5,1.8,Basic,Two Year,0
+USR-20686,23,89.55,2094.53,1,1.9,Basic,Month-to-Month,0
+USR-20687,34,149.14,4843.69,1,0.9,Pro,One Year,0
+USR-20688,2,112.83,224.54,1,1.8,Enterprise,Month-to-Month,0
+USR-20689,27,236.79,6457.8,5,4.0,Enterprise,One Year,0
+USR-20690,40,149.02,6040.17,1,7.5,Basic,Month-to-Month,0
+USR-20691,43,130.23,5154.84,0,1.1,Basic,Two Year,0
+USR-20692,45,210.39,9504.32,1,1.7,Pro,Two Year,0
+USR-20693,8,263.28,2011.37,3,2.2,Pro,Month-to-Month,1
+USR-20694,29,179.98,5328.53,7,1.1,Enterprise,One Year,0
+USR-20695,45,219.84,9477.29,3,1.9,Pro,Month-to-Month,0
+USR-20696,41,89.31,3430.56,5,1.1,Enterprise,Two Year,0
+USR-20697,2,251.85,514.24,6,4.1,Pro,Month-to-Month,1
+USR-20698,17,238.76,4157.8,1,6.5,Basic,Two Year,0
+USR-20699,45,175.86,7665.66,3,3.3,Basic,Two Year,0
+USR-20700,17,193.77,3143.63,1,2.8,Basic,Month-to-Month,0
+USR-20701,8,264.1,1980.68,2,2.8,Basic,One Year,0
+USR-20702,1,50.9,52.32,1,0.7,Enterprise,One Year,0
+USR-20703,42,46.19,1989.13,1,2.5,Pro,One Year,0
+USR-20704,17,202.27,3188.78,0,1.2,Basic,Month-to-Month,1
+USR-20705,14,255.07,3367.12,3,0.7,Basic,Month-to-Month,0
+USR-20706,33,43.47,1326.99,3,0.7,Enterprise,Month-to-Month,0
+USR-20707,32,257.0,8010.97,1,0.6,Basic,Two Year,0
+USR-20708,43,57.72,2550.7,2,2.8,Basic,Month-to-Month,0
+USR-20709,24,169.3,3927.94,10,2.5,Basic,Month-to-Month,0
+USR-20710,25,148.4,3671.03,3,1.1,Basic,Month-to-Month,1
+USR-20711,21,263.5,5311.83,10,1.1,Basic,Month-to-Month,1
+USR-20712,28,118.32,3328.43,2,1.3,Enterprise,Month-to-Month,0
+USR-20713,33,74.03,2294.23,1,0.8,Pro,Month-to-Month,0
+USR-20714,5,213.95,1053.42,1,2.0,Pro,Month-to-Month,0
+USR-20715,13,31.73,418.53,1,0.9,Basic,One Year,0
+USR-20716,36,248.99,8485.32,1,3.3,Pro,Month-to-Month,0
+USR-20717,34,130.06,4227.38,0,1.2,Basic,Month-to-Month,0
+USR-20718,35,277.34,10006.48,0,2.2,Pro,One Year,0
+USR-20719,31,244.2,7390.76,6,0.8,Pro,One Year,0
+USR-20720,13,30.29,390.74,0,0.4,Enterprise,Month-to-Month,0
+USR-20721,19,161.98,3159.53,8,1.7,Pro,One Year,0
+USR-20722,31,55.35,1706.04,7,4.0,Basic,Month-to-Month,0
+USR-20723,7,131.56,925.68,1,4.9,Basic,Month-to-Month,0
+USR-20724,47,213.93,9882.59,1,1.4,Basic,One Year,0
+USR-20725,19,285.13,5625.34,1,4.1,Basic,Month-to-Month,0
+USR-20726,9,256.19,2281.58,4,1.2,Basic,Month-to-Month,0
+USR-20727,31,211.37,6359.57,4,1.6,Pro,Month-to-Month,0
+USR-20728,3,231.2,646.12,0,4.0,Basic,Month-to-Month,1
+USR-20729,26,124.13,3190.65,1,1.3,Basic,Month-to-Month,0
+USR-20730,14,89.57,1197.15,2,1.1,Basic,Month-to-Month,0
+USR-20731,26,157.43,3810.57,1,1.2,Pro,Month-to-Month,0
+USR-20732,19,213.26,3844.51,0,0.8,Basic,Month-to-Month,0
+USR-20733,20,136.06,2612.27,5,3.0,Pro,One Year,0
+USR-20734,3,248.92,748.78,3,1.9,Basic,One Year,0
+USR-20735,21,53.21,1031.25,4,1.4,Basic,Month-to-Month,0
+USR-20736,13,226.99,3026.1,3,1.1,Enterprise,One Year,0
+USR-20737,25,191.52,4843.14,6,0.5,Pro,Month-to-Month,0
+USR-20738,16,47.8,744.31,0,0.1,Enterprise,Month-to-Month,1
+USR-20739,34,203.79,7163.07,1,2.7,Pro,One Year,0
+USR-20740,48,92.12,4558.02,3,3.3,Basic,One Year,0
+USR-20741,35,277.36,8959.8,4,0.6,Pro,Month-to-Month,1
+USR-20742,37,111.83,4034.53,3,1.3,Basic,Month-to-Month,0
+USR-20743,5,298.24,1526.36,0,3.1,Basic,Month-to-Month,0
+USR-20744,9,55.55,495.02,0,1.5,Pro,Month-to-Month,0
+USR-20745,23,204.85,4762.89,0,5.6,Pro,Month-to-Month,0
+USR-20746,26,264.82,6437.99,2,2.5,Basic,Month-to-Month,0
+USR-20747,41,73.59,3110.48,0,0.9,Basic,Month-to-Month,0
+USR-20748,1,183.86,184.33,1,1.9,Enterprise,Month-to-Month,1
+USR-20749,42,192.59,8307.49,2,3.1,Pro,Month-to-Month,0
+USR-20750,35,58.66,1968.54,2,2.3,Basic,One Year,0
+USR-20751,19,36.72,712.07,6,1.8,Basic,Month-to-Month,1
+USR-20752,46,284.11,12479.76,4,0.7,Basic,Month-to-Month,0
+USR-20753,37,48.88,1842.48,2,1.9,Pro,Month-to-Month,0
+USR-20754,20,171.9,3179.21,5,1.7,Pro,Month-to-Month,1
+USR-20755,46,202.41,9150.18,1,6.1,Pro,Two Year,0
+USR-20756,42,34.49,1357.26,1,0.8,Basic,One Year,0
+USR-20757,33,135.67,4455.03,2,1.0,Basic,One Year,0
+USR-20758,10,298.77,2806.78,5,1.9,Basic,Month-to-Month,1
+USR-20759,3,33.67,104.47,3,1.3,Basic,One Year,1
+USR-20760,45,247.32,10841.68,1,5.5,Pro,Month-to-Month,0
+USR-20761,18,112.36,2090.28,8,1.8,Pro,Month-to-Month,1
+USR-20762,25,176.53,4321.25,1,3.4,Basic,Month-to-Month,0
+USR-20763,18,132.81,2322.44,2,2.6,Basic,Two Year,0
+USR-20764,48,265.59,12503.57,4,2.8,Pro,Two Year,0
+USR-20765,28,200.08,5728.63,4,1.1,Pro,Month-to-Month,0
+USR-20766,2,262.37,533.85,2,2.5,Pro,One Year,0
+USR-20767,42,140.29,5989.41,2,3.5,Basic,Two Year,0
+USR-20768,39,216.43,8643.2,0,0.3,Basic,One Year,0
+USR-20769,47,38.6,1707.13,1,2.2,Basic,Month-to-Month,0
+USR-20770,39,234.78,9047.07,3,2.1,Basic,Month-to-Month,0
+USR-20771,21,102.79,2190.14,1,3.3,Basic,Two Year,0
+USR-20772,9,120.46,1126.57,0,0.4,Pro,Month-to-Month,0
+USR-20773,2,207.63,429.85,0,1.1,Basic,Two Year,0
+USR-20774,44,215.39,9497.49,4,4.5,Pro,Month-to-Month,0
+USR-20775,47,225.71,9887.73,0,3.5,Basic,Two Year,0
+USR-20776,12,268.92,3285.3,0,2.1,Enterprise,One Year,0
+USR-20777,45,43.79,1898.86,1,1.0,Basic,Month-to-Month,0
+USR-20778,17,200.61,3314.08,0,3.1,Basic,Month-to-Month,0
+USR-20779,31,209.69,6700.47,1,1.7,Basic,Month-to-Month,1
+USR-20780,27,66.63,1695.35,5,2.0,Basic,Month-to-Month,0
+USR-20781,9,258.37,2325.65,4,1.8,Pro,Two Year,1
+USR-20782,28,99.47,2596.27,3,0.3,Basic,Two Year,0
+USR-20783,26,73.13,1883.69,7,2.0,Pro,Month-to-Month,1
+USR-20784,16,279.19,4430.08,7,2.1,Basic,Month-to-Month,0
+USR-20785,47,196.19,9136.29,0,5.8,Pro,Month-to-Month,0
+USR-20786,7,285.85,2069.53,1,5.0,Pro,Month-to-Month,0
+USR-20787,20,165.55,3383.93,0,1.4,Basic,One Year,0
+USR-20788,20,128.88,2637.1,0,1.0,Basic,Month-to-Month,0
+USR-20789,24,149.21,3495.05,2,0.5,Basic,Month-to-Month,0
+USR-20790,17,82.39,1302.88,5,1.1,Basic,One Year,0
+USR-20791,6,269.37,1619.91,5,3.6,Basic,One Year,1
+USR-20792,2,140.15,280.86,0,3.6,Basic,Two Year,0
+USR-20793,5,275.61,1303.13,0,0.7,Pro,Month-to-Month,1
+USR-20794,33,162.07,5446.78,0,0.7,Basic,Two Year,0
+USR-20795,29,88.8,2511.49,4,0.8,Basic,Month-to-Month,0
+USR-20796,23,259.61,6023.92,5,0.6,Basic,Month-to-Month,1
+USR-20797,12,31.58,383.94,1,2.4,Enterprise,One Year,0
+USR-20798,23,267.72,5790.64,1,1.9,Basic,One Year,0
+USR-20799,1,193.23,194.44,1,1.9,Pro,Month-to-Month,1
+USR-20800,46,225.36,9835.91,1,2.4,Enterprise,One Year,0
+USR-20801,29,76.57,2055.8,3,0.7,Basic,Month-to-Month,0
+USR-20802,10,30.78,291.86,3,1.0,Basic,One Year,0
+USR-20803,44,227.42,10264.43,3,2.5,Pro,Month-to-Month,0
+USR-20804,16,175.11,2805.15,3,3.4,Enterprise,One Year,0
+USR-20805,30,232.24,6905.2,1,2.3,Basic,Month-to-Month,0
+USR-20806,17,218.65,3464.17,0,2.3,Basic,Month-to-Month,0
+USR-20807,2,244.49,489.25,5,1.6,Basic,Month-to-Month,1
+USR-20808,8,268.17,2124.11,0,1.3,Basic,Two Year,0
+USR-20809,31,68.27,2047.49,1,5.8,Basic,Month-to-Month,0
+USR-20810,29,228.27,6734.39,3,3.7,Pro,One Year,0
+USR-20811,23,138.2,2975.6,1,6.0,Basic,Month-to-Month,1
+USR-20812,24,163.48,3825.64,1,6.4,Pro,One Year,0
+USR-20813,47,67.73,3191.23,7,4.7,Basic,Month-to-Month,0
+USR-20814,26,269.14,6585.54,1,5.5,Basic,Month-to-Month,0
+USR-20815,7,131.13,877.03,1,3.0,Pro,Month-to-Month,0
+USR-20816,17,159.37,2766.2,1,1.8,Basic,Month-to-Month,0
+USR-20817,2,88.43,174.41,4,2.6,Pro,One Year,0
+USR-20818,15,216.32,3015.88,1,0.9,Enterprise,Month-to-Month,0
+USR-20819,11,160.28,1634.23,1,1.2,Enterprise,Month-to-Month,0
+USR-20820,44,69.18,2834.81,2,1.0,Basic,Month-to-Month,0
+USR-20821,6,174.84,1021.31,2,0.5,Basic,Month-to-Month,0
+USR-20822,47,170.56,7617.47,2,2.1,Basic,Two Year,0
+USR-20823,32,63.53,1938.43,5,5.2,Basic,One Year,0
+USR-20824,35,208.98,7602.4,6,1.1,Enterprise,Two Year,0
+USR-20825,16,55.56,861.36,4,1.0,Enterprise,One Year,0
+USR-20826,12,231.1,2802.03,0,3.0,Basic,Two Year,0
+USR-20827,6,184.96,1139.72,2,3.8,Pro,Month-to-Month,0
+USR-20828,11,218.37,2242.72,1,5.8,Basic,Month-to-Month,0
+USR-20829,44,217.8,8948.7,1,1.2,Enterprise,Month-to-Month,0
+USR-20830,3,113.82,338.81,0,2.3,Basic,Month-to-Month,0
+USR-20831,22,165.94,3508.34,1,3.7,Pro,One Year,0
+USR-20832,18,299.77,5105.24,2,0.9,Enterprise,Month-to-Month,0
+USR-20833,18,48.82,871.75,3,1.6,Basic,One Year,0
+USR-20834,17,254.65,4433.46,6,3.9,Basic,One Year,1
+USR-20835,35,136.68,4729.14,1,1.3,Pro,Month-to-Month,0
+USR-20836,7,114.76,760.03,0,1.2,Pro,Month-to-Month,0
+USR-20837,48,121.16,6018.95,0,2.9,Basic,Two Year,0
+USR-20838,30,66.61,1905.0,3,2.8,Pro,Month-to-Month,0
+USR-20839,31,201.72,6422.44,1,2.0,Basic,Month-to-Month,0
+USR-20840,31,81.86,2465.22,0,3.8,Pro,One Year,0
+USR-20841,46,278.36,12249.81,3,3.4,Enterprise,Month-to-Month,0
+USR-20842,47,91.96,4396.14,1,1.2,Enterprise,Month-to-Month,0
+USR-20843,42,243.53,9766.17,0,4.7,Enterprise,Month-to-Month,0
+USR-20844,2,72.47,138.21,4,3.0,Basic,Two Year,1
+USR-20845,43,228.67,9548.6,0,1.6,Basic,One Year,0
+USR-20846,20,163.64,3086.54,2,4.0,Basic,Month-to-Month,0
+USR-20847,9,111.01,958.1,0,3.3,Enterprise,Month-to-Month,0
+USR-20848,43,273.48,11919.43,0,1.1,Pro,Month-to-Month,0
+USR-20849,12,39.5,490.5,1,1.8,Pro,Two Year,0
+USR-20850,12,239.34,2838.71,1,2.6,Basic,One Year,0
+USR-20851,35,241.25,7962.67,3,6.1,Pro,Month-to-Month,0
+USR-20852,41,261.83,10255.03,1,3.6,Basic,Month-to-Month,0
+USR-20853,20,212.12,4177.3,1,1.2,Basic,Two Year,0
+USR-20854,25,147.76,3669.9,3,2.4,Basic,Month-to-Month,0
+USR-20855,47,181.74,8251.75,2,0.8,Basic,Month-to-Month,0
+USR-20856,2,185.95,357.65,9,6.6,Enterprise,One Year,0
+USR-20857,39,103.42,4187.7,2,2.8,Pro,Two Year,0
+USR-20858,14,117.12,1527.42,5,1.9,Basic,One Year,0
+USR-20859,1,40.15,39.79,2,1.4,Enterprise,Month-to-Month,1
+USR-20860,19,229.67,4334.33,1,1.8,Basic,Month-to-Month,0
+USR-20861,17,153.38,2526.71,0,3.9,Basic,Two Year,0
+USR-20862,38,43.89,1703.77,2,2.5,Enterprise,Two Year,0
+USR-20863,22,135.88,3047.69,1,1.6,Pro,Two Year,0
+USR-20864,25,162.67,3884.17,2,4.2,Basic,Month-to-Month,0
+USR-20865,40,269.64,11195.52,2,1.6,Enterprise,Month-to-Month,0
+USR-20866,2,204.33,414.29,1,4.0,Basic,Month-to-Month,1
+USR-20867,46,232.33,10171.15,0,2.8,Pro,Month-to-Month,0
+USR-20868,22,246.41,5068.24,8,1.2,Pro,Month-to-Month,0
+USR-20869,25,266.12,6360.95,12,0.5,Pro,Month-to-Month,1
+USR-20870,16,234.85,3640.61,2,0.4,Basic,Month-to-Month,1
+USR-20871,6,35.86,200.0,4,2.1,Pro,Month-to-Month,0
+USR-20872,42,86.26,3663.1,3,2.4,Enterprise,Two Year,0
+USR-20873,23,171.52,3988.66,0,1.1,Basic,Two Year,0
+USR-20874,14,98.5,1381.21,1,3.0,Pro,Month-to-Month,0
+USR-20875,16,92.8,1461.74,3,0.9,Basic,Month-to-Month,0
+USR-20876,48,273.58,12788.04,1,0.8,Basic,Month-to-Month,0
+USR-20877,28,76.72,2082.89,0,1.3,Pro,One Year,0
+USR-20878,36,276.99,9898.39,4,1.3,Pro,Month-to-Month,0
+USR-20879,19,205.51,4033.21,5,4.1,Basic,Month-to-Month,0
+USR-20880,17,267.1,4651.06,8,5.1,Basic,Month-to-Month,1
+USR-20881,17,265.46,4163.99,5,2.0,Basic,Month-to-Month,1
+USR-20882,6,50.52,306.31,4,3.4,Pro,Month-to-Month,1
+USR-20883,46,42.55,2000.62,3,5.3,Basic,Month-to-Month,0
+USR-20884,19,225.02,4109.53,2,3.5,Basic,Month-to-Month,0
+USR-20885,44,65.13,2778.01,10,3.3,Pro,Month-to-Month,0
+USR-20886,17,155.92,2710.69,2,1.3,Enterprise,One Year,0
+USR-20887,5,51.23,256.85,2,2.8,Pro,Two Year,1
+USR-20888,7,214.36,1437.79,1,1.4,Basic,Month-to-Month,0
+USR-20889,6,167.89,1019.12,1,4.1,Basic,One Year,0
+USR-20890,25,177.83,4168.65,2,4.4,Basic,Month-to-Month,0
+USR-20891,24,34.52,826.02,0,4.1,Pro,Month-to-Month,0
+USR-20892,46,80.19,3580.8,1,0.2,Basic,Month-to-Month,0
+USR-20893,12,276.94,3084.17,0,0.5,Pro,Month-to-Month,0
+USR-20894,20,151.78,2881.5,2,4.3,Basic,Month-to-Month,0
+USR-20895,9,30.71,265.13,1,0.7,Pro,One Year,0
+USR-20896,15,241.42,3540.55,1,1.7,Enterprise,One Year,0
+USR-20897,27,141.67,3943.98,5,2.3,Basic,Month-to-Month,0
+USR-20898,33,212.06,6445.42,1,1.8,Enterprise,Month-to-Month,0
+USR-20899,6,124.29,771.17,7,4.9,Basic,Month-to-Month,0
+USR-20900,21,122.8,2565.17,2,5.5,Pro,One Year,0
+USR-20901,11,292.19,3170.64,1,1.7,Enterprise,Two Year,0
+USR-20902,23,234.62,5079.7,2,1.2,Enterprise,Month-to-Month,0
+USR-20903,3,227.72,709.89,8,0.5,Basic,Month-to-Month,1
+USR-20904,12,114.16,1286.13,3,4.5,Pro,Month-to-Month,0
+USR-20905,7,76.8,527.82,0,1.9,Basic,Two Year,0
+USR-20906,13,259.21,3485.22,1,2.1,Pro,Two Year,0
+USR-20907,48,139.95,6675.07,1,4.8,Basic,One Year,0
+USR-20908,48,246.05,11326.93,5,0.8,Enterprise,Month-to-Month,1
+USR-20909,27,283.46,7828.86,2,1.6,Basic,Month-to-Month,0
+USR-20910,47,246.99,10711.76,9,8.3,Pro,One Year,0
+USR-20911,11,209.31,2155.24,3,1.9,Pro,Two Year,0
+USR-20912,6,200.85,1180.89,7,1.9,Basic,One Year,0
+USR-20913,10,38.22,360.5,1,2.8,Basic,Month-to-Month,0
+USR-20914,15,67.56,1029.57,3,2.4,Pro,Month-to-Month,0
+USR-20915,11,69.35,706.09,3,2.2,Pro,One Year,0
+USR-20916,17,247.36,4149.53,7,0.9,Basic,Month-to-Month,0
+USR-20917,3,119.41,372.38,5,2.7,Enterprise,Month-to-Month,1
+USR-20918,23,258.73,6107.71,1,0.4,Basic,Month-to-Month,0
+USR-20919,47,187.78,8469.61,1,3.8,Basic,Month-to-Month,0
+USR-20920,23,146.47,3153.69,2,2.4,Pro,One Year,0
+USR-20921,28,218.25,6290.41,2,1.9,Basic,Month-to-Month,0
+USR-20922,38,36.21,1280.46,0,4.2,Basic,Two Year,0
+USR-20923,38,104.81,4024.15,6,0.6,Basic,Month-to-Month,1
+USR-20924,8,235.17,1895.72,5,2.5,Pro,One Year,0
+USR-20925,46,183.77,8089.63,2,4.6,Pro,One Year,0
+USR-20926,15,113.05,1586.17,1,1.7,Pro,Month-to-Month,0
+USR-20927,37,119.46,4183.67,3,2.7,Pro,Month-to-Month,0
+USR-20928,48,237.95,11651.92,1,3.8,Enterprise,Month-to-Month,0
+USR-20929,43,174.38,7065.45,5,2.5,Pro,Month-to-Month,0
+USR-20930,34,88.94,2871.12,1,2.1,Basic,Month-to-Month,0
+USR-20931,28,160.93,4366.99,2,0.2,Basic,One Year,0
+USR-20932,18,228.19,4062.01,4,2.3,Basic,One Year,1
+USR-20933,31,117.03,3487.72,4,1.6,Enterprise,One Year,0
+USR-20934,35,221.3,8023.13,0,3.8,Basic,Month-to-Month,0
+USR-20935,11,145.7,1536.65,0,3.2,Basic,Month-to-Month,0
+USR-20936,23,242.52,5179.88,1,3.4,Basic,Month-to-Month,0
+USR-20937,28,94.14,2653.62,6,0.4,Basic,Month-to-Month,1
+USR-20938,8,136.91,1032.85,0,4.6,Basic,One Year,0
+USR-20939,18,69.03,1221.32,4,4.9,Basic,Month-to-Month,1
+USR-20940,41,170.36,6638.91,3,3.3,Basic,Month-to-Month,0
+USR-20941,20,179.45,3332.88,5,1.2,Pro,Month-to-Month,0
+USR-20942,7,280.7,1884.64,1,2.9,Basic,Two Year,0
+USR-20943,18,281.47,5162.54,1,3.9,Basic,Month-to-Month,0
+USR-20944,45,260.18,11191.42,2,0.7,Pro,One Year,0
+USR-20945,29,229.49,6861.91,0,2.4,Basic,Month-to-Month,0
+USR-20946,23,291.85,6757.65,5,3.4,Pro,Two Year,0
+USR-20947,30,121.84,3503.15,0,2.0,Pro,Month-to-Month,0
+USR-20948,18,107.9,1878.98,1,3.1,Pro,One Year,0
+USR-20949,37,218.17,8335.28,2,0.5,Basic,Month-to-Month,0
+USR-20950,18,110.7,2022.92,2,0.9,Basic,Two Year,0
+USR-20951,12,170.39,2046.23,1,5.0,Pro,Month-to-Month,0
+USR-20952,23,132.38,2917.8,6,2.3,Basic,One Year,0
+USR-20953,46,86.76,4071.74,1,4.8,Pro,Month-to-Month,0
+USR-20954,37,77.16,2674.79,0,2.9,Enterprise,Month-to-Month,0
+USR-20955,45,95.06,4379.58,1,1.7,Basic,Month-to-Month,0
+USR-20956,8,286.42,2284.98,2,6.8,Pro,Month-to-Month,0
+USR-20957,43,100.84,4268.42,0,1.7,Enterprise,Month-to-Month,0
+USR-20958,15,122.49,1833.27,3,2.3,Pro,Two Year,0
+USR-20959,14,197.28,2645.06,1,0.9,Basic,Month-to-Month,0
+USR-20960,44,232.46,10374.41,5,2.3,Pro,Month-to-Month,0
+USR-20961,42,140.36,5454.86,4,1.3,Pro,Month-to-Month,0
+USR-20962,48,228.73,11137.71,3,2.1,Basic,Month-to-Month,0
+USR-20963,29,201.06,5431.46,3,2.4,Pro,One Year,0
+USR-20964,19,63.6,1162.38,1,1.6,Pro,Month-to-Month,0
+USR-20965,46,236.97,10077.07,2,1.0,Basic,Month-to-Month,0
+USR-20966,44,38.42,1726.94,4,2.1,Basic,Month-to-Month,0
+USR-20967,37,39.02,1422.31,3,1.0,Basic,Month-to-Month,0
+USR-20968,10,59.65,605.91,2,5.0,Pro,Two Year,0
+USR-20969,26,212.74,5323.0,1,2.0,Basic,One Year,0
+USR-20970,34,190.46,5992.93,0,0.8,Basic,One Year,0
+USR-20971,15,246.22,3761.38,3,3.1,Basic,One Year,0
+USR-20972,20,74.53,1484.98,9,1.2,Pro,Month-to-Month,1
+USR-20973,47,183.29,8382.0,4,0.5,Pro,Month-to-Month,0
+USR-20974,43,32.96,1312.66,2,4.2,Pro,Month-to-Month,0
+USR-20975,10,135.24,1248.3,0,3.0,Pro,Month-to-Month,0
+USR-20976,34,135.38,4753.33,0,5.5,Enterprise,One Year,0
+USR-20977,17,199.18,3182.78,5,0.7,Pro,Month-to-Month,0
+USR-20978,22,248.69,5601.49,1,4.6,Enterprise,One Year,0
+USR-20979,24,219.01,4949.82,3,1.5,Basic,Month-to-Month,0
+USR-20980,45,173.72,7989.38,6,1.6,Enterprise,Month-to-Month,0
+USR-20981,44,121.28,4946.52,2,3.4,Pro,Month-to-Month,0
+USR-20982,47,145.78,6550.93,0,5.0,Basic,Month-to-Month,0
+USR-20983,9,74.76,695.4,1,2.5,Basic,Two Year,0
+USR-20984,8,79.83,600.5,1,1.9,Pro,Two Year,0
+USR-20985,19,156.54,2908.67,3,0.2,Pro,Month-to-Month,0
+USR-20986,16,239.37,3696.89,3,1.8,Pro,One Year,1
+USR-20987,27,80.09,2013.78,0,1.4,Pro,Month-to-Month,0
+USR-20988,7,165.26,1177.26,1,1.2,Basic,One Year,0
+USR-20989,26,99.3,2508.29,1,3.0,Basic,One Year,0
+USR-20990,15,194.48,2690.98,4,1.3,Basic,Month-to-Month,0
+USR-20991,32,204.19,6191.28,0,5.6,Pro,Month-to-Month,0
+USR-20992,8,179.11,1445.04,1,2.8,Enterprise,Month-to-Month,0
+USR-20993,1,154.83,145.7,8,1.3,Pro,One Year,1
+USR-20994,11,138.4,1401.24,0,2.0,Pro,Month-to-Month,0
+USR-20995,24,244.01,5749.23,0,6.3,Basic,Two Year,0
+USR-20996,33,253.43,7886.95,5,1.7,Pro,Two Year,0
+USR-20997,22,277.92,5901.99,1,3.8,Basic,Month-to-Month,0
+USR-20998,4,274.97,1112.88,0,2.7,Pro,Month-to-Month,0
+USR-20999,38,220.75,8287.43,0,1.2,Enterprise,Month-to-Month,0
+USR-21000,32,51.98,1627.28,0,0.3,Basic,Month-to-Month,0
+USR-21001,5,64.97,334.34,3,1.9,Basic,One Year,0
+USR-21002,21,86.38,1766.43,2,0.7,Pro,Month-to-Month,0
+USR-21003,43,147.6,5885.24,1,1.2,Enterprise,One Year,0
+USR-21004,46,152.85,7004.4,5,6.3,Basic,Month-to-Month,0
+USR-21005,12,101.32,1234.02,3,4.2,Enterprise,Two Year,0
+USR-21006,17,298.52,4876.08,4,1.5,Pro,Month-to-Month,0
+USR-21007,29,225.84,6196.13,0,0.6,Basic,Month-to-Month,0
+USR-21008,31,43.89,1348.78,5,2.9,Pro,Month-to-Month,1
+USR-21009,7,43.82,317.29,2,1.9,Basic,One Year,0
+USR-21010,22,154.55,3336.89,4,0.9,Pro,Month-to-Month,0
+USR-21011,44,36.67,1523.75,0,2.4,Basic,Two Year,0
+USR-21012,1,257.56,248.67,2,3.0,Enterprise,One Year,0
+USR-21013,14,170.23,2458.96,4,2.3,Enterprise,Two Year,0
+USR-21014,29,190.95,5405.79,4,1.1,Pro,Month-to-Month,0
+USR-21015,30,189.09,5817.47,4,2.1,Basic,Month-to-Month,0
+USR-21016,12,80.6,981.86,1,1.0,Basic,One Year,0
+USR-21017,4,242.69,918.22,2,1.2,Basic,Month-to-Month,0
+USR-21018,2,255.31,528.1,1,1.2,Basic,Month-to-Month,1
+USR-21019,22,148.15,3342.72,1,0.8,Basic,Month-to-Month,0
+USR-21020,4,38.9,150.29,7,1.3,Pro,Month-to-Month,1
+USR-21021,22,96.25,1977.69,2,4.6,Pro,Month-to-Month,0
+USR-21022,20,274.21,5393.87,0,1.3,Pro,Month-to-Month,0
+USR-21023,22,246.18,5294.43,5,3.3,Basic,One Year,1
+USR-21024,47,189.31,8324.63,0,7.9,Basic,Two Year,0
+USR-21025,46,273.95,12440.67,8,10.0,Pro,One Year,0
+USR-21026,31,182.77,5740.71,0,5.9,Basic,Month-to-Month,0
+USR-21027,24,245.23,5537.34,4,2.3,Basic,Month-to-Month,0
+USR-21028,16,82.56,1244.25,2,1.6,Basic,Month-to-Month,0
+USR-21029,6,70.51,390.29,3,4.3,Basic,One Year,0
+USR-21030,20,128.96,2456.92,1,2.6,Pro,One Year,0
+USR-21031,18,139.55,2350.62,2,0.7,Pro,Month-to-Month,0
+USR-21032,11,252.8,2635.02,3,0.5,Pro,Month-to-Month,0
+USR-21033,13,84.44,1085.36,1,1.2,Basic,One Year,1
+USR-21034,4,244.81,1002.48,1,0.8,Basic,One Year,0
+USR-21035,46,56.92,2608.14,0,1.7,Pro,Month-to-Month,0
+USR-21036,31,210.7,6030.88,0,0.6,Basic,Month-to-Month,0
+USR-21037,47,125.25,5584.13,3,3.4,Basic,Month-to-Month,0
+USR-21038,7,122.78,890.19,2,1.8,Basic,Month-to-Month,1
+USR-21039,39,204.39,7413.18,2,2.2,Basic,One Year,0
+USR-21040,20,276.97,5295.02,4,5.9,Basic,Month-to-Month,0
+USR-21041,34,279.92,9027.41,0,1.5,Enterprise,One Year,0
+USR-21042,29,93.61,2798.52,1,5.1,Enterprise,Month-to-Month,0
+USR-21043,20,83.33,1709.93,5,3.2,Basic,One Year,0
+USR-21044,24,158.66,3657.46,1,4.0,Enterprise,Two Year,0
+USR-21045,11,195.6,2126.99,4,1.2,Pro,One Year,1
+USR-21046,31,186.91,5621.84,0,1.4,Basic,Month-to-Month,0
+USR-21047,27,64.4,1783.1,1,3.9,Pro,Month-to-Month,0
+USR-21048,10,279.16,2642.25,4,1.2,Basic,Two Year,0
+USR-21049,41,293.12,12372.26,3,0.9,Enterprise,Month-to-Month,0
+USR-21050,12,136.91,1691.18,1,2.8,Enterprise,One Year,0
+USR-21051,9,277.96,2540.82,1,1.6,Pro,Month-to-Month,0
+USR-21052,11,185.3,2031.13,4,1.6,Basic,One Year,0
+USR-21053,6,295.38,1683.5,2,1.5,Basic,Month-to-Month,1
+USR-21054,13,68.67,881.58,2,3.9,Basic,One Year,0
+USR-21055,42,114.17,4495.34,2,1.3,Basic,Month-to-Month,0
+USR-21056,46,278.68,12064.54,1,1.9,Basic,One Year,0
+USR-21057,28,149.57,4035.69,5,1.1,Pro,Month-to-Month,1
+USR-21058,21,260.48,5517.78,3,7.0,Pro,Month-to-Month,0
+USR-21059,45,90.05,3950.14,1,5.3,Enterprise,Month-to-Month,0
+USR-21060,15,104.84,1493.7,6,0.7,Basic,Month-to-Month,1
+USR-21061,41,183.91,7275.77,3,2.2,Basic,Month-to-Month,0
+USR-21062,26,43.0,1061.9,0,4.0,Basic,Month-to-Month,0
+USR-21063,38,288.12,10423.17,15,0.5,Enterprise,One Year,1
+USR-21064,22,136.17,2781.68,2,0.9,Enterprise,Month-to-Month,0
+USR-21065,3,284.16,863.12,0,0.6,Enterprise,Two Year,0
+USR-21066,2,124.3,250.87,3,1.5,Enterprise,Two Year,0
+USR-21067,31,59.71,1856.64,5,1.5,Basic,Two Year,0
+USR-21068,15,76.88,1132.2,3,0.2,Basic,Month-to-Month,0
+USR-21069,5,211.25,1082.35,3,1.2,Enterprise,Month-to-Month,0
+USR-21070,5,114.41,546.14,0,3.1,Pro,Month-to-Month,0
+USR-21071,39,150.25,6007.84,1,3.8,Basic,Two Year,0
+USR-21072,48,236.66,10502.63,0,2.0,Basic,Month-to-Month,0
+USR-21073,33,171.59,5588.13,2,1.1,Enterprise,Month-to-Month,0
+USR-21074,16,179.8,2685.97,9,2.3,Basic,Month-to-Month,0
+USR-21075,27,281.35,7030.43,1,0.4,Basic,Month-to-Month,0
+USR-21076,11,132.64,1373.15,0,2.3,Basic,One Year,0
+USR-21077,36,60.3,2171.35,5,2.1,Basic,Month-to-Month,0
+USR-21078,30,169.25,5114.35,3,0.3,Basic,Month-to-Month,0
+USR-21079,34,235.25,7919.14,11,1.8,Basic,Month-to-Month,1
+USR-21080,27,154.58,3879.55,1,2.1,Pro,Month-to-Month,0
+USR-21081,36,121.15,4269.68,0,2.0,Basic,One Year,0
+USR-21082,26,85.94,2137.11,7,3.2,Pro,Month-to-Month,0
+USR-21083,9,124.35,1141.74,1,1.6,Basic,Month-to-Month,0
+USR-21084,16,34.97,528.19,1,3.8,Pro,Month-to-Month,0
+USR-21085,24,106.45,2497.72,0,3.6,Basic,One Year,0
+USR-21086,2,207.7,431.86,1,2.8,Pro,Month-to-Month,0
+USR-21087,41,153.72,6191.92,2,1.5,Basic,Month-to-Month,0
+USR-21088,19,97.15,1746.86,3,0.3,Basic,Month-to-Month,0
+USR-21089,40,282.94,11751.18,2,2.1,Enterprise,Month-to-Month,0
+USR-21090,27,233.73,5921.42,2,3.8,Pro,One Year,0
+USR-21091,22,71.89,1602.71,2,0.5,Basic,Month-to-Month,0
+USR-21092,19,40.51,743.42,2,6.6,Basic,Month-to-Month,0
+USR-21093,34,182.23,5732.48,1,0.9,Enterprise,Month-to-Month,0
+USR-21094,26,146.46,3827.6,4,0.8,Basic,Month-to-Month,0
+USR-21095,3,187.59,543.52,1,0.6,Basic,Month-to-Month,0
+USR-21096,19,111.73,1992.6,0,2.7,Pro,Month-to-Month,0
+USR-21097,16,264.43,4011.57,0,1.8,Basic,One Year,0
+USR-21098,35,38.51,1264.69,3,3.3,Enterprise,One Year,0
+USR-21099,16,210.76,3267.8,1,0.3,Pro,Month-to-Month,0
+USR-21100,48,63.51,2841.89,2,1.5,Enterprise,One Year,0
+USR-21101,20,226.09,4382.1,2,4.9,Enterprise,Month-to-Month,0
+USR-21102,6,83.45,464.84,0,12.2,Pro,Month-to-Month,1
+USR-21103,22,278.83,6156.89,1,1.5,Enterprise,One Year,0
+USR-21104,29,40.4,1128.65,0,4.5,Pro,Two Year,0
+USR-21105,19,208.35,3881.06,2,0.5,Basic,One Year,0
+USR-21106,25,103.37,2524.44,7,0.9,Enterprise,Month-to-Month,0
+USR-21107,30,225.91,6257.34,1,1.3,Pro,Two Year,0
+USR-21108,39,284.48,10535.9,0,1.2,Enterprise,Month-to-Month,0
+USR-21109,41,139.21,5456.79,0,1.8,Basic,One Year,0
+USR-21110,5,219.75,1084.23,1,0.6,Basic,Two Year,0
+USR-21111,42,119.71,4871.16,0,1.6,Basic,Month-to-Month,0
+USR-21112,29,108.45,3090.09,2,1.5,Pro,One Year,0
+USR-21113,38,103.33,3731.31,0,0.2,Basic,Month-to-Month,0
+USR-21114,30,245.43,6777.34,0,2.3,Enterprise,One Year,0
+USR-21115,20,190.78,3880.75,4,0.7,Basic,Month-to-Month,0
+USR-21116,28,254.67,7409.74,1,0.3,Basic,Month-to-Month,0
+USR-21117,23,120.22,2740.26,1,1.2,Pro,Month-to-Month,0
+USR-21118,27,295.92,8238.12,1,0.9,Basic,One Year,1
+USR-21119,14,226.25,3051.01,6,7.4,Basic,One Year,0
+USR-21120,12,133.87,1555.85,1,4.1,Enterprise,One Year,0
+USR-21121,30,93.54,2916.58,1,2.8,Basic,Two Year,0
+USR-21122,32,223.76,6718.3,6,5.2,Pro,One Year,0
+USR-21123,22,291.82,6094.11,2,7.0,Basic,Month-to-Month,0
+USR-21124,45,51.12,2371.82,1,2.9,Enterprise,Month-to-Month,0
+USR-21125,29,283.04,7975.46,1,2.8,Enterprise,One Year,0
+USR-21126,9,61.97,561.11,1,1.6,Pro,Month-to-Month,0
+USR-21127,24,232.52,5397.31,1,5.8,Pro,Month-to-Month,0
+USR-21128,43,293.83,12603.19,1,0.1,Pro,Month-to-Month,0
+USR-21129,31,217.8,7007.44,3,4.5,Basic,Month-to-Month,0
+USR-21130,42,44.78,1735.68,6,1.9,Basic,Month-to-Month,0
+USR-21131,8,210.14,1697.9,0,1.6,Basic,Month-to-Month,0
+USR-21132,17,242.69,4274.89,3,3.2,Enterprise,Two Year,1
+USR-21133,44,229.75,9921.37,3,1.1,Pro,Month-to-Month,0
+USR-21134,4,236.31,947.5,6,4.0,Basic,Month-to-Month,0
+USR-21135,14,49.86,664.29,1,0.8,Enterprise,Month-to-Month,0
+USR-21136,41,297.79,12486.9,7,0.5,Enterprise,One Year,0
+USR-21137,9,267.26,2218.97,1,0.6,Basic,Month-to-Month,0
+USR-21138,5,202.27,1006.58,3,2.0,Pro,Month-to-Month,1
+USR-21139,33,81.09,2755.09,2,0.5,Basic,Month-to-Month,0
+USR-21140,15,241.01,3615.05,3,4.3,Enterprise,Month-to-Month,0
+USR-21141,10,269.08,2680.6,1,2.2,Basic,One Year,0
+USR-21142,17,193.34,3270.2,1,6.8,Basic,Two Year,0
+USR-21143,17,99.69,1698.21,1,4.5,Pro,Month-to-Month,0
+USR-21144,8,50.07,406.16,1,0.4,Pro,Month-to-Month,0
+USR-21145,32,159.29,5203.86,1,1.7,Pro,Month-to-Month,0
+USR-21146,25,218.61,5137.49,2,2.3,Basic,Month-to-Month,1
+USR-21147,10,34.26,345.19,8,0.7,Pro,Month-to-Month,0
+USR-21148,14,69.34,930.84,1,2.6,Pro,Month-to-Month,0
+USR-21149,37,286.86,10361.31,1,2.2,Pro,One Year,0
+USR-21150,32,260.22,7976.49,1,2.8,Basic,One Year,0
+USR-21151,6,49.83,292.26,1,1.9,Basic,One Year,0
+USR-21152,23,136.09,3124.91,5,0.7,Enterprise,Month-to-Month,0
+USR-21153,14,86.15,1224.89,2,1.7,Basic,Two Year,0
+USR-21154,37,290.27,10690.52,13,2.7,Basic,Two Year,0
+USR-21155,8,40.61,317.28,3,2.5,Pro,Month-to-Month,0
+USR-21156,23,235.86,5179.98,1,1.0,Basic,One Year,0
+USR-21157,36,109.62,3888.59,1,3.6,Pro,Month-to-Month,0
+USR-21158,14,199.88,2684.01,0,4.3,Basic,One Year,1
+USR-21159,24,268.94,5963.26,0,1.5,Basic,Month-to-Month,0
+USR-21160,12,86.15,957.01,1,0.2,Basic,Month-to-Month,1
+USR-21161,42,172.81,6679.84,6,3.6,Enterprise,One Year,0
+USR-21162,30,119.33,3381.45,0,2.1,Pro,Month-to-Month,0
+USR-21163,8,265.21,2132.58,1,2.0,Basic,Month-to-Month,0
+USR-21164,47,212.53,9200.88,1,0.1,Enterprise,Month-to-Month,1
+USR-21165,7,147.68,983.8,2,0.3,Basic,One Year,0
+USR-21166,7,118.87,831.01,2,1.5,Basic,One Year,0
+USR-21167,38,64.98,2300.11,1,3.1,Pro,Two Year,0
+USR-21168,47,224.08,9935.84,1,0.9,Basic,Month-to-Month,0
+USR-21169,43,244.15,10354.84,0,2.4,Enterprise,One Year,0
+USR-21170,16,124.45,1896.66,0,3.9,Basic,Month-to-Month,0
+USR-21171,48,264.99,12004.9,1,3.8,Basic,One Year,0
+USR-21172,12,138.49,1573.01,10,1.4,Enterprise,Month-to-Month,0
+USR-21173,23,246.62,5581.72,4,0.1,Basic,One Year,0
+USR-21174,20,253.23,4739.2,2,3.9,Pro,One Year,0
+USR-21175,12,42.19,510.52,1,1.9,Basic,One Year,0
+USR-21176,7,213.76,1517.61,11,4.0,Basic,Two Year,1
+USR-21177,17,117.78,2050.63,0,2.8,Basic,Month-to-Month,0
+USR-21178,3,245.45,687.08,1,0.7,Basic,Month-to-Month,0
+USR-21179,4,32.09,126.01,1,2.1,Basic,Month-to-Month,0
+USR-21180,34,188.4,6447.76,0,1.9,Basic,Month-to-Month,0
+USR-21181,39,233.87,8915.71,5,0.7,Basic,Month-to-Month,1
+USR-21182,15,87.03,1307.03,3,1.7,Enterprise,Two Year,0
+USR-21183,33,206.02,6700.3,4,4.9,Basic,One Year,0
+USR-21184,37,32.3,1100.08,1,2.9,Enterprise,One Year,0
+USR-21185,42,252.43,10748.58,1,3.7,Basic,One Year,0
+USR-21186,3,152.0,451.34,4,3.3,Basic,Month-to-Month,0
+USR-21187,23,298.24,6400.58,1,1.3,Enterprise,Month-to-Month,0
+USR-21188,22,287.79,6308.71,5,4.4,Pro,One Year,0
+USR-21189,24,166.69,3831.36,2,1.2,Basic,One Year,0
+USR-21190,5,132.16,649.67,14,1.1,Basic,One Year,1
+USR-21191,4,298.93,1193.64,0,3.8,Enterprise,Month-to-Month,0
+USR-21192,41,262.16,10296.65,0,3.2,Pro,Month-to-Month,0
+USR-21193,13,83.28,1088.48,1,0.2,Basic,Month-to-Month,0
+USR-21194,36,119.91,4368.13,3,1.2,Enterprise,Two Year,0
+USR-21195,26,115.06,2809.18,1,3.9,Pro,Month-to-Month,0
+USR-21196,17,190.43,2999.16,0,0.8,Basic,Month-to-Month,0
+USR-21197,22,269.27,5866.0,3,1.5,Basic,Two Year,0
+USR-21198,10,39.91,386.86,2,0.6,Basic,Two Year,0
+USR-21199,37,104.0,3757.24,1,2.8,Pro,Two Year,0

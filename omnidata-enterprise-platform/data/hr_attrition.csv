@@ -1,0 +1,1201 @@
+Employee_ID,Age,Department,Job_Role,Education_Level,Monthly_Salary_USD,Years_At_Company,Work_Life_Balance_Score,Job_Satisfaction_1to5,Performance_Rating_1to5,OverTime,Attrition
+EMP-40000,45,Sales,Manager,Masters,22470.81,20,4,4,2,No,0
+EMP-40001,29,Finance,Developer,PhD,4662.91,1,1,4,5,Yes,0
+EMP-40002,51,Engineering,Developer,Bachelors,9968.42,1,3,2,4,No,0
+EMP-40003,49,Engineering,Director,High School,17338.71,16,4,1,5,No,0
+EMP-40004,27,Marketing,Manager,Masters,10577.26,5,1,3,3,Yes,0
+EMP-40005,31,Engineering,Manager,High School,7637.0,3,3,5,5,No,0
+EMP-40006,51,Finance,Analyst,Bachelors,19794.94,17,1,3,4,No,0
+EMP-40007,62,Finance,Specialist,Bachelors,8273.61,3,2,2,4,No,0
+EMP-40008,25,Sales,Specialist,Bachelors,8488.33,1,2,3,5,No,1
+EMP-40009,26,HR,Director,Masters,9857.96,6,1,4,3,No,0
+EMP-40010,45,Finance,Executive,PhD,23106.1,20,4,4,2,No,0
+EMP-40011,58,Sales,Analyst,High School,26173.86,24,2,4,2,Yes,0
+EMP-40012,46,Sales,Manager,Masters,7411.11,2,3,3,2,No,0
+EMP-40013,23,Sales,Analyst,Bachelors,8262.56,3,4,5,5,No,0
+EMP-40014,57,Sales,Developer,Masters,25723.06,21,1,1,2,No,0
+EMP-40015,40,Sales,Manager,Masters,5263.95,1,1,3,5,Yes,0
+EMP-40016,42,HR,Director,High School,6775.13,1,4,1,5,Yes,0
+EMP-40017,37,Sales,Executive,Bachelors,12511.85,10,3,4,2,No,0
+EMP-40018,57,HR,Developer,PhD,21029.63,16,1,2,5,No,0
+EMP-40019,34,Engineering,Developer,PhD,15460.83,11,1,1,4,No,0
+EMP-40020,52,Engineering,Executive,Bachelors,20547.07,18,1,4,3,No,0
+EMP-40021,22,Sales,Analyst,PhD,8990.89,1,2,1,4,No,0
+EMP-40022,45,Engineering,Analyst,Bachelors,10030.24,4,4,1,2,No,0
+EMP-40023,52,Marketing,Analyst,Bachelors,26512.09,24,3,1,3,No,0
+EMP-40024,29,Finance,Director,PhD,6690.33,2,1,3,2,Yes,0
+EMP-40025,22,Sales,Director,Bachelors,7985.65,2,3,1,4,No,0
+EMP-40026,35,Engineering,Manager,High School,11840.95,7,4,5,4,No,0
+EMP-40027,61,Engineering,Executive,Masters,23300.04,22,3,2,3,No,0
+EMP-40028,25,Sales,Manager,High School,6510.69,1,1,2,5,Yes,0
+EMP-40029,61,Engineering,Director,PhD,21218.62,18,1,5,3,No,0
+EMP-40030,40,Finance,Specialist,PhD,13463.99,7,2,1,4,No,0
+EMP-40031,60,Operations,Analyst,PhD,17421.29,14,1,3,2,No,0
+EMP-40032,28,Finance,Specialist,Masters,6068.37,2,4,4,3,Yes,0
+EMP-40033,24,Engineering,Developer,PhD,7657.79,2,2,2,3,No,0
+EMP-40034,37,Engineering,Executive,High School,7454.2,1,2,4,2,Yes,1
+EMP-40035,41,Engineering,Executive,High School,15580.57,13,4,5,4,No,0
+EMP-40036,31,Sales,Director,Masters,11938.28,8,4,4,3,No,0
+EMP-40037,35,Operations,Specialist,Masters,15942.55,9,1,5,3,Yes,0
+EMP-40038,24,Sales,Developer,Bachelors,7611.49,2,4,3,2,No,0
+EMP-40039,30,Engineering,Executive,High School,11397.17,4,4,4,3,No,0
+EMP-40040,49,Sales,Executive,High School,9881.28,1,4,5,2,No,0
+EMP-40041,59,Engineering,Director,Masters,16323.92,12,2,5,4,No,0
+EMP-40042,23,Sales,Developer,High School,10309.61,3,1,5,5,No,0
+EMP-40043,35,Engineering,Executive,Bachelors,15282.07,9,2,3,2,No,0
+EMP-40044,44,Finance,Analyst,PhD,21990.93,17,1,3,3,Yes,0
+EMP-40045,42,Sales,Director,High School,23134.17,21,2,4,2,Yes,0
+EMP-40046,54,Marketing,Specialist,High School,25519.43,24,3,5,5,No,0
+EMP-40047,62,Engineering,Specialist,Bachelors,23652.08,23,2,4,3,No,0
+EMP-40048,43,Marketing,Manager,High School,11409.67,4,4,1,4,No,0
+EMP-40049,42,Sales,Director,Bachelors,14647.1,8,4,2,2,Yes,0
+EMP-40050,29,HR,Director,PhD,13282.85,7,3,3,3,Yes,0
+EMP-40051,56,Engineering,Manager,Bachelors,15967.04,12,4,4,5,Yes,0
+EMP-40052,22,Finance,Specialist,PhD,8095.23,2,1,3,5,No,0
+EMP-40053,46,Engineering,Executive,High School,20347.75,17,3,4,4,No,0
+EMP-40054,43,Marketing,Analyst,Masters,12367.48,9,4,4,3,No,0
+EMP-40055,25,Operations,Manager,Masters,11982.52,4,4,5,4,Yes,0
+EMP-40056,28,Engineering,Analyst,Bachelors,8097.88,4,2,5,5,No,0
+EMP-40057,37,Marketing,Manager,High School,10330.62,5,2,3,4,No,0
+EMP-40058,48,Engineering,Specialist,High School,10217.25,3,3,4,4,No,0
+EMP-40059,41,Engineering,Director,Bachelors,15025.33,10,2,4,3,No,0
+EMP-40060,22,Marketing,Developer,Bachelors,8242.74,1,3,4,2,No,0
+EMP-40061,40,Marketing,Developer,Bachelors,8574.62,1,1,5,2,No,0
+EMP-40062,59,Finance,Analyst,PhD,15542.25,10,1,1,5,No,0
+EMP-40063,47,Engineering,Director,High School,25252.8,24,3,2,2,No,0
+EMP-40064,30,Engineering,Director,High School,12124.71,4,2,2,2,No,0
+EMP-40065,47,Sales,Developer,Bachelors,26598.83,24,4,1,5,No,0
+EMP-40066,29,HR,Developer,Masters,11345.3,5,1,1,5,Yes,1
+EMP-40067,51,Operations,Analyst,Masters,14504.94,10,3,4,4,Yes,0
+EMP-40068,44,Engineering,Analyst,Masters,12758.45,10,3,1,2,No,1
+EMP-40069,54,Sales,Executive,PhD,12109.99,7,4,3,4,No,0
+EMP-40070,53,Finance,Executive,Masters,8063.01,2,3,3,3,No,0
+EMP-40071,32,HR,Developer,Bachelors,12669.21,7,3,2,2,No,0
+EMP-40072,30,Marketing,Specialist,High School,9779.05,5,2,2,3,No,0
+EMP-40073,51,Sales,Specialist,PhD,27386.65,23,1,3,5,No,0
+EMP-40074,62,Marketing,Specialist,PhD,19880.73,20,2,3,2,No,0
+EMP-40075,50,Marketing,Director,Bachelors,7617.08,1,1,5,5,No,0
+EMP-40076,33,Marketing,Manager,Masters,7255.74,2,1,2,3,No,0
+EMP-40077,60,Sales,Developer,Masters,15300.13,10,1,1,4,No,0
+EMP-40078,58,Sales,Analyst,PhD,12494.26,8,4,3,2,No,0
+EMP-40079,36,Engineering,Analyst,PhD,12541.41,2,4,1,2,No,0
+EMP-40080,26,Finance,Manager,PhD,9840.32,5,4,5,4,No,0
+EMP-40081,52,Engineering,Director,Bachelors,9610.17,5,2,1,2,No,0
+EMP-40082,41,Marketing,Developer,Bachelors,15202.89,11,2,4,5,Yes,0
+EMP-40083,23,Sales,Executive,PhD,11462.89,3,1,4,3,No,0
+EMP-40084,50,Sales,Analyst,Masters,9020.72,5,1,4,2,Yes,0
+EMP-40085,52,Sales,Director,Masters,19225.7,15,4,4,4,Yes,0
+EMP-40086,34,Marketing,Executive,High School,18452.32,14,1,5,4,No,0
+EMP-40087,59,Sales,Manager,PhD,17215.66,15,2,5,3,No,0
+EMP-40088,60,Engineering,Specialist,PhD,8735.37,4,3,2,5,No,0
+EMP-40089,56,HR,Specialist,Bachelors,18303.28,12,3,2,3,No,0
+EMP-40090,50,Sales,Manager,Bachelors,24389.89,22,4,3,5,No,0
+EMP-40091,49,Marketing,Specialist,High School,17330.05,12,1,2,2,No,0
+EMP-40092,24,Engineering,Executive,High School,7559.77,3,3,5,5,Yes,1
+EMP-40093,29,Marketing,Analyst,Masters,11500.2,9,1,4,3,Yes,0
+EMP-40094,43,Finance,Specialist,High School,23130.46,20,4,5,3,No,0
+EMP-40095,53,Engineering,Specialist,Masters,13644.7,6,4,5,5,No,0
+EMP-40096,44,Engineering,Analyst,Masters,17933.35,18,1,4,4,No,0
+EMP-40097,28,Engineering,Director,PhD,10649.26,5,3,1,5,No,0
+EMP-40098,58,Operations,Director,High School,9803.68,6,3,1,3,No,0
+EMP-40099,26,HR,Specialist,Masters,9645.26,6,4,5,4,Yes,0
+EMP-40100,42,Marketing,Executive,Masters,18880.41,12,1,2,2,No,0
+EMP-40101,30,Operations,Specialist,PhD,16232.16,10,1,3,4,No,0
+EMP-40102,49,Operations,Developer,High School,16588.1,13,1,1,4,Yes,0
+EMP-40103,39,Operations,Developer,Bachelors,9037.35,6,4,3,4,No,0
+EMP-40104,51,Sales,Director,High School,16022.97,12,2,5,5,No,0
+EMP-40105,25,Engineering,Specialist,PhD,7397.36,5,1,2,3,Yes,0
+EMP-40106,41,Finance,Specialist,Masters,9057.41,4,1,4,2,No,0
+EMP-40107,43,Engineering,Specialist,Masters,8904.75,1,3,2,4,Yes,0
+EMP-40108,53,Marketing,Developer,High School,10026.13,5,4,1,4,No,0
+EMP-40109,25,Sales,Developer,High School,10244.19,5,1,2,5,No,0
+EMP-40110,43,Sales,Analyst,Bachelors,6918.68,4,4,4,5,No,0
+EMP-40111,58,Operations,Specialist,High School,8811.86,2,4,1,5,Yes,0
+EMP-40112,26,Finance,Manager,Masters,4807.36,1,3,4,5,No,0
+EMP-40113,54,Engineering,Manager,High School,15894.12,12,4,5,5,No,0
+EMP-40114,33,Sales,Analyst,Masters,16399.34,12,1,5,5,Yes,0
+EMP-40115,53,HR,Executive,PhD,10330.87,1,1,2,3,No,0
+EMP-40116,27,Engineering,Analyst,High School,9868.27,4,1,3,2,No,0
+EMP-40117,33,Finance,Specialist,PhD,12685.55,10,1,2,5,Yes,0
+EMP-40118,25,Sales,Director,Masters,7327.57,2,4,2,5,No,0
+EMP-40119,36,Engineering,Director,Bachelors,14871.58,12,1,5,2,No,0
+EMP-40120,59,HR,Developer,PhD,17440.22,15,3,3,4,Yes,0
+EMP-40121,56,Engineering,Developer,Masters,21788.1,20,3,2,5,No,0
+EMP-40122,62,Operations,Executive,Masters,18157.13,14,1,1,5,No,0
+EMP-40123,49,HR,Executive,Bachelors,12701.15,10,3,1,5,No,0
+EMP-40124,46,Engineering,Specialist,High School,25286.62,22,2,1,5,No,0
+EMP-40125,57,Operations,Analyst,PhD,22579.68,18,2,3,2,Yes,0
+EMP-40126,53,Marketing,Executive,PhD,23677.74,23,1,1,3,Yes,0
+EMP-40127,26,Marketing,Executive,High School,7422.03,1,4,3,5,Yes,0
+EMP-40128,41,Marketing,Director,High School,17366.79,14,3,5,4,No,0
+EMP-40129,33,Operations,Developer,Bachelors,11886.85,2,1,2,5,Yes,0
+EMP-40130,61,HR,Manager,High School,23975.94,25,1,5,4,No,0
+EMP-40131,32,Sales,Manager,Masters,14717.38,10,3,3,4,Yes,0
+EMP-40132,56,HR,Developer,Masters,19599.76,17,3,3,5,No,0
+EMP-40133,28,Marketing,Analyst,Bachelors,9142.63,4,3,3,3,Yes,0
+EMP-40134,52,Sales,Executive,Masters,21750.7,20,3,2,4,Yes,0
+EMP-40135,36,Engineering,Manager,PhD,10523.68,5,1,2,4,No,0
+EMP-40136,58,Finance,Analyst,High School,9648.36,6,2,3,2,Yes,0
+EMP-40137,42,HR,Director,Bachelors,13943.69,10,2,5,4,Yes,0
+EMP-40138,56,Engineering,Specialist,Masters,15924.84,12,2,5,3,No,0
+EMP-40139,23,HR,Manager,PhD,7087.02,3,4,2,5,Yes,1
+EMP-40140,44,Sales,Director,Masters,18326.06,14,1,4,5,No,0
+EMP-40141,27,Sales,Manager,High School,12092.67,6,1,2,4,No,0
+EMP-40142,40,Finance,Specialist,High School,15430.94,11,4,2,5,Yes,0
+EMP-40143,59,Sales,Specialist,Bachelors,17175.01,17,1,3,3,No,0
+EMP-40144,59,Sales,Developer,Masters,26440.34,23,2,5,5,No,0
+EMP-40145,45,HR,Director,High School,28621.09,25,4,3,4,No,0
+EMP-40146,42,Finance,Manager,Masters,14368.09,5,2,3,5,No,0
+EMP-40147,30,Sales,Director,High School,8392.81,2,2,5,2,No,0
+EMP-40148,46,Engineering,Director,High School,19878.84,19,3,3,2,Yes,0
+EMP-40149,55,Engineering,Director,Masters,21301.73,20,2,1,5,Yes,0
+EMP-40150,46,Engineering,Director,Masters,16970.98,16,1,1,3,No,0
+EMP-40151,22,Sales,Executive,PhD,7999.73,2,2,3,2,No,0
+EMP-40152,41,Engineering,Manager,PhD,9496.19,6,1,5,5,No,0
+EMP-40153,27,Finance,Developer,High School,6749.83,1,3,5,3,No,0
+EMP-40154,47,Engineering,Specialist,Bachelors,17611.67,17,3,3,4,Yes,0
+EMP-40155,30,HR,Manager,Masters,8668.15,7,4,4,5,Yes,0
+EMP-40156,36,HR,Developer,Bachelors,8444.3,2,3,2,2,No,0
+EMP-40157,58,Operations,Analyst,High School,19063.28,17,3,2,2,No,0
+EMP-40158,24,Engineering,Executive,High School,6929.4,3,2,1,2,Yes,0
+EMP-40159,61,Marketing,Analyst,High School,7771.1,1,2,1,3,No,0
+EMP-40160,26,Sales,Developer,High School,6460.9,1,2,4,4,No,0
+EMP-40161,27,Sales,Executive,Masters,9482.39,1,4,2,2,No,0
+EMP-40162,44,Engineering,Specialist,Masters,19557.16,13,1,1,4,Yes,0
+EMP-40163,23,Operations,Developer,High School,10572.99,3,2,3,2,Yes,0
+EMP-40164,32,Engineering,Executive,Bachelors,8453.83,2,1,2,2,No,0
+EMP-40165,57,Finance,Developer,PhD,8898.47,1,1,3,5,No,0
+EMP-40166,37,HR,Developer,High School,20387.05,16,1,3,4,Yes,0
+EMP-40167,57,Engineering,Director,Masters,26262.56,23,3,2,3,No,0
+EMP-40168,29,Operations,Director,Masters,14837.9,7,1,3,4,No,0
+EMP-40169,37,Engineering,Analyst,Bachelors,18291.75,11,1,2,3,No,1
+EMP-40170,47,Sales,Developer,Masters,16189.49,10,1,2,4,No,0
+EMP-40171,48,Engineering,Manager,Bachelors,12637.46,8,4,2,4,No,0
+EMP-40172,60,Engineering,Analyst,Bachelors,27564.96,23,3,1,5,Yes,0
+EMP-40173,45,Engineering,Director,PhD,17895.66,14,2,1,4,No,1
+EMP-40174,23,Engineering,Analyst,PhD,5854.72,2,3,4,4,No,0
+EMP-40175,54,Engineering,Director,Bachelors,10346.39,5,2,2,2,Yes,0
+EMP-40176,28,Marketing,Executive,Bachelors,11993.54,7,1,4,4,Yes,0
+EMP-40177,29,Finance,Director,Masters,9215.11,7,4,4,4,No,0
+EMP-40178,28,Finance,Director,Masters,7389.3,3,3,2,5,No,0
+EMP-40179,62,Sales,Director,High School,8396.71,6,1,2,2,Yes,0
+EMP-40180,57,Operations,Developer,Bachelors,11230.72,8,2,3,5,No,0
+EMP-40181,38,Engineering,Manager,High School,11200.74,4,4,3,4,Yes,0
+EMP-40182,45,Sales,Analyst,Bachelors,21364.8,18,1,4,4,No,0
+EMP-40183,42,Sales,Analyst,Masters,18383.59,15,2,5,4,Yes,0
+EMP-40184,24,Operations,Executive,Bachelors,8064.38,2,1,3,5,No,0
+EMP-40185,31,HR,Specialist,Bachelors,13411.21,8,3,1,5,Yes,0
+EMP-40186,32,Engineering,Manager,PhD,12144.55,6,1,2,4,No,0
+EMP-40187,33,Operations,Executive,Bachelors,13949.53,10,3,3,2,No,0
+EMP-40188,24,Engineering,Manager,High School,6177.22,1,2,5,2,No,0
+EMP-40189,35,HR,Executive,High School,16025.22,10,1,1,3,No,0
+EMP-40190,44,Sales,Developer,Masters,8803.69,2,3,4,4,No,0
+EMP-40191,52,Sales,Specialist,PhD,13384.36,13,2,3,2,No,0
+EMP-40192,25,Marketing,Developer,PhD,8873.44,2,2,3,5,No,0
+EMP-40193,59,Finance,Executive,High School,6993.06,4,1,2,4,No,0
+EMP-40194,28,Engineering,Executive,Masters,10964.37,6,2,2,5,No,0
+EMP-40195,56,HR,Developer,Bachelors,25744.32,25,3,2,3,No,0
+EMP-40196,24,Finance,Analyst,Masters,9008.88,1,1,5,3,No,0
+EMP-40197,55,Engineering,Developer,High School,22982.45,21,4,4,5,No,0
+EMP-40198,26,Sales,Director,Bachelors,11538.41,6,4,1,5,Yes,0
+EMP-40199,53,Engineering,Analyst,PhD,24926.14,23,3,1,5,No,0
+EMP-40200,29,Finance,Manager,High School,10230.18,7,3,2,2,No,0
+EMP-40201,42,Marketing,Analyst,High School,19646.66,16,4,5,4,No,0
+EMP-40202,32,Sales,Manager,High School,10576.53,4,2,3,3,No,0
+EMP-40203,62,Marketing,Executive,Bachelors,16762.45,11,4,4,4,No,0
+EMP-40204,38,Engineering,Manager,PhD,13721.74,7,2,2,5,No,0
+EMP-40205,27,Marketing,Director,High School,7515.83,1,3,1,2,No,1
+EMP-40206,39,Engineering,Manager,High School,10638.7,8,2,4,3,No,0
+EMP-40207,26,Sales,Analyst,Masters,9771.78,3,1,2,4,No,0
+EMP-40208,29,HR,Director,Masters,12610.84,7,3,4,5,No,0
+EMP-40209,50,Engineering,Specialist,High School,27006.59,25,2,3,4,Yes,0
+EMP-40210,42,Finance,Specialist,PhD,22220.74,15,1,1,5,No,0
+EMP-40211,33,Sales,Manager,High School,12692.46,11,1,1,4,Yes,0
+EMP-40212,29,Engineering,Director,PhD,7983.48,8,1,4,4,No,1
+EMP-40213,55,Operations,Director,PhD,8680.45,3,1,2,4,Yes,0
+EMP-40214,33,Sales,Manager,High School,6954.58,2,4,1,5,Yes,0
+EMP-40215,34,Engineering,Executive,Masters,16338.79,12,1,5,2,Yes,0
+EMP-40216,31,Sales,Manager,Bachelors,9342.83,5,1,5,3,Yes,0
+EMP-40217,27,Sales,Specialist,High School,10739.65,3,2,4,3,No,0
+EMP-40218,57,HR,Manager,Masters,24913.26,24,2,4,2,No,0
+EMP-40219,35,Marketing,Manager,PhD,16224.28,12,2,1,3,Yes,0
+EMP-40220,26,Sales,Director,Masters,7517.48,2,4,5,5,No,0
+EMP-40221,53,Engineering,Developer,High School,11286.61,6,4,3,2,Yes,0
+EMP-40222,37,Sales,Specialist,High School,9727.93,3,2,4,3,No,0
+EMP-40223,62,Sales,Developer,Masters,12891.0,6,4,5,2,Yes,0
+EMP-40224,37,Sales,Manager,High School,19953.6,17,2,1,5,Yes,0
+EMP-40225,54,Sales,Director,Bachelors,14190.42,11,4,2,3,No,0
+EMP-40226,46,Sales,Developer,Bachelors,22784.84,22,1,1,4,No,0
+EMP-40227,31,Sales,Developer,PhD,9819.41,5,4,1,3,Yes,0
+EMP-40228,48,Engineering,Executive,High School,12977.62,10,2,4,5,No,0
+EMP-40229,36,HR,Manager,High School,18463.73,15,4,1,5,No,0
+EMP-40230,43,Marketing,Director,Masters,14917.38,14,1,4,4,No,0
+EMP-40231,48,Sales,Analyst,Masters,16651.9,14,4,2,3,No,0
+EMP-40232,45,Sales,Developer,PhD,16407.14,12,4,4,4,No,0
+EMP-40233,39,Operations,Executive,Masters,19392.45,14,1,5,3,No,0
+EMP-40234,58,Finance,Manager,High School,7862.67,2,3,1,3,No,0
+EMP-40235,53,Marketing,Manager,Bachelors,20462.63,16,2,5,4,No,0
+EMP-40236,56,Finance,Specialist,Bachelors,26795.4,24,4,2,3,No,1
+EMP-40237,54,Operations,Director,Bachelors,14523.18,10,2,4,4,Yes,0
+EMP-40238,61,Finance,Executive,Bachelors,19944.69,17,1,1,5,No,0
+EMP-40239,59,Sales,Developer,High School,24394.78,24,2,5,3,No,0
+EMP-40240,61,Engineering,Manager,High School,15292.0,12,1,1,5,No,0
+EMP-40241,42,Sales,Executive,High School,11600.99,7,2,5,2,No,0
+EMP-40242,53,Marketing,Developer,PhD,19830.24,13,3,4,3,No,0
+EMP-40243,40,Engineering,Executive,High School,8445.68,1,1,4,5,No,0
+EMP-40244,26,Marketing,Manager,Bachelors,9477.59,4,2,3,4,No,0
+EMP-40245,51,Marketing,Developer,Bachelors,14712.93,10,2,2,5,No,0
+EMP-40246,43,Sales,Analyst,PhD,17225.19,13,2,3,3,No,0
+EMP-40247,37,Finance,Executive,Masters,13058.39,10,4,5,5,No,0
+EMP-40248,29,Sales,Analyst,Bachelors,12168.02,5,2,4,3,No,0
+EMP-40249,38,Engineering,Manager,High School,11044.61,4,2,4,2,No,0
+EMP-40250,60,Engineering,Developer,PhD,15265.27,10,2,1,3,Yes,0
+EMP-40251,42,Engineering,Specialist,Bachelors,11569.53,2,4,2,4,No,0
+EMP-40252,57,Sales,Manager,Bachelors,14635.16,13,3,4,3,No,0
+EMP-40253,45,Engineering,Developer,PhD,6939.93,4,2,4,5,No,0
+EMP-40254,53,Marketing,Executive,Masters,28255.18,24,3,5,5,No,0
+EMP-40255,59,Sales,Analyst,PhD,29174.13,25,4,5,2,No,0
+EMP-40256,60,Engineering,Analyst,Bachelors,9260.17,6,3,3,3,No,0
+EMP-40257,30,Sales,Executive,High School,11602.23,7,3,1,3,No,0
+EMP-40258,39,HR,Executive,High School,18527.05,17,1,5,5,No,0
+EMP-40259,27,Operations,Analyst,Bachelors,9290.39,5,2,3,2,No,0
+EMP-40260,40,Marketing,Director,PhD,14420.71,10,4,1,5,Yes,0
+EMP-40261,43,Marketing,Specialist,High School,10110.26,3,1,5,4,Yes,0
+EMP-40262,32,Sales,Analyst,Bachelors,12630.95,8,2,5,2,No,0
+EMP-40263,22,Engineering,Executive,Masters,7894.83,1,2,3,5,No,0
+EMP-40264,29,Marketing,Developer,PhD,12038.08,9,4,3,2,Yes,0
+EMP-40265,61,Engineering,Executive,Masters,15354.24,11,4,4,5,No,0
+EMP-40266,47,HR,Developer,High School,24696.88,25,2,4,5,No,0
+EMP-40267,55,Sales,Specialist,Masters,13100.36,8,4,2,2,Yes,0
+EMP-40268,31,Marketing,Specialist,Masters,9675.02,5,4,3,2,No,0
+EMP-40269,45,HR,Analyst,High School,16598.85,15,1,3,3,No,0
+EMP-40270,37,HR,Executive,PhD,15074.26,10,4,4,3,Yes,0
+EMP-40271,24,HR,Director,Masters,8535.04,2,3,5,3,No,0
+EMP-40272,59,Engineering,Developer,PhD,13732.2,8,3,3,5,No,0
+EMP-40273,60,Engineering,Developer,Masters,11074.41,7,2,1,4,Yes,0
+EMP-40274,39,Finance,Developer,PhD,17432.17,15,2,4,5,No,0
+EMP-40275,27,Marketing,Manager,High School,11730.51,4,2,2,3,Yes,0
+EMP-40276,61,Engineering,Manager,Bachelors,7804.86,3,3,4,5,No,0
+EMP-40277,33,Finance,Director,PhD,6933.4,1,4,3,2,Yes,0
+EMP-40278,41,Engineering,Director,High School,11850.03,8,3,2,3,Yes,0
+EMP-40279,45,Marketing,Analyst,PhD,15835.72,14,1,2,2,Yes,0
+EMP-40280,39,Marketing,Specialist,High School,10129.1,6,1,1,3,No,0
+EMP-40281,60,Engineering,Analyst,Masters,15801.52,11,2,3,4,No,0
+EMP-40282,49,Engineering,Executive,High School,24636.29,24,1,2,4,No,0
+EMP-40283,43,HR,Manager,PhD,6701.3,2,4,3,2,No,0
+EMP-40284,23,Sales,Executive,Masters,8734.38,3,3,3,5,No,0
+EMP-40285,25,Sales,Developer,High School,9822.14,1,1,5,4,No,0
+EMP-40286,62,Sales,Analyst,Masters,7447.14,1,3,4,4,Yes,0
+EMP-40287,38,Engineering,Manager,Bachelors,16597.99,11,3,1,2,No,0
+EMP-40288,35,Engineering,Analyst,Bachelors,11860.01,8,3,2,2,No,0
+EMP-40289,39,Marketing,Director,Masters,10886.72,6,2,4,3,Yes,0
+EMP-40290,45,HR,Analyst,PhD,28470.27,24,3,5,5,No,0
+EMP-40291,50,Sales,Manager,Masters,22372.72,20,2,5,4,Yes,0
+EMP-40292,44,Engineering,Executive,PhD,16734.47,15,2,5,2,No,0
+EMP-40293,52,Engineering,Executive,Masters,21963.58,20,4,5,3,Yes,0
+EMP-40294,57,Marketing,Specialist,PhD,21463.26,21,3,4,2,No,0
+EMP-40295,43,Finance,Manager,PhD,21779.44,22,4,4,2,No,0
+EMP-40296,50,Engineering,Executive,High School,13333.56,12,1,5,2,No,0
+EMP-40297,43,Finance,Director,Masters,7743.33,2,3,4,2,No,0
+EMP-40298,35,Sales,Director,High School,17587.24,14,4,4,3,No,0
+EMP-40299,41,Marketing,Analyst,PhD,9147.53,1,4,2,2,No,0
+EMP-40300,56,Marketing,Director,Bachelors,10172.18,4,2,4,5,No,0
+EMP-40301,26,Marketing,Executive,PhD,8313.44,2,4,1,5,No,0
+EMP-40302,52,Engineering,Developer,High School,23659.79,23,4,3,5,No,0
+EMP-40303,23,Sales,Developer,Masters,6686.23,1,1,1,5,Yes,0
+EMP-40304,36,Engineering,Analyst,Masters,11575.28,2,3,1,5,No,0
+EMP-40305,39,Engineering,Developer,High School,8661.21,1,3,2,3,Yes,0
+EMP-40306,35,Engineering,Analyst,High School,17411.86,14,4,1,2,No,0
+EMP-40307,25,Sales,Director,Masters,5345.03,4,4,5,3,Yes,0
+EMP-40308,29,Engineering,Specialist,Masters,6143.58,1,1,1,2,No,0
+EMP-40309,47,Engineering,Director,High School,25672.51,24,3,5,4,No,0
+EMP-40310,59,Engineering,Manager,Masters,14801.44,13,3,5,4,No,0
+EMP-40311,27,HR,Developer,Masters,9108.93,6,4,5,4,No,0
+EMP-40312,42,Engineering,Developer,Bachelors,14081.68,10,3,2,2,Yes,0
+EMP-40313,33,Engineering,Specialist,Bachelors,8253.23,1,1,2,5,No,0
+EMP-40314,43,Engineering,Analyst,Masters,25158.55,23,3,1,5,Yes,0
+EMP-40315,27,Engineering,Manager,Masters,5720.22,1,2,3,3,Yes,0
+EMP-40316,33,Operations,Manager,Masters,4156.16,1,3,5,2,No,0
+EMP-40317,49,Finance,Developer,Bachelors,10406.25,6,3,5,2,No,0
+EMP-40318,36,Engineering,Analyst,High School,19780.94,16,4,1,5,No,1
+EMP-40319,55,Finance,Director,High School,18192.38,14,4,2,4,Yes,0
+EMP-40320,48,Sales,Director,High School,11176.56,4,1,4,5,No,0
+EMP-40321,48,Operations,Analyst,Bachelors,15225.56,10,4,2,4,No,0
+EMP-40322,49,Sales,Analyst,Masters,19270.1,21,3,2,4,No,0
+EMP-40323,56,Sales,Executive,High School,25757.99,23,4,2,4,Yes,0
+EMP-40324,46,Engineering,Director,Masters,22820.01,22,1,1,4,No,0
+EMP-40325,61,Sales,Director,Bachelors,22319.18,22,4,1,4,No,0
+EMP-40326,61,Marketing,Specialist,Masters,10859.17,5,4,4,3,No,0
+EMP-40327,26,Marketing,Analyst,PhD,13445.14,6,2,2,4,Yes,0
+EMP-40328,59,Marketing,Developer,High School,8864.04,6,1,3,5,No,0
+EMP-40329,34,Engineering,Executive,Bachelors,10549.9,6,1,5,3,Yes,0
+EMP-40330,58,Engineering,Manager,PhD,15430.9,14,4,4,3,Yes,0
+EMP-40331,38,Engineering,Specialist,High School,16504.73,13,2,1,5,No,0
+EMP-40332,61,Sales,Specialist,PhD,9697.11,5,4,5,3,No,0
+EMP-40333,23,Marketing,Director,Masters,8295.55,3,3,1,5,No,0
+EMP-40334,59,Engineering,Analyst,PhD,12843.13,9,2,4,5,No,0
+EMP-40335,33,Engineering,Developer,Masters,15157.58,11,4,4,5,Yes,1
+EMP-40336,28,Marketing,Director,PhD,11976.07,5,3,2,3,No,0
+EMP-40337,47,Sales,Analyst,Bachelors,16888.86,14,2,1,5,No,0
+EMP-40338,37,Sales,Director,Masters,13490.97,10,1,3,2,No,0
+EMP-40339,50,Engineering,Analyst,Bachelors,21199.83,16,4,4,4,No,0
+EMP-40340,29,Engineering,Director,Masters,8794.14,2,4,5,3,Yes,0
+EMP-40341,56,Engineering,Manager,PhD,17546.72,12,2,3,2,No,1
+EMP-40342,34,Finance,Manager,PhD,5779.35,2,3,3,5,Yes,0
+EMP-40343,28,Marketing,Executive,Bachelors,7487.0,1,1,3,5,No,0
+EMP-40344,27,Marketing,Executive,Masters,11658.35,7,1,1,3,No,0
+EMP-40345,50,Operations,Director,Bachelors,16349.73,11,4,5,4,Yes,0
+EMP-40346,22,HR,Developer,High School,7838.65,2,3,1,2,No,1
+EMP-40347,56,Sales,Manager,Masters,23631.0,19,1,4,4,No,0
+EMP-40348,46,Engineering,Director,PhD,9192.42,2,4,4,4,No,0
+EMP-40349,62,Engineering,Specialist,Masters,21697.79,17,1,2,3,No,0
+EMP-40350,48,Engineering,Specialist,Bachelors,5953.1,1,1,1,2,Yes,0
+EMP-40351,22,Engineering,Manager,High School,6820.59,1,4,5,5,No,0
+EMP-40352,62,Engineering,Manager,Bachelors,22428.88,15,1,4,3,No,0
+EMP-40353,59,Sales,Director,High School,13164.51,6,1,3,4,Yes,0
+EMP-40354,26,Operations,Executive,Bachelors,12304.45,4,2,4,3,No,0
+EMP-40355,60,Engineering,Manager,High School,12142.69,7,3,5,3,No,0
+EMP-40356,46,Engineering,Executive,High School,22133.96,21,3,5,2,Yes,0
+EMP-40357,36,Finance,Analyst,PhD,14384.02,12,4,2,3,Yes,0
+EMP-40358,55,HR,Developer,High School,8717.72,3,3,5,5,No,0
+EMP-40359,62,Engineering,Specialist,Bachelors,13402.07,9,1,5,4,Yes,0
+EMP-40360,42,Marketing,Manager,Bachelors,8752.61,6,1,3,4,No,0
+EMP-40361,27,HR,Executive,Bachelors,10282.84,4,2,5,4,No,0
+EMP-40362,56,Marketing,Analyst,PhD,9170.67,2,2,4,3,No,0
+EMP-40363,47,Engineering,Executive,Bachelors,17651.33,16,2,1,2,No,0
+EMP-40364,44,Sales,Developer,Bachelors,22709.87,19,2,3,5,No,0
+EMP-40365,61,Engineering,Analyst,PhD,22599.15,21,4,5,2,No,0
+EMP-40366,49,HR,Director,Bachelors,9134.79,1,1,2,3,No,0
+EMP-40367,33,Engineering,Director,PhD,18303.77,13,4,1,2,Yes,0
+EMP-40368,29,Sales,Developer,High School,13961.24,8,3,4,2,No,0
+EMP-40369,52,Marketing,Manager,PhD,20170.44,18,4,4,4,No,0
+EMP-40370,25,Finance,Executive,Masters,6827.81,3,1,5,2,No,0
+EMP-40371,24,Marketing,Specialist,Masters,9728.45,3,4,3,2,No,0
+EMP-40372,30,Engineering,Manager,Masters,12301.91,4,4,3,5,Yes,0
+EMP-40373,49,Operations,Director,Masters,20352.72,17,4,4,4,No,0
+EMP-40374,44,Engineering,Analyst,High School,20239.61,18,3,1,5,No,0
+EMP-40375,54,Sales,Manager,High School,15821.15,10,4,1,3,Yes,1
+EMP-40376,43,Sales,Specialist,PhD,15942.69,11,4,5,4,Yes,0
+EMP-40377,62,Operations,Analyst,PhD,17597.76,15,1,3,2,No,0
+EMP-40378,24,Engineering,Director,High School,8263.63,2,4,5,4,No,0
+EMP-40379,55,Engineering,Specialist,Bachelors,10386.36,7,4,3,4,No,0
+EMP-40380,33,Sales,Developer,Masters,11320.78,4,3,1,5,No,0
+EMP-40381,27,Engineering,Developer,Bachelors,9862.07,6,4,4,5,Yes,0
+EMP-40382,46,Engineering,Analyst,Bachelors,19675.09,19,4,1,4,Yes,0
+EMP-40383,39,Sales,Executive,Masters,14247.2,10,4,4,3,No,0
+EMP-40384,47,Marketing,Developer,High School,15584.66,15,3,5,2,No,0
+EMP-40385,61,Sales,Analyst,Masters,28332.76,24,1,4,2,No,0
+EMP-40386,42,Engineering,Developer,Masters,19003.55,14,4,3,2,Yes,0
+EMP-40387,56,HR,Analyst,PhD,22663.33,20,3,5,5,No,0
+EMP-40388,58,Finance,Developer,Masters,16628.53,14,4,5,3,No,0
+EMP-40389,55,Marketing,Manager,PhD,21592.94,19,3,1,3,No,0
+EMP-40390,38,Engineering,Director,Masters,12742.72,7,1,2,4,No,0
+EMP-40391,26,Finance,Specialist,Masters,12590.16,6,4,3,3,No,0
+EMP-40392,40,Sales,Executive,High School,13654.23,7,2,2,2,No,0
+EMP-40393,24,Engineering,Director,Bachelors,9036.31,1,4,1,5,No,0
+EMP-40394,39,Engineering,Analyst,High School,9857.3,1,4,2,3,No,0
+EMP-40395,26,Marketing,Director,Masters,16066.31,5,4,1,3,No,0
+EMP-40396,27,Engineering,Director,Masters,9309.71,3,2,2,5,No,0
+EMP-40397,38,Marketing,Director,PhD,20368.1,18,3,2,5,Yes,0
+EMP-40398,31,HR,Manager,PhD,10013.42,5,2,3,2,No,0
+EMP-40399,45,HR,Manager,Bachelors,25782.68,25,4,1,2,No,0
+EMP-40400,22,Engineering,Director,Masters,6704.66,2,2,3,2,No,1
+EMP-40401,45,Sales,Director,Masters,14507.16,8,3,3,4,No,0
+EMP-40402,59,Sales,Executive,Masters,20831.25,18,4,3,5,No,0
+EMP-40403,44,Marketing,Specialist,Masters,13127.34,7,1,4,3,No,0
+EMP-40404,58,Marketing,Developer,PhD,10540.61,9,1,1,5,No,1
+EMP-40405,48,Marketing,Specialist,PhD,16197.45,11,1,4,4,No,0
+EMP-40406,59,Sales,Director,Masters,11668.69,6,1,3,3,Yes,0
+EMP-40407,26,Sales,Developer,High School,11684.03,5,4,1,3,No,0
+EMP-40408,59,Engineering,Director,Bachelors,15340.44,10,1,2,5,Yes,0
+EMP-40409,35,Engineering,Specialist,Bachelors,10404.78,5,1,2,4,No,0
+EMP-40410,31,Engineering,Executive,Masters,8826.03,3,2,2,2,Yes,1
+EMP-40411,30,Sales,Executive,Masters,14010.3,9,2,3,3,No,0
+EMP-40412,53,Sales,Director,Masters,15410.29,11,3,4,2,No,0
+EMP-40413,48,Engineering,Analyst,PhD,18584.35,14,4,4,4,Yes,0
+EMP-40414,60,Finance,Specialist,PhD,9784.21,7,1,5,3,Yes,0
+EMP-40415,60,Engineering,Manager,Masters,19187.91,13,1,2,5,No,0
+EMP-40416,43,Sales,Director,Masters,19954.13,14,2,4,3,No,0
+EMP-40417,60,Marketing,Executive,High School,25941.06,23,4,4,3,No,0
+EMP-40418,41,Engineering,Executive,Masters,8734.1,3,2,2,3,No,0
+EMP-40419,36,Engineering,Director,Bachelors,12988.98,7,3,2,3,Yes,0
+EMP-40420,23,Sales,Specialist,Bachelors,9704.18,3,1,1,4,Yes,1
+EMP-40421,43,Finance,Manager,Masters,12749.97,9,3,4,5,No,0
+EMP-40422,58,Engineering,Director,Masters,24654.25,23,4,2,3,Yes,0
+EMP-40423,39,Engineering,Manager,PhD,20586.8,18,2,2,5,No,0
+EMP-40424,45,HR,Developer,Bachelors,15318.56,11,3,3,5,No,0
+EMP-40425,54,Marketing,Manager,PhD,19683.75,16,2,2,3,No,0
+EMP-40426,22,Engineering,Developer,High School,5392.94,1,3,5,4,No,0
+EMP-40427,51,Marketing,Analyst,Masters,24978.65,24,1,3,3,No,0
+EMP-40428,46,Finance,Developer,High School,23575.18,19,4,1,3,No,0
+EMP-40429,45,HR,Director,PhD,25464.48,21,1,1,2,No,0
+EMP-40430,44,Marketing,Manager,PhD,10273.46,3,4,4,2,No,0
+EMP-40431,38,Finance,Director,PhD,18621.76,13,3,4,2,Yes,0
+EMP-40432,39,Engineering,Analyst,PhD,12965.24,7,4,3,4,No,0
+EMP-40433,30,Operations,Director,Bachelors,10381.92,5,2,3,2,No,0
+EMP-40434,35,Sales,Analyst,Masters,19144.51,15,1,1,2,No,0
+EMP-40435,48,Sales,Director,Bachelors,21510.44,20,3,2,2,No,0
+EMP-40436,45,Engineering,Specialist,PhD,20187.52,19,4,1,5,No,0
+EMP-40437,46,Engineering,Manager,High School,23852.96,21,2,1,5,No,0
+EMP-40438,51,Sales,Director,Bachelors,26071.84,24,2,3,4,No,0
+EMP-40439,47,Marketing,Analyst,Masters,9872.66,4,1,5,5,No,0
+EMP-40440,23,Engineering,Analyst,Bachelors,5873.86,1,1,4,3,No,0
+EMP-40441,40,Finance,Manager,Bachelors,12317.15,10,2,1,5,Yes,0
+EMP-40442,27,Engineering,Developer,High School,6729.35,1,2,1,2,No,0
+EMP-40443,22,Engineering,Analyst,High School,7042.47,2,1,4,5,Yes,0
+EMP-40444,44,Marketing,Analyst,Bachelors,12332.37,9,1,3,5,Yes,0
+EMP-40445,39,Marketing,Specialist,High School,7906.35,2,2,1,4,No,0
+EMP-40446,29,Engineering,Analyst,Bachelors,10171.55,2,2,4,2,Yes,0
+EMP-40447,61,Engineering,Developer,Bachelors,18026.54,13,1,4,4,Yes,0
+EMP-40448,53,Engineering,Analyst,PhD,13778.95,7,4,2,5,No,0
+EMP-40449,22,Sales,Analyst,Bachelors,9706.4,2,3,2,4,No,0
+EMP-40450,49,Marketing,Developer,High School,23006.15,22,2,2,5,Yes,0
+EMP-40451,59,Marketing,Executive,Masters,8176.73,3,1,3,2,Yes,0
+EMP-40452,54,Engineering,Director,High School,26939.73,23,2,2,5,No,0
+EMP-40453,26,Engineering,Executive,PhD,12200.33,5,2,3,4,No,0
+EMP-40454,43,HR,Manager,High School,17638.34,14,2,5,5,No,0
+EMP-40455,49,Finance,Executive,Bachelors,9824.58,3,1,3,2,No,0
+EMP-40456,62,Marketing,Director,High School,10908.97,5,4,4,5,No,0
+EMP-40457,46,Sales,Executive,Bachelors,6419.33,1,4,1,3,Yes,1
+EMP-40458,61,HR,Director,PhD,8265.37,3,2,2,2,No,0
+EMP-40459,33,Engineering,Manager,Masters,13987.14,13,4,4,2,No,0
+EMP-40460,32,Engineering,Specialist,Masters,15001.92,10,1,2,5,No,0
+EMP-40461,25,Finance,Executive,High School,9267.37,5,4,1,2,No,1
+EMP-40462,39,Engineering,Manager,Bachelors,22625.42,19,4,4,5,Yes,0
+EMP-40463,55,Sales,Manager,Masters,23683.73,19,3,1,5,No,0
+EMP-40464,53,Sales,Director,PhD,18243.83,12,1,3,2,No,0
+EMP-40465,35,Engineering,Director,Masters,11568.1,6,1,5,2,No,0
+EMP-40466,45,Finance,Analyst,PhD,6754.15,3,1,2,4,Yes,1
+EMP-40467,25,Sales,Director,Masters,9230.25,5,1,4,5,Yes,0
+EMP-40468,62,Sales,Director,PhD,23240.0,20,4,5,4,No,0
+EMP-40469,27,Sales,Analyst,Bachelors,6581.69,1,4,4,5,No,0
+EMP-40470,24,Engineering,Specialist,PhD,8045.88,2,4,3,3,No,0
+EMP-40471,25,Marketing,Manager,High School,6594.77,1,2,5,2,Yes,0
+EMP-40472,57,Sales,Analyst,High School,22104.21,16,3,1,4,Yes,0
+EMP-40473,53,Engineering,Executive,Masters,18418.31,16,1,5,2,Yes,0
+EMP-40474,24,HR,Director,Bachelors,7453.06,2,1,1,2,Yes,1
+EMP-40475,22,Sales,Manager,PhD,7330.19,1,4,1,2,No,0
+EMP-40476,55,Sales,Analyst,Bachelors,15349.73,13,4,4,4,No,0
+EMP-40477,25,Engineering,Executive,PhD,10847.52,4,1,4,3,Yes,0
+EMP-40478,51,Marketing,Specialist,Masters,18783.23,14,1,2,5,Yes,0
+EMP-40479,55,Marketing,Specialist,PhD,26536.48,24,3,5,3,No,0
+EMP-40480,59,Engineering,Executive,High School,15171.43,9,2,2,5,No,0
+EMP-40481,60,Operations,Executive,Bachelors,9801.42,6,2,5,4,No,0
+EMP-40482,62,Engineering,Analyst,Masters,25473.84,24,4,2,5,No,0
+EMP-40483,61,Operations,Developer,PhD,17454.29,15,3,2,5,No,0
+EMP-40484,35,Engineering,Director,Masters,15226.89,11,1,1,3,Yes,0
+EMP-40485,53,Sales,Analyst,Masters,14460.63,7,3,4,2,No,0
+EMP-40486,32,Engineering,Specialist,High School,11840.91,7,4,1,2,Yes,0
+EMP-40487,49,Finance,Executive,High School,17331.49,17,2,3,3,No,0
+EMP-40488,45,Sales,Executive,Masters,21371.98,18,1,3,4,No,0
+EMP-40489,36,Finance,Executive,High School,11063.15,7,2,3,5,No,0
+EMP-40490,60,HR,Executive,Bachelors,13193.75,9,1,2,5,No,0
+EMP-40491,33,Marketing,Director,Masters,9875.23,2,3,2,2,No,0
+EMP-40492,60,HR,Developer,Bachelors,13860.67,10,4,1,2,No,0
+EMP-40493,62,HR,Manager,PhD,13075.17,11,1,2,3,No,0
+EMP-40494,38,Engineering,Developer,Masters,12445.23,7,1,3,5,No,0
+EMP-40495,31,Finance,Developer,High School,8608.99,5,2,5,3,Yes,0
+EMP-40496,44,HR,Developer,Bachelors,16868.94,15,3,3,2,Yes,0
+EMP-40497,42,Sales,Director,High School,8014.22,2,2,4,5,Yes,0
+EMP-40498,26,Engineering,Analyst,High School,10113.95,3,1,4,3,Yes,0
+EMP-40499,48,Marketing,Director,PhD,20813.15,17,2,3,3,No,0
+EMP-40500,26,Sales,Manager,High School,10167.36,6,2,1,5,Yes,0
+EMP-40501,47,Engineering,Specialist,PhD,27839.99,25,1,5,5,No,0
+EMP-40502,25,Engineering,Director,Masters,7371.77,3,2,3,5,No,0
+EMP-40503,37,Marketing,Executive,High School,20238.89,16,4,4,4,Yes,0
+EMP-40504,41,Finance,Specialist,Bachelors,12750.41,10,4,3,2,No,0
+EMP-40505,32,Sales,Analyst,High School,13890.15,6,2,5,3,No,0
+EMP-40506,45,Sales,Specialist,PhD,26474.27,25,3,1,3,No,0
+EMP-40507,54,HR,Executive,Masters,24746.35,20,4,3,4,No,0
+EMP-40508,41,Marketing,Manager,Masters,8822.66,2,1,3,4,No,0
+EMP-40509,47,Sales,Director,Masters,21580.8,20,1,1,5,No,0
+EMP-40510,60,Engineering,Specialist,Bachelors,14823.64,9,3,2,5,Yes,0
+EMP-40511,55,Engineering,Director,PhD,11499.73,8,1,2,5,No,0
+EMP-40512,42,Engineering,Manager,PhD,9883.72,2,3,5,2,No,0
+EMP-40513,55,Sales,Director,Bachelors,23554.6,18,4,4,3,No,0
+EMP-40514,33,Sales,Analyst,High School,16188.07,13,4,5,5,Yes,0
+EMP-40515,56,Engineering,Specialist,Bachelors,17057.49,13,2,1,5,Yes,0
+EMP-40516,27,Engineering,Executive,High School,8378.53,2,2,1,2,No,0
+EMP-40517,29,Sales,Analyst,High School,13816.51,9,4,4,5,Yes,0
+EMP-40518,54,Engineering,Analyst,High School,23786.29,19,2,3,5,No,0
+EMP-40519,57,Sales,Developer,High School,9351.48,4,4,4,2,No,0
+EMP-40520,58,Sales,Executive,Masters,13911.13,11,2,2,4,No,0
+EMP-40521,25,Operations,Developer,Masters,9293.07,3,1,2,5,Yes,0
+EMP-40522,30,Operations,Specialist,Bachelors,7361.2,2,2,2,2,No,0
+EMP-40523,43,Engineering,Developer,Bachelors,19574.55,15,1,4,5,No,0
+EMP-40524,60,Engineering,Developer,Masters,10102.03,4,3,3,3,No,0
+EMP-40525,40,Engineering,Analyst,Bachelors,11460.72,8,3,2,3,No,0
+EMP-40526,33,HR,Developer,Bachelors,10044.46,2,4,4,4,No,0
+EMP-40527,40,Sales,Director,PhD,24785.2,19,4,4,2,Yes,0
+EMP-40528,52,Engineering,Specialist,Masters,15186.65,12,1,3,3,No,0
+EMP-40529,34,HR,Specialist,Masters,11791.4,7,4,2,5,No,0
+EMP-40530,41,Marketing,Executive,Bachelors,5473.44,1,2,2,5,No,0
+EMP-40531,58,Engineering,Developer,High School,21952.79,23,1,3,3,No,0
+EMP-40532,31,Marketing,Manager,Bachelors,7399.2,2,4,3,3,No,0
+EMP-40533,43,Engineering,Executive,High School,20288.35,18,2,1,3,No,0
+EMP-40534,29,Engineering,Developer,Masters,14870.18,9,2,5,2,Yes,0
+EMP-40535,45,Marketing,Analyst,High School,19332.6,14,1,4,2,No,0
+EMP-40536,54,Engineering,Manager,Bachelors,14082.75,10,1,3,4,No,0
+EMP-40537,27,HR,Manager,Bachelors,9182.26,7,3,2,3,No,0
+EMP-40538,53,Engineering,Manager,Bachelors,26259.82,24,3,3,4,No,0
+EMP-40539,61,Engineering,Developer,High School,21989.7,20,1,5,5,No,0
+EMP-40540,61,HR,Developer,Bachelors,12498.41,8,4,3,3,Yes,0
+EMP-40541,45,Operations,Analyst,Masters,17280.58,13,1,5,2,No,0
+EMP-40542,48,HR,Developer,Bachelors,29263.23,25,2,4,2,No,0
+EMP-40543,60,Engineering,Director,Masters,24867.63,21,3,5,5,Yes,0
+EMP-40544,59,Sales,Developer,PhD,10724.69,7,1,3,3,Yes,0
+EMP-40545,49,Marketing,Analyst,Bachelors,16833.25,10,4,1,4,No,0
+EMP-40546,43,Engineering,Developer,High School,21600.25,19,3,1,4,No,0
+EMP-40547,50,HR,Director,PhD,8810.81,4,1,5,3,No,0
+EMP-40548,62,Engineering,Executive,Bachelors,22856.21,23,4,4,2,No,0
+EMP-40549,45,Engineering,Executive,PhD,25655.71,22,4,5,2,Yes,0
+EMP-40550,60,Engineering,Executive,Bachelors,9903.52,2,2,3,4,No,0
+EMP-40551,60,Marketing,Executive,Bachelors,12061.67,7,4,1,3,No,0
+EMP-40552,27,Engineering,Analyst,High School,9698.33,5,3,2,2,No,0
+EMP-40553,57,Engineering,Manager,PhD,6299.88,1,3,1,4,Yes,1
+EMP-40554,26,Sales,Manager,High School,6908.79,1,1,3,4,No,0
+EMP-40555,30,Marketing,Director,PhD,13714.1,9,1,1,4,No,0
+EMP-40556,42,Finance,Director,High School,9869.76,5,1,3,4,Yes,0
+EMP-40557,58,Sales,Developer,Bachelors,9372.45,2,2,2,2,No,0
+EMP-40558,28,Sales,Specialist,Bachelors,10507.99,2,2,2,4,No,1
+EMP-40559,47,Marketing,Manager,High School,10563.99,3,2,1,5,No,0
+EMP-40560,58,Engineering,Developer,Bachelors,8096.58,1,2,2,2,Yes,0
+EMP-40561,46,Engineering,Analyst,High School,23718.67,21,4,2,3,Yes,0
+EMP-40562,34,Sales,Analyst,Bachelors,10570.13,5,2,2,2,No,0
+EMP-40563,60,Marketing,Analyst,Masters,21317.81,17,1,3,4,Yes,0
+EMP-40564,39,Engineering,Director,Bachelors,16246.41,14,3,4,5,Yes,0
+EMP-40565,54,Sales,Specialist,PhD,9293.49,4,1,3,2,No,0
+EMP-40566,51,Finance,Executive,Bachelors,15750.24,12,3,5,4,No,0
+EMP-40567,32,Marketing,Analyst,Masters,15854.43,11,3,2,3,Yes,0
+EMP-40568,57,Engineering,Analyst,High School,22365.61,21,1,2,2,No,0
+EMP-40569,51,Operations,Specialist,PhD,24800.42,25,1,2,4,Yes,0
+EMP-40570,43,HR,Executive,Bachelors,14016.11,8,4,2,4,Yes,0
+EMP-40571,30,Engineering,Developer,Masters,8184.88,1,1,1,2,Yes,0
+EMP-40572,41,HR,Manager,Bachelors,14522.51,10,1,3,4,No,0
+EMP-40573,30,Finance,Specialist,Bachelors,11050.45,3,4,1,4,No,0
+EMP-40574,52,Marketing,Director,High School,25515.18,23,4,3,2,Yes,0
+EMP-40575,50,Marketing,Analyst,High School,19893.44,15,2,4,5,Yes,0
+EMP-40576,54,Engineering,Developer,High School,11457.29,4,3,4,4,Yes,0
+EMP-40577,44,Marketing,Manager,Bachelors,8596.18,4,1,2,5,No,0
+EMP-40578,40,Engineering,Director,PhD,21527.89,19,2,2,2,No,0
+EMP-40579,29,Sales,Developer,High School,11014.37,7,4,3,4,No,0
+EMP-40580,53,Engineering,Developer,Bachelors,25220.34,20,3,1,2,Yes,0
+EMP-40581,51,Engineering,Executive,Bachelors,12031.83,7,4,1,4,No,0
+EMP-40582,55,Sales,Manager,High School,15541.72,10,2,3,4,No,0
+EMP-40583,40,Marketing,Director,Masters,19612.5,15,1,3,5,No,0
+EMP-40584,23,Sales,Developer,PhD,8170.33,3,1,4,4,No,0
+EMP-40585,25,Engineering,Specialist,PhD,8523.58,5,3,2,4,No,0
+EMP-40586,60,HR,Specialist,High School,18887.79,14,4,4,2,Yes,0
+EMP-40587,48,Engineering,Manager,High School,24570.11,23,4,2,4,No,0
+EMP-40588,59,Sales,Executive,PhD,15585.87,12,2,2,2,No,0
+EMP-40589,55,Engineering,Specialist,High School,13708.77,11,3,1,3,No,0
+EMP-40590,62,Sales,Director,High School,19878.29,20,4,5,2,No,0
+EMP-40591,25,HR,Director,PhD,9630.12,3,2,1,2,Yes,0
+EMP-40592,38,Engineering,Specialist,Masters,15487.8,12,2,5,4,No,0
+EMP-40593,38,Engineering,Analyst,PhD,10923.51,6,3,1,5,No,0
+EMP-40594,44,Sales,Manager,High School,16658.82,10,3,2,5,No,0
+EMP-40595,30,HR,Developer,Masters,7577.72,3,1,3,2,Yes,0
+EMP-40596,58,Sales,Specialist,Masters,15622.43,13,1,3,5,No,0
+EMP-40597,50,Operations,Specialist,Masters,18100.46,12,1,1,3,No,0
+EMP-40598,58,Engineering,Director,Masters,13569.22,6,4,3,2,No,0
+EMP-40599,62,Engineering,Director,PhD,21785.43,18,3,3,4,Yes,0
+EMP-40600,59,Finance,Developer,Bachelors,26084.36,24,2,1,5,No,0
+EMP-40601,41,Engineering,Specialist,Masters,12966.47,8,2,1,4,Yes,0
+EMP-40602,51,Engineering,Executive,High School,18505.74,16,4,1,4,No,0
+EMP-40603,27,Finance,Director,Masters,8394.26,3,2,2,2,No,0
+EMP-40604,40,Engineering,Director,Bachelors,17628.45,15,4,3,4,No,0
+EMP-40605,47,Sales,Analyst,Masters,21138.94,18,4,1,2,No,0
+EMP-40606,52,Marketing,Executive,High School,14210.13,7,1,1,2,Yes,0
+EMP-40607,44,Engineering,Executive,Masters,10676.76,7,2,3,3,Yes,0
+EMP-40608,43,Engineering,Analyst,Bachelors,15690.38,13,3,3,5,No,0
+EMP-40609,39,HR,Director,Masters,15967.66,14,1,4,4,No,0
+EMP-40610,51,Sales,Manager,High School,10215.44,2,3,4,2,No,0
+EMP-40611,24,Engineering,Director,High School,9618.24,1,1,2,5,No,0
+EMP-40612,45,Engineering,Developer,Bachelors,26785.56,25,4,1,3,No,0
+EMP-40613,24,Engineering,Manager,PhD,8744.14,4,2,2,5,No,0
+EMP-40614,39,Sales,Analyst,PhD,18758.86,13,3,1,2,No,0
+EMP-40615,47,Engineering,Specialist,Masters,11412.37,6,2,4,5,No,0
+EMP-40616,26,HR,Executive,PhD,8171.28,1,2,4,3,No,0
+EMP-40617,47,Sales,Manager,Masters,12342.71,5,2,3,3,No,0
+EMP-40618,50,Engineering,Specialist,High School,7450.15,3,4,2,3,No,0
+EMP-40619,45,HR,Executive,Masters,17791.59,14,4,1,5,No,0
+EMP-40620,40,Engineering,Manager,Masters,17806.47,16,1,3,3,No,0
+EMP-40621,47,Sales,Executive,Bachelors,20794.3,18,1,4,4,No,0
+EMP-40622,23,Engineering,Manager,High School,9103.24,2,4,1,4,No,1
+EMP-40623,31,Sales,Manager,Masters,12985.43,8,1,3,3,No,0
+EMP-40624,52,Engineering,Manager,High School,21830.29,19,2,4,4,No,0
+EMP-40625,32,Sales,Specialist,Masters,15422.5,10,2,2,5,No,0
+EMP-40626,54,Engineering,Analyst,Bachelors,21459.72,22,1,5,4,No,0
+EMP-40627,48,Finance,Director,Bachelors,22180.85,19,1,5,2,Yes,0
+EMP-40628,36,Sales,Manager,High School,13100.19,5,3,2,3,No,0
+EMP-40629,30,Sales,Manager,Masters,12822.82,8,2,2,3,Yes,0
+EMP-40630,44,Engineering,Analyst,Bachelors,7358.62,4,2,2,5,Yes,1
+EMP-40631,47,Engineering,Director,Bachelors,19579.39,14,1,5,5,Yes,0
+EMP-40632,59,HR,Developer,Masters,10719.88,7,1,3,5,No,0
+EMP-40633,58,Sales,Director,PhD,18529.24,16,1,1,2,Yes,0
+EMP-40634,22,Sales,Manager,Bachelors,3371.24,1,3,3,2,No,0
+EMP-40635,49,Sales,Director,PhD,7961.02,3,4,4,5,No,0
+EMP-40636,61,Marketing,Executive,Bachelors,20470.28,20,4,4,2,No,0
+EMP-40637,46,Engineering,Analyst,PhD,26027.93,22,1,3,3,No,1
+EMP-40638,39,Engineering,Director,PhD,10296.86,5,4,2,5,Yes,0
+EMP-40639,52,HR,Director,PhD,11171.44,5,2,2,2,No,0
+EMP-40640,30,Operations,Developer,High School,10352.14,4,1,2,4,No,0
+EMP-40641,42,Engineering,Director,Masters,21589.5,19,3,5,3,No,0
+EMP-40642,54,Marketing,Manager,Masters,20316.44,16,2,3,2,No,0
+EMP-40643,49,Marketing,Director,PhD,13649.49,8,1,4,2,No,0
+EMP-40644,26,Finance,Specialist,Masters,8171.09,2,1,3,4,No,0
+EMP-40645,62,Marketing,Manager,PhD,13335.02,10,1,4,5,No,0
+EMP-40646,31,Engineering,Executive,Masters,16396.16,10,3,3,2,Yes,0
+EMP-40647,41,Engineering,Developer,High School,21038.69,19,1,5,2,No,0
+EMP-40648,40,Sales,Manager,Bachelors,13436.16,10,3,1,3,Yes,0
+EMP-40649,49,Engineering,Manager,High School,20680.47,15,3,4,2,No,0
+EMP-40650,22,Engineering,Manager,Masters,7384.41,2,2,4,5,Yes,0
+EMP-40651,38,Sales,Specialist,PhD,11329.58,8,1,2,2,No,0
+EMP-40652,60,Engineering,Developer,High School,22601.43,20,4,4,3,No,0
+EMP-40653,57,Sales,Executive,Masters,8081.07,3,1,4,5,No,0
+EMP-40654,50,Engineering,Director,High School,24708.93,23,1,1,3,No,0
+EMP-40655,29,Sales,Analyst,PhD,11172.28,1,3,4,2,No,0
+EMP-40656,36,Sales,Director,PhD,8544.67,2,2,4,5,No,0
+EMP-40657,48,HR,Director,Bachelors,24714.96,19,3,1,4,Yes,0
+EMP-40658,25,Marketing,Specialist,Masters,9474.71,4,3,3,3,No,0
+EMP-40659,34,Engineering,Manager,Masters,14042.14,10,4,4,3,No,0
+EMP-40660,34,Finance,Executive,PhD,11827.88,10,4,4,5,Yes,0
+EMP-40661,47,Marketing,Director,Masters,9053.88,5,3,3,3,No,0
+EMP-40662,48,Sales,Executive,High School,12130.58,4,4,3,3,No,0
+EMP-40663,43,Engineering,Manager,PhD,17373.8,12,1,4,4,No,0
+EMP-40664,60,Engineering,Specialist,Masters,6195.67,2,2,5,4,No,0
+EMP-40665,29,Sales,Manager,PhD,8189.22,4,1,3,2,Yes,0
+EMP-40666,44,Engineering,Director,Bachelors,19351.64,19,2,3,3,No,0
+EMP-40667,53,Engineering,Analyst,Bachelors,28175.27,25,3,2,5,No,0
+EMP-40668,23,Engineering,Analyst,High School,6091.8,2,2,1,5,No,0
+EMP-40669,50,Sales,Executive,High School,17177.3,11,1,1,2,No,0
+EMP-40670,28,Marketing,Analyst,Bachelors,14202.68,8,2,3,5,Yes,0
+EMP-40671,39,Engineering,Director,Bachelors,21654.88,16,1,5,3,No,0
+EMP-40672,59,Engineering,Analyst,Bachelors,25856.7,25,1,2,4,Yes,0
+EMP-40673,27,Engineering,Analyst,High School,6120.39,2,1,3,4,No,0
+EMP-40674,54,Engineering,Executive,Bachelors,11175.33,9,3,4,4,No,0
+EMP-40675,40,Engineering,Specialist,Masters,9924.53,7,2,2,4,No,0
+EMP-40676,43,Engineering,Developer,Masters,24645.09,23,1,5,3,Yes,0
+EMP-40677,29,Sales,Developer,High School,11468.61,5,3,5,2,Yes,0
+EMP-40678,58,Engineering,Analyst,Bachelors,18292.78,16,2,2,4,No,0
+EMP-40679,62,Engineering,Director,High School,7456.11,4,2,1,3,Yes,0
+EMP-40680,23,Finance,Director,Masters,9438.11,3,4,4,2,No,0
+EMP-40681,23,Sales,Developer,Masters,8209.41,1,2,4,5,No,0
+EMP-40682,30,HR,Director,PhD,11882.16,8,3,4,4,Yes,0
+EMP-40683,26,Marketing,Director,Masters,8077.72,3,3,4,3,No,0
+EMP-40684,58,Marketing,Manager,PhD,6737.39,1,3,5,3,Yes,0
+EMP-40685,62,Engineering,Developer,PhD,14368.0,11,1,5,2,No,0
+EMP-40686,34,Marketing,Analyst,High School,7455.36,3,2,5,4,Yes,0
+EMP-40687,27,Engineering,Director,High School,7906.49,2,2,2,3,No,0
+EMP-40688,42,HR,Analyst,Bachelors,10602.12,6,4,5,3,Yes,0
+EMP-40689,57,Engineering,Analyst,Masters,5461.74,1,1,1,2,No,0
+EMP-40690,45,Marketing,Analyst,PhD,21918.13,18,2,1,5,Yes,0
+EMP-40691,57,Finance,Specialist,Bachelors,10684.08,7,2,2,2,No,0
+EMP-40692,43,Marketing,Developer,Masters,16526.35,12,2,5,2,Yes,0
+EMP-40693,33,Engineering,Analyst,Bachelors,13645.51,12,1,2,5,Yes,0
+EMP-40694,25,Operations,Executive,High School,5815.86,2,4,3,4,No,0
+EMP-40695,49,Engineering,Developer,Bachelors,17738.47,16,4,2,3,No,0
+EMP-40696,32,Engineering,Specialist,High School,10393.62,7,2,1,3,No,0
+EMP-40697,28,Finance,Manager,PhD,12014.29,6,3,5,3,No,0
+EMP-40698,47,Finance,Specialist,Masters,8094.88,3,3,5,2,No,0
+EMP-40699,41,Finance,Developer,PhD,18857.03,16,3,2,5,No,0
+EMP-40700,50,HR,Director,Masters,19505.91,12,3,5,5,No,0
+EMP-40701,49,Sales,Analyst,PhD,23255.54,22,4,4,2,No,0
+EMP-40702,45,Finance,Developer,High School,16397.99,15,4,3,4,Yes,0
+EMP-40703,22,Engineering,Manager,PhD,6591.35,2,4,1,4,No,0
+EMP-40704,46,Operations,Specialist,PhD,9188.69,2,3,4,5,No,0
+EMP-40705,62,Sales,Executive,Masters,18562.84,17,3,1,4,Yes,0
+EMP-40706,51,Engineering,Director,Masters,6736.88,1,3,2,2,Yes,0
+EMP-40707,36,Sales,Manager,PhD,13024.53,9,4,2,5,No,0
+EMP-40708,28,Finance,Analyst,High School,9070.77,5,1,3,2,Yes,0
+EMP-40709,43,Engineering,Executive,Masters,19991.58,18,3,2,3,No,0
+EMP-40710,40,Sales,Director,Bachelors,16802.08,14,3,5,4,Yes,0
+EMP-40711,52,Marketing,Analyst,Bachelors,9927.08,5,1,5,2,Yes,0
+EMP-40712,41,HR,Specialist,Masters,9786.25,3,4,2,3,No,1
+EMP-40713,56,Marketing,Developer,Bachelors,16158.84,11,1,3,4,No,0
+EMP-40714,28,Marketing,Specialist,PhD,9607.17,1,4,3,3,Yes,0
+EMP-40715,40,Sales,Director,PhD,11710.12,6,1,1,4,Yes,0
+EMP-40716,40,HR,Executive,Masters,18346.17,18,3,3,2,No,0
+EMP-40717,33,Engineering,Developer,PhD,7875.14,5,1,3,2,No,0
+EMP-40718,51,Sales,Specialist,High School,10228.88,1,4,1,5,Yes,0
+EMP-40719,59,Engineering,Manager,PhD,9373.01,4,2,5,4,No,0
+EMP-40720,46,HR,Analyst,PhD,22595.8,19,2,4,5,No,0
+EMP-40721,59,Marketing,Manager,Masters,16064.97,14,1,3,5,No,0
+EMP-40722,38,Sales,Specialist,Bachelors,19021.73,17,1,1,2,Yes,0
+EMP-40723,26,Marketing,Developer,PhD,7509.85,3,4,5,2,No,0
+EMP-40724,35,Marketing,Executive,PhD,18971.01,15,4,2,3,No,0
+EMP-40725,54,Marketing,Analyst,Bachelors,14199.88,8,4,5,5,No,0
+EMP-40726,55,Engineering,Director,Bachelors,9500.74,4,4,5,4,No,0
+EMP-40727,35,Engineering,Analyst,Masters,7823.98,3,3,1,5,Yes,0
+EMP-40728,28,Engineering,Executive,High School,12256.02,7,4,5,2,No,0
+EMP-40729,34,Marketing,Manager,Masters,18577.27,12,1,5,3,Yes,0
+EMP-40730,40,Sales,Director,Masters,16627.22,11,1,4,4,No,0
+EMP-40731,24,HR,Manager,PhD,8429.46,1,1,2,4,Yes,0
+EMP-40732,28,Sales,Director,Bachelors,11271.13,4,2,4,5,No,0
+EMP-40733,24,Engineering,Developer,PhD,7589.53,4,2,3,2,No,0
+EMP-40734,44,Sales,Manager,High School,20562.57,17,1,3,3,No,0
+EMP-40735,53,Marketing,Executive,PhD,15263.35,10,4,2,2,Yes,0
+EMP-40736,22,Marketing,Specialist,Masters,3701.43,1,2,3,2,No,0
+EMP-40737,46,Sales,Director,PhD,23779.06,22,2,4,3,No,0
+EMP-40738,37,Finance,Analyst,Bachelors,10642.67,4,4,5,4,Yes,0
+EMP-40739,58,Engineering,Executive,PhD,20830.0,17,3,3,4,No,0
+EMP-40740,39,Marketing,Specialist,Masters,15299.66,12,1,3,5,Yes,0
+EMP-40741,30,Marketing,Specialist,PhD,14871.46,7,2,5,4,No,0
+EMP-40742,46,Engineering,Analyst,PhD,12916.1,9,3,4,4,No,0
+EMP-40743,42,Engineering,Manager,High School,16670.44,10,4,3,2,No,0
+EMP-40744,23,Engineering,Developer,High School,8737.64,3,1,2,5,No,0
+EMP-40745,53,Engineering,Executive,Masters,23075.74,20,2,4,5,No,0
+EMP-40746,50,Marketing,Analyst,PhD,10885.55,5,3,1,3,No,0
+EMP-40747,39,HR,Manager,PhD,19935.68,16,2,2,3,No,0
+EMP-40748,31,Engineering,Analyst,Bachelors,13458.04,10,4,1,2,No,0
+EMP-40749,37,Sales,Executive,High School,18611.61,15,2,2,4,Yes,0
+EMP-40750,55,Engineering,Executive,Masters,21936.0,21,2,4,3,Yes,0
+EMP-40751,60,Engineering,Analyst,Bachelors,26049.85,24,1,5,4,No,0
+EMP-40752,59,Sales,Director,Bachelors,20593.82,17,3,2,2,No,0
+EMP-40753,57,Engineering,Manager,Bachelors,18178.35,14,3,2,3,No,0
+EMP-40754,42,Engineering,Analyst,Masters,11624.66,7,1,5,5,Yes,1
+EMP-40755,25,HR,Executive,Masters,10305.03,2,3,2,4,No,0
+EMP-40756,24,Finance,Executive,Bachelors,9928.22,4,2,2,4,No,1
+EMP-40757,55,Marketing,Director,High School,27939.25,25,2,3,4,No,0
+EMP-40758,58,Marketing,Specialist,Bachelors,13315.68,5,3,4,5,No,0
+EMP-40759,25,Engineering,Developer,Masters,11331.0,4,2,3,4,No,0
+EMP-40760,24,Sales,Executive,Bachelors,10925.99,3,2,1,2,No,0
+EMP-40761,53,Sales,Analyst,Bachelors,20256.57,14,4,3,2,No,0
+EMP-40762,25,Engineering,Analyst,PhD,7315.09,1,4,1,2,No,0
+EMP-40763,28,Sales,Analyst,High School,9617.92,6,1,1,2,Yes,0
+EMP-40764,48,HR,Analyst,High School,14677.39,10,4,2,4,No,0
+EMP-40765,62,HR,Developer,PhD,18699.26,12,1,4,3,No,0
+EMP-40766,28,Engineering,Developer,Masters,6144.8,4,4,2,4,No,0
+EMP-40767,60,Marketing,Developer,Masters,28849.82,25,1,1,3,No,0
+EMP-40768,23,Sales,Specialist,High School,8232.32,3,2,3,3,No,0
+EMP-40769,32,Engineering,Specialist,PhD,18407.85,12,3,4,5,Yes,0
+EMP-40770,60,Engineering,Analyst,PhD,22975.39,20,4,3,3,No,0
+EMP-40771,40,Engineering,Manager,High School,11152.66,6,3,4,5,No,0
+EMP-40772,30,Engineering,Director,High School,13242.22,7,4,5,2,Yes,0
+EMP-40773,43,Finance,Manager,PhD,11871.86,6,1,3,5,Yes,0
+EMP-40774,45,Engineering,Specialist,Bachelors,16664.83,13,4,1,3,Yes,0
+EMP-40775,54,Marketing,Manager,Bachelors,11405.05,4,4,1,2,No,0
+EMP-40776,37,Finance,Executive,PhD,11903.79,6,3,3,3,Yes,0
+EMP-40777,23,Marketing,Analyst,Masters,8601.76,3,4,5,2,No,0
+EMP-40778,57,Engineering,Executive,Masters,12844.84,11,3,5,3,No,0
+EMP-40779,62,Sales,Analyst,High School,21274.65,19,4,3,3,No,0
+EMP-40780,32,Marketing,Director,Bachelors,16249.13,12,4,5,3,No,0
+EMP-40781,54,Engineering,Specialist,PhD,6833.64,2,4,5,5,No,0
+EMP-40782,33,HR,Manager,Bachelors,15552.26,13,1,5,5,No,0
+EMP-40783,60,Engineering,Developer,Bachelors,22401.74,20,2,2,4,No,0
+EMP-40784,58,Marketing,Manager,High School,16067.51,11,1,1,2,No,0
+EMP-40785,61,Operations,Analyst,High School,13518.78,7,3,1,5,No,0
+EMP-40786,35,HR,Developer,Masters,14120.15,7,1,1,4,No,0
+EMP-40787,28,Marketing,Specialist,Masters,11550.29,5,1,1,3,No,0
+EMP-40788,22,Sales,Director,Masters,6645.36,1,3,1,2,No,0
+EMP-40789,34,Finance,Manager,High School,4805.07,1,4,1,4,No,0
+EMP-40790,25,Sales,Specialist,Masters,10150.8,4,4,5,3,No,0
+EMP-40791,53,Engineering,Developer,Bachelors,10187.23,2,1,4,5,No,0
+EMP-40792,60,Marketing,Developer,Bachelors,20411.11,17,4,4,2,No,0
+EMP-40793,22,Sales,Analyst,Masters,9508.97,2,1,1,5,Yes,1
+EMP-40794,22,Finance,Manager,Masters,8031.38,1,2,5,2,No,0
+EMP-40795,24,Engineering,Developer,Bachelors,11016.11,4,2,3,2,Yes,0
+EMP-40796,51,Sales,Executive,High School,12985.44,3,3,5,4,Yes,0
+EMP-40797,49,Engineering,Manager,Masters,26739.83,24,2,3,2,No,0
+EMP-40798,30,Finance,Executive,PhD,13181.19,9,4,2,2,Yes,0
+EMP-40799,23,Finance,Manager,PhD,7539.66,2,3,5,5,No,0
+EMP-40800,32,Marketing,Director,Masters,17668.32,12,2,3,4,No,0
+EMP-40801,51,Finance,Executive,PhD,8209.35,1,2,3,3,No,0
+EMP-40802,30,Sales,Manager,PhD,9215.08,3,3,3,5,No,0
+EMP-40803,34,Engineering,Manager,Bachelors,14279.06,7,1,2,3,Yes,1
+EMP-40804,55,Sales,Specialist,High School,12603.63,9,2,5,5,No,0
+EMP-40805,34,Marketing,Developer,PhD,17416.83,10,4,2,2,No,0
+EMP-40806,48,Sales,Specialist,High School,10953.45,6,2,5,5,No,0
+EMP-40807,61,Sales,Director,Bachelors,13543.11,9,4,1,5,Yes,0
+EMP-40808,42,Finance,Analyst,PhD,15660.0,10,4,1,3,No,0
+EMP-40809,50,Engineering,Manager,PhD,10556.53,6,4,5,3,No,0
+EMP-40810,51,HR,Manager,Masters,18673.61,15,3,3,4,Yes,0
+EMP-40811,60,HR,Analyst,High School,23328.41,23,3,3,4,No,0
+EMP-40812,23,Marketing,Manager,Bachelors,8259.17,2,3,3,3,No,0
+EMP-40813,35,Engineering,Manager,PhD,18446.88,13,3,2,3,No,0
+EMP-40814,32,Operations,Executive,High School,11585.36,6,3,5,3,No,0
+EMP-40815,36,HR,Executive,Bachelors,7482.1,4,2,2,5,No,0
+EMP-40816,61,Engineering,Analyst,High School,19974.51,16,3,1,2,No,0
+EMP-40817,55,Engineering,Specialist,Masters,11974.91,7,1,3,3,No,0
+EMP-40818,26,Engineering,Executive,High School,12491.38,6,1,4,3,No,0
+EMP-40819,62,Sales,Analyst,High School,25039.7,24,2,1,4,Yes,0
+EMP-40820,60,Sales,Developer,Bachelors,5485.54,1,3,2,2,Yes,0
+EMP-40821,36,Engineering,Developer,High School,12977.06,11,4,5,4,Yes,0
+EMP-40822,62,Engineering,Developer,Masters,19189.65,13,4,4,5,No,0
+EMP-40823,28,Engineering,Manager,Bachelors,4653.25,1,4,3,3,No,0
+EMP-40824,52,Operations,Analyst,Bachelors,15991.35,9,4,3,3,No,0
+EMP-40825,46,Marketing,Analyst,High School,6568.23,4,3,2,3,No,0
+EMP-40826,26,Sales,Analyst,Masters,9347.08,6,3,3,2,No,0
+EMP-40827,52,Engineering,Executive,PhD,18795.76,16,3,2,5,No,0
+EMP-40828,41,Engineering,Executive,High School,19820.06,19,2,2,4,No,0
+EMP-40829,23,Marketing,Analyst,Masters,6611.78,1,1,1,2,No,0
+EMP-40830,47,Engineering,Specialist,High School,19570.7,17,2,5,2,No,0
+EMP-40831,61,Sales,Specialist,Masters,26793.91,24,4,5,3,No,0
+EMP-40832,58,Engineering,Manager,Bachelors,8047.68,2,2,3,4,No,0
+EMP-40833,33,Finance,Analyst,High School,13988.78,12,2,4,5,No,0
+EMP-40834,33,HR,Manager,PhD,8480.73,6,1,1,3,No,0
+EMP-40835,29,Engineering,Analyst,Bachelors,12346.85,8,2,2,4,No,0
+EMP-40836,40,HR,Director,Masters,8990.18,4,3,3,3,No,0
+EMP-40837,52,Engineering,Developer,Masters,16468.15,11,2,3,2,No,0
+EMP-40838,39,Sales,Manager,PhD,19474.73,14,2,5,5,No,0
+EMP-40839,34,Finance,Specialist,Bachelors,19659.95,13,2,1,3,No,0
+EMP-40840,56,Marketing,Director,High School,20303.08,18,4,4,4,Yes,0
+EMP-40841,50,HR,Developer,High School,27841.76,24,3,1,5,No,0
+EMP-40842,30,Operations,Executive,PhD,10175.94,7,3,3,2,No,0
+EMP-40843,37,Engineering,Developer,Bachelors,15081.62,11,4,5,4,No,0
+EMP-40844,46,Marketing,Manager,Bachelors,22402.22,17,1,2,5,Yes,0
+EMP-40845,45,Marketing,Executive,PhD,11911.01,6,2,5,2,No,0
+EMP-40846,27,Engineering,Developer,High School,12318.59,6,4,1,4,No,0
+EMP-40847,39,Engineering,Manager,Bachelors,4811.26,1,4,3,4,No,0
+EMP-40848,50,Marketing,Specialist,PhD,8953.98,4,4,3,2,No,0
+EMP-40849,37,Engineering,Manager,PhD,11896.55,8,2,4,3,Yes,0
+EMP-40850,44,Sales,Executive,High School,18063.72,13,1,2,4,Yes,0
+EMP-40851,46,Sales,Developer,High School,20532.78,19,3,1,4,No,0
+EMP-40852,25,Sales,Executive,High School,7247.98,3,2,2,5,No,0
+EMP-40853,39,Finance,Director,PhD,11293.76,3,2,3,2,No,0
+EMP-40854,34,Sales,Executive,PhD,14429.85,9,4,1,2,Yes,1
+EMP-40855,31,Engineering,Executive,High School,7008.26,2,4,2,2,No,0
+EMP-40856,59,Marketing,Manager,High School,7271.41,3,2,5,2,No,0
+EMP-40857,60,Engineering,Specialist,PhD,6578.36,1,1,5,2,No,0
+EMP-40858,48,Marketing,Developer,Bachelors,18635.02,17,3,2,3,No,0
+EMP-40859,27,Engineering,Director,Masters,8777.7,2,1,4,5,No,0
+EMP-40860,53,Finance,Manager,Bachelors,13892.38,7,4,3,3,Yes,0
+EMP-40861,53,Marketing,Specialist,Masters,17136.53,12,3,5,3,No,0
+EMP-40862,45,Engineering,Executive,Masters,12461.98,11,3,1,5,Yes,0
+EMP-40863,32,Sales,Analyst,PhD,14879.85,9,2,4,3,No,0
+EMP-40864,34,Engineering,Manager,PhD,7766.13,1,1,4,4,No,0
+EMP-40865,62,Operations,Specialist,PhD,19631.97,15,3,3,5,No,0
+EMP-40866,38,Sales,Developer,High School,10661.09,7,2,1,3,No,0
+EMP-40867,54,Sales,Specialist,High School,12434.8,9,1,3,2,Yes,1
+EMP-40868,26,Engineering,Director,High School,11109.6,3,4,3,5,No,0
+EMP-40869,36,Sales,Analyst,PhD,20078.09,16,4,1,3,No,0
+EMP-40870,37,Marketing,Executive,Masters,14120.65,9,4,3,5,No,0
+EMP-40871,61,Finance,Specialist,High School,15616.28,12,4,2,2,No,0
+EMP-40872,62,Engineering,Manager,Masters,13702.68,7,4,4,4,No,0
+EMP-40873,57,Engineering,Executive,High School,9486.89,4,1,5,3,No,0
+EMP-40874,22,Engineering,Analyst,Bachelors,6014.29,1,2,4,2,No,0
+EMP-40875,30,HR,Developer,Masters,10263.71,2,1,4,5,No,0
+EMP-40876,45,Engineering,Executive,PhD,17515.63,16,4,5,4,No,0
+EMP-40877,53,Marketing,Analyst,High School,24801.52,23,4,1,2,Yes,0
+EMP-40878,51,Finance,Executive,PhD,20452.39,14,1,4,3,No,0
+EMP-40879,58,HR,Developer,Bachelors,22133.11,18,2,2,5,No,0
+EMP-40880,47,Sales,Specialist,PhD,11575.03,5,4,3,2,No,0
+EMP-40881,42,Finance,Analyst,Bachelors,9820.33,4,3,2,2,No,0
+EMP-40882,45,HR,Manager,Masters,16145.88,11,3,4,5,Yes,0
+EMP-40883,62,HR,Specialist,Bachelors,9034.41,1,3,5,3,No,0
+EMP-40884,25,Engineering,Analyst,Masters,12308.17,5,4,1,3,No,0
+EMP-40885,48,Sales,Manager,Bachelors,22798.16,21,2,3,4,No,0
+EMP-40886,26,Operations,Director,Masters,6743.75,1,2,3,4,Yes,0
+EMP-40887,33,Finance,Developer,Bachelors,14524.63,9,3,5,2,No,0
+EMP-40888,23,Finance,Analyst,Bachelors,7905.24,3,3,2,3,No,0
+EMP-40889,35,Engineering,Analyst,Masters,10815.2,5,1,3,5,Yes,0
+EMP-40890,52,Finance,Specialist,Masters,9058.94,3,4,5,4,No,0
+EMP-40891,61,Engineering,Developer,Bachelors,16680.1,16,2,4,4,No,0
+EMP-40892,43,Finance,Specialist,PhD,7103.89,1,4,2,2,Yes,0
+EMP-40893,25,Marketing,Director,PhD,8769.52,5,4,1,5,No,0
+EMP-40894,42,Engineering,Specialist,High School,10101.76,6,4,1,5,No,0
+EMP-40895,49,HR,Specialist,Masters,26640.5,25,2,4,4,No,0
+EMP-40896,28,Marketing,Specialist,Bachelors,10735.95,3,2,5,2,No,0
+EMP-40897,52,Engineering,Specialist,Bachelors,8105.94,1,2,2,5,No,0
+EMP-40898,32,Marketing,Analyst,PhD,4622.22,3,3,2,2,No,1
+EMP-40899,60,Sales,Executive,Bachelors,19317.83,14,3,4,4,No,0
+EMP-40900,60,Engineering,Executive,High School,19194.54,18,3,5,5,No,0
+EMP-40901,34,Marketing,Developer,Masters,13886.03,12,2,2,5,No,0
+EMP-40902,54,Sales,Director,Masters,16633.54,16,4,5,4,No,0
+EMP-40903,52,Marketing,Specialist,PhD,15047.13,7,1,5,3,Yes,0
+EMP-40904,40,Engineering,Executive,Bachelors,13537.88,8,4,3,2,Yes,0
+EMP-40905,48,Sales,Manager,PhD,26370.48,24,1,5,4,No,0
+EMP-40906,50,Engineering,Analyst,Masters,25613.93,22,2,3,5,No,1
+EMP-40907,57,Engineering,Director,Bachelors,18882.93,16,1,1,2,Yes,0
+EMP-40908,55,Marketing,Specialist,PhD,8191.08,4,2,5,5,No,0
+EMP-40909,62,Engineering,Executive,Masters,11314.04,8,2,2,5,No,0
+EMP-40910,35,Sales,Specialist,Masters,7512.24,6,2,5,5,No,0
+EMP-40911,46,Engineering,Director,Masters,12596.49,8,3,1,5,No,0
+EMP-40912,62,Marketing,Specialist,High School,12746.77,8,1,5,2,No,0
+EMP-40913,60,Sales,Director,Masters,10691.39,7,3,2,4,Yes,0
+EMP-40914,31,Operations,Manager,High School,14648.21,11,1,1,5,No,0
+EMP-40915,50,HR,Executive,High School,17795.54,15,2,5,5,Yes,0
+EMP-40916,60,Engineering,Director,High School,15178.33,9,2,2,2,No,0
+EMP-40917,39,Engineering,Specialist,Masters,12727.31,9,2,4,2,Yes,0
+EMP-40918,31,Engineering,Executive,High School,13430.52,8,3,5,2,No,0
+EMP-40919,47,Engineering,Manager,PhD,8587.77,1,4,2,4,No,0
+EMP-40920,51,Sales,Manager,PhD,19564.62,16,3,1,2,No,0
+EMP-40921,41,HR,Executive,PhD,17387.77,17,1,1,5,No,0
+EMP-40922,58,Engineering,Director,PhD,24621.07,21,1,3,2,No,0
+EMP-40923,41,Sales,Specialist,Masters,11796.73,12,4,3,4,Yes,0
+EMP-40924,42,Engineering,Specialist,PhD,21867.54,20,1,4,5,No,0
+EMP-40925,62,Sales,Manager,Masters,11024.73,6,2,4,4,No,0
+EMP-40926,27,HR,Analyst,Masters,8306.97,2,4,1,3,No,0
+EMP-40927,25,Finance,Specialist,High School,10432.47,5,4,4,3,No,0
+EMP-40928,42,Engineering,Analyst,Masters,19454.42,18,1,1,5,No,0
+EMP-40929,31,HR,Developer,High School,12703.69,6,1,1,2,No,0
+EMP-40930,61,Marketing,Analyst,PhD,21135.47,17,2,5,3,No,0
+EMP-40931,38,Engineering,Specialist,PhD,10382.72,6,2,2,3,Yes,0
+EMP-40932,56,Operations,Analyst,PhD,28307.9,25,3,1,5,No,0
+EMP-40933,35,Finance,Manager,Bachelors,12352.71,6,4,5,4,No,0
+EMP-40934,22,Engineering,Director,High School,8037.22,2,4,2,5,No,0
+EMP-40935,26,HR,Executive,High School,8665.42,3,1,5,2,Yes,0
+EMP-40936,23,Marketing,Executive,Masters,9636.34,3,2,5,5,No,0
+EMP-40937,59,Marketing,Executive,High School,11452.56,5,2,1,3,No,0
+EMP-40938,31,Engineering,Analyst,Bachelors,10935.05,6,2,1,2,Yes,0
+EMP-40939,38,Marketing,Executive,PhD,20428.64,17,4,3,4,No,0
+EMP-40940,57,Operations,Analyst,Bachelors,23819.2,20,4,3,4,No,0
+EMP-40941,33,Finance,Director,Bachelors,13962.25,11,3,3,5,No,0
+EMP-40942,43,Sales,Manager,Masters,9450.25,1,1,3,5,No,0
+EMP-40943,41,Engineering,Specialist,Bachelors,13429.86,12,1,1,3,No,0
+EMP-40944,36,Finance,Developer,High School,14842.72,13,4,1,4,Yes,0
+EMP-40945,23,HR,Analyst,PhD,6753.55,3,4,4,4,No,0
+EMP-40946,35,HR,Specialist,Masters,16174.87,10,4,3,3,No,0
+EMP-40947,59,Engineering,Manager,PhD,11657.1,5,1,5,5,No,1
+EMP-40948,29,Engineering,Specialist,High School,7214.21,5,3,2,4,No,0
+EMP-40949,27,Engineering,Director,Bachelors,8160.09,2,4,4,3,Yes,0
+EMP-40950,62,Finance,Developer,Masters,16160.14,8,2,1,4,No,0
+EMP-40951,53,Sales,Developer,Masters,14652.43,10,4,2,3,No,0
+EMP-40952,50,Engineering,Manager,PhD,16052.8,14,4,4,2,No,0
+EMP-40953,57,Engineering,Developer,PhD,24406.75,18,3,2,2,No,0
+EMP-40954,25,Finance,Analyst,PhD,6326.5,2,3,4,2,No,0
+EMP-40955,52,Sales,Director,PhD,18429.95,20,1,3,2,No,0
+EMP-40956,62,Operations,Developer,PhD,13105.63,9,3,3,2,No,0
+EMP-40957,48,Finance,Specialist,Masters,17190.32,13,4,4,4,Yes,0
+EMP-40958,43,Engineering,Director,High School,10197.89,8,4,4,4,No,0
+EMP-40959,61,Sales,Manager,Masters,13740.32,9,3,2,3,No,0
+EMP-40960,49,Engineering,Specialist,High School,12411.23,9,1,5,5,Yes,0
+EMP-40961,32,Sales,Manager,High School,9615.89,4,3,5,2,No,0
+EMP-40962,34,Engineering,Analyst,Bachelors,16001.96,11,2,3,5,Yes,0
+EMP-40963,50,Finance,Manager,High School,22244.87,17,3,4,3,Yes,0
+EMP-40964,58,HR,Specialist,Masters,26856.96,24,1,4,5,Yes,0
+EMP-40965,48,Sales,Manager,PhD,22395.96,17,3,5,4,No,0
+EMP-40966,62,Marketing,Analyst,High School,16126.44,10,4,3,2,No,0
+EMP-40967,52,Engineering,Director,High School,9854.84,4,4,3,5,No,0
+EMP-40968,58,HR,Developer,High School,8581.97,4,3,3,3,No,0
+EMP-40969,24,Sales,Analyst,PhD,8852.3,3,1,5,3,Yes,0
+EMP-40970,30,Sales,Specialist,Masters,10341.76,5,4,1,5,Yes,0
+EMP-40971,46,Engineering,Developer,PhD,14451.7,10,3,2,3,No,0
+EMP-40972,33,Engineering,Analyst,High School,15822.92,10,1,4,4,No,0
+EMP-40973,52,Engineering,Specialist,High School,21006.7,17,3,1,2,Yes,0
+EMP-40974,53,Sales,Developer,Bachelors,20411.84,16,1,3,4,Yes,0
+EMP-40975,28,Engineering,Director,PhD,12234.91,6,2,5,5,No,0
+EMP-40976,24,Operations,Specialist,Masters,9159.49,4,1,5,4,Yes,0
+EMP-40977,26,Sales,Executive,PhD,10769.7,5,2,4,3,No,0
+EMP-40978,23,HR,Executive,Bachelors,10475.33,2,4,3,4,No,0
+EMP-40979,22,Sales,Developer,PhD,6946.53,2,1,5,2,No,0
+EMP-40980,52,Engineering,Developer,Bachelors,8506.07,6,2,2,5,Yes,0
+EMP-40981,53,Engineering,Specialist,PhD,8223.3,2,3,2,3,No,0
+EMP-40982,24,Engineering,Developer,PhD,9804.74,4,2,2,5,No,0
+EMP-40983,45,Engineering,Manager,Bachelors,27526.93,25,3,2,5,No,0
+EMP-40984,45,Engineering,Director,PhD,21428.11,20,4,1,5,No,0
+EMP-40985,61,Sales,Director,High School,10644.02,6,4,3,2,No,0
+EMP-40986,37,Engineering,Specialist,PhD,9424.58,3,1,2,5,No,0
+EMP-40987,25,Operations,Manager,PhD,6915.27,3,2,4,2,Yes,0
+EMP-40988,58,Marketing,Manager,Masters,20013.23,17,4,5,3,No,0
+EMP-40989,58,Engineering,Executive,Masters,11914.48,5,3,1,5,Yes,0
+EMP-40990,33,Sales,Executive,High School,12019.36,8,1,2,4,No,0
+EMP-40991,34,Sales,Specialist,High School,12429.91,6,4,1,3,Yes,1
+EMP-40992,32,Engineering,Developer,Masters,7546.51,4,4,3,3,No,0
+EMP-40993,38,Engineering,Analyst,PhD,17359.15,17,2,3,4,No,0
+EMP-40994,51,Engineering,Executive,Masters,20880.18,20,2,5,3,No,0
+EMP-40995,40,Engineering,Executive,Masters,16125.99,11,2,3,3,No,0
+EMP-40996,53,Engineering,Analyst,High School,17992.9,14,4,5,3,No,0
+EMP-40997,28,Operations,Specialist,PhD,11995.71,7,1,1,2,No,0
+EMP-40998,35,HR,Manager,Masters,19158.2,15,3,3,2,Yes,0
+EMP-40999,48,Sales,Manager,Masters,12594.83,7,2,5,4,No,0
+EMP-41000,30,Finance,Specialist,Masters,4096.28,3,2,1,4,Yes,0
+EMP-41001,52,Engineering,Director,Bachelors,16645.38,9,3,1,5,No,0
+EMP-41002,53,Sales,Developer,Bachelors,25091.82,22,1,2,3,No,0
+EMP-41003,34,Finance,Director,High School,10687.57,4,3,3,4,No,0
+EMP-41004,35,Engineering,Specialist,Masters,11106.63,2,3,4,2,No,0
+EMP-41005,34,Marketing,Developer,PhD,11174.0,5,3,3,3,No,0
+EMP-41006,57,Marketing,Specialist,Masters,21037.98,21,2,3,5,Yes,0
+EMP-41007,59,Engineering,Executive,High School,22198.79,17,1,5,4,Yes,0
+EMP-41008,49,Sales,Executive,High School,19953.36,19,1,5,2,No,0
+EMP-41009,40,Sales,Director,High School,12858.8,9,4,1,3,Yes,0
+EMP-41010,60,Marketing,Developer,Bachelors,10154.2,5,1,4,4,No,0
+EMP-41011,35,Finance,Specialist,Masters,12680.15,6,2,2,3,No,1
+EMP-41012,54,HR,Executive,High School,19422.1,14,3,5,4,Yes,0
+EMP-41013,32,Finance,Developer,High School,10889.91,6,1,3,4,No,0
+EMP-41014,61,Finance,Director,PhD,24726.96,22,1,1,4,No,0
+EMP-41015,24,Finance,Director,Bachelors,5685.83,2,4,3,5,Yes,0
+EMP-41016,56,Operations,Analyst,High School,21573.92,20,3,5,4,Yes,0
+EMP-41017,34,Engineering,Executive,PhD,17192.15,13,3,2,2,Yes,0
+EMP-41018,57,Sales,Specialist,Masters,23445.78,21,1,5,2,No,0
+EMP-41019,58,Finance,Director,Bachelors,15271.18,11,1,3,2,Yes,0
+EMP-41020,25,Sales,Developer,Bachelors,7317.34,2,3,2,5,No,0
+EMP-41021,38,Engineering,Manager,Masters,16175.8,14,3,4,3,No,0
+EMP-41022,36,Marketing,Director,Masters,13406.24,10,4,1,4,Yes,1
+EMP-41023,27,Sales,Director,PhD,9809.87,2,3,2,5,No,0
+EMP-41024,62,Engineering,Specialist,Masters,5581.33,1,1,2,3,No,0
+EMP-41025,46,Sales,Analyst,Masters,25712.38,25,1,5,5,Yes,1
+EMP-41026,51,Sales,Developer,High School,24159.85,22,1,3,2,Yes,0
+EMP-41027,35,Engineering,Specialist,Bachelors,11911.22,3,3,2,3,No,0
+EMP-41028,56,Sales,Analyst,Masters,18783.04,15,4,2,4,Yes,0
+EMP-41029,30,Engineering,Developer,PhD,6331.92,4,2,2,2,Yes,0
+EMP-41030,33,Engineering,Specialist,High School,9425.85,5,1,2,3,Yes,1
+EMP-41031,27,Sales,Executive,Masters,10886.42,5,3,5,4,Yes,0
+EMP-41032,49,Engineering,Analyst,PhD,15173.07,7,1,2,4,No,0
+EMP-41033,26,Sales,Specialist,PhD,8441.57,2,4,4,5,Yes,0
+EMP-41034,48,Finance,Director,Masters,18276.74,11,3,2,3,No,0
+EMP-41035,35,Engineering,Analyst,Masters,19422.02,14,3,5,4,No,0
+EMP-41036,60,Sales,Executive,Masters,24796.34,23,3,4,5,No,0
+EMP-41037,36,Engineering,Developer,High School,10214.09,1,4,3,2,No,0
+EMP-41038,31,Engineering,Director,Bachelors,11131.76,6,3,4,3,Yes,0
+EMP-41039,43,Engineering,Specialist,Masters,11355.91,5,4,1,3,No,0
+EMP-41040,38,Engineering,Developer,PhD,9005.53,5,4,2,5,No,0
+EMP-41041,31,Marketing,Manager,High School,11896.01,5,3,3,3,No,0
+EMP-41042,52,Marketing,Specialist,High School,23511.61,22,2,4,5,No,1
+EMP-41043,27,Marketing,Manager,Masters,9709.59,2,4,5,3,No,0
+EMP-41044,22,Engineering,Specialist,High School,6120.55,1,3,5,4,No,0
+EMP-41045,44,Engineering,Director,High School,15208.32,12,4,1,5,No,0
+EMP-41046,56,Engineering,Analyst,Masters,18436.2,13,2,2,5,No,0
+EMP-41047,26,Engineering,Developer,Bachelors,10785.54,5,4,4,2,No,0
+EMP-41048,32,Marketing,Manager,Masters,14189.02,12,1,5,4,No,0
+EMP-41049,58,Engineering,Developer,Masters,17625.15,10,4,1,2,Yes,0
+EMP-41050,35,Engineering,Director,Masters,18680.42,15,3,5,4,No,0
+EMP-41051,30,Sales,Manager,Bachelors,14729.62,8,2,2,3,Yes,0
+EMP-41052,45,Marketing,Manager,Masters,11055.66,8,3,1,2,No,0
+EMP-41053,62,HR,Executive,High School,25540.55,25,4,2,5,No,0
+EMP-41054,51,Sales,Specialist,Masters,11246.77,8,3,2,3,No,0
+EMP-41055,48,Engineering,Analyst,PhD,25441.61,22,3,5,5,No,0
+EMP-41056,23,Finance,Manager,Bachelors,6828.94,2,3,5,2,No,0
+EMP-41057,31,Engineering,Executive,Bachelors,7875.4,2,2,1,2,No,0
+EMP-41058,35,Sales,Analyst,Bachelors,14294.06,10,1,4,5,Yes,0
+EMP-41059,62,Engineering,Developer,High School,25783.48,25,3,5,4,Yes,0
+EMP-41060,37,HR,Manager,High School,10618.87,4,1,2,4,No,0
+EMP-41061,29,HR,Specialist,Bachelors,10318.31,7,2,4,3,Yes,0
+EMP-41062,55,HR,Developer,High School,14097.03,8,2,4,2,No,0
+EMP-41063,52,Marketing,Analyst,Bachelors,9419.1,2,2,4,5,No,0
+EMP-41064,43,Marketing,Developer,PhD,8540.7,5,2,5,4,Yes,0
+EMP-41065,42,Sales,Developer,Bachelors,20064.62,14,3,3,5,No,0
+EMP-41066,52,Engineering,Manager,Masters,24541.67,22,1,1,3,No,0
+EMP-41067,43,Sales,Director,PhD,23822.24,22,1,1,4,No,0
+EMP-41068,25,Engineering,Specialist,Bachelors,8994.4,2,2,3,5,No,0
+EMP-41069,22,Engineering,Analyst,Bachelors,9614.92,1,2,2,4,No,0
+EMP-41070,47,Sales,Specialist,High School,8518.05,2,2,4,4,No,0
+EMP-41071,51,Operations,Executive,Bachelors,23024.24,20,2,5,3,No,0
+EMP-41072,50,Marketing,Analyst,Bachelors,5783.61,1,3,4,3,No,0
+EMP-41073,57,Engineering,Executive,Masters,7656.35,4,2,1,2,No,0
+EMP-41074,33,Engineering,Developer,PhD,16220.0,12,3,3,5,No,0
+EMP-41075,59,Engineering,Analyst,High School,14094.45,8,3,5,2,No,0
+EMP-41076,59,Sales,Executive,Masters,12869.76,8,3,1,4,Yes,1
+EMP-41077,62,Engineering,Developer,High School,26678.18,25,4,4,2,No,0
+EMP-41078,28,Sales,Director,High School,11291.99,5,2,1,5,Yes,0
+EMP-41079,55,Finance,Developer,Bachelors,19876.38,18,4,5,5,No,0
+EMP-41080,39,Engineering,Analyst,Bachelors,14731.76,11,3,4,5,Yes,0
+EMP-41081,58,Sales,Manager,High School,11106.01,5,1,5,2,No,0
+EMP-41082,39,Sales,Analyst,Bachelors,19220.67,16,2,1,2,Yes,1
+EMP-41083,46,Sales,Executive,High School,12025.19,8,4,2,2,No,0
+EMP-41084,57,Sales,Analyst,PhD,25225.57,24,1,3,5,Yes,0
+EMP-41085,45,Marketing,Developer,Masters,15245.29,14,3,4,4,No,0
+EMP-41086,39,Engineering,Specialist,PhD,15623.3,13,3,4,2,No,0
+EMP-41087,30,Engineering,Specialist,Bachelors,9159.48,2,1,3,3,No,0
+EMP-41088,53,Marketing,Manager,High School,9340.92,6,2,3,5,No,0
+EMP-41089,37,Engineering,Executive,PhD,10421.99,2,4,1,5,No,0
+EMP-41090,62,Sales,Manager,Bachelors,14756.51,9,2,5,5,No,0
+EMP-41091,29,Marketing,Developer,Bachelors,13265.71,4,2,5,3,Yes,1
+EMP-41092,22,Engineering,Specialist,High School,5421.54,2,1,1,4,Yes,0
+EMP-41093,43,Marketing,Manager,PhD,17551.92,15,4,1,2,No,0
+EMP-41094,31,Marketing,Specialist,Bachelors,9335.98,5,1,5,2,No,0
+EMP-41095,55,Sales,Analyst,Masters,17851.8,13,2,4,5,Yes,0
+EMP-41096,46,Operations,Director,High School,6633.82,3,3,2,5,No,0
+EMP-41097,41,Finance,Manager,High School,23151.96,20,1,3,4,No,0
+EMP-41098,51,Finance,Executive,Bachelors,23658.52,22,2,3,4,No,0
+EMP-41099,52,Engineering,Developer,High School,14789.41,11,3,1,4,No,0
+EMP-41100,56,Engineering,Director,High School,16503.14,15,3,1,2,Yes,0
+EMP-41101,58,Engineering,Specialist,Bachelors,18291.03,15,3,1,4,No,0
+EMP-41102,37,Engineering,Executive,PhD,9131.87,7,2,5,2,No,0
+EMP-41103,40,Sales,Analyst,High School,19891.99,18,4,2,4,No,0
+EMP-41104,33,Engineering,Director,Masters,13841.88,8,1,2,4,No,0
+EMP-41105,47,Marketing,Analyst,Masters,25948.42,25,2,1,2,No,0
+EMP-41106,40,Operations,Specialist,High School,7008.45,4,2,1,5,No,1
+EMP-41107,61,Engineering,Director,PhD,17117.33,13,4,4,2,No,0
+EMP-41108,45,Engineering,Developer,Masters,25717.35,23,2,3,5,No,0
+EMP-41109,25,Operations,Director,Bachelors,6811.39,2,1,3,5,No,0
+EMP-41110,43,Sales,Developer,Bachelors,13526.3,9,4,4,3,Yes,0
+EMP-41111,50,Finance,Specialist,PhD,18260.65,14,2,2,2,Yes,0
+EMP-41112,56,Sales,Executive,Masters,21296.75,19,4,1,2,No,0
+EMP-41113,47,Marketing,Developer,High School,10044.75,6,1,2,3,No,0
+EMP-41114,60,Engineering,Manager,Masters,19978.8,21,3,4,5,No,0
+EMP-41115,46,Sales,Executive,PhD,12831.24,7,2,3,2,No,0
+EMP-41116,40,Engineering,Director,Bachelors,17708.71,16,3,4,4,No,0
+EMP-41117,50,Sales,Specialist,PhD,16714.96,12,1,5,3,Yes,0
+EMP-41118,37,Engineering,Executive,Masters,17261.27,12,2,5,5,No,0
+EMP-41119,28,Engineering,Specialist,High School,12849.32,7,2,3,2,Yes,0
+EMP-41120,52,Marketing,Specialist,PhD,20922.67,15,4,1,2,Yes,0
+EMP-41121,50,Finance,Manager,High School,18354.2,16,4,1,5,No,0
+EMP-41122,55,Marketing,Specialist,PhD,28927.95,24,3,1,4,No,0
+EMP-41123,47,Engineering,Developer,High School,10308.09,7,3,4,4,Yes,0
+EMP-41124,42,HR,Analyst,Masters,9739.98,3,1,2,3,No,0
+EMP-41125,52,Marketing,Executive,High School,25024.75,22,4,3,2,No,0
+EMP-41126,48,HR,Developer,High School,8056.62,1,2,5,5,No,0
+EMP-41127,43,Sales,Manager,Masters,14564.56,13,3,1,3,Yes,0
+EMP-41128,45,Engineering,Director,PhD,23260.04,23,2,3,2,No,0
+EMP-41129,22,Finance,Manager,Masters,8241.33,2,1,1,3,No,0
+EMP-41130,25,Engineering,Director,PhD,10120.87,5,3,4,4,No,0
+EMP-41131,50,Marketing,Manager,PhD,24054.91,22,2,2,3,Yes,0
+EMP-41132,34,Engineering,Director,Bachelors,14255.38,9,4,4,4,No,0
+EMP-41133,59,Sales,Developer,PhD,14845.31,13,4,2,3,No,0
+EMP-41134,42,Sales,Analyst,High School,7318.39,5,2,4,2,No,0
+EMP-41135,41,Sales,Executive,PhD,16620.61,12,1,5,2,No,0
+EMP-41136,23,Sales,Specialist,Masters,7642.69,1,4,3,5,No,0
+EMP-41137,56,Finance,Executive,High School,10526.52,6,3,3,4,No,0
+EMP-41138,37,Engineering,Director,PhD,10329.62,5,2,4,4,No,0
+EMP-41139,24,Sales,Developer,Bachelors,7689.9,2,2,1,3,No,0
+EMP-41140,28,Operations,Director,PhD,8543.02,2,1,3,4,No,0
+EMP-41141,43,Engineering,Manager,High School,9035.05,1,1,5,5,No,0
+EMP-41142,61,Engineering,Developer,Masters,12612.28,6,1,4,3,Yes,0
+EMP-41143,54,Marketing,Manager,Masters,19723.23,14,4,3,4,No,0
+EMP-41144,36,Engineering,Developer,Masters,10715.83,5,3,3,3,No,0
+EMP-41145,52,Engineering,Director,PhD,21968.17,18,3,5,3,Yes,0
+EMP-41146,39,HR,Executive,High School,21610.63,18,1,2,2,Yes,0
+EMP-41147,45,Finance,Executive,Masters,26659.2,24,2,2,2,No,0
+EMP-41148,29,Engineering,Analyst,High School,6446.53,1,1,4,5,No,0
+EMP-41149,33,HR,Analyst,PhD,14697.78,12,3,3,5,No,0
+EMP-41150,50,Engineering,Manager,Bachelors,16925.68,12,4,5,5,Yes,0
+EMP-41151,30,Engineering,Specialist,PhD,9146.47,6,4,2,4,No,0
+EMP-41152,45,Sales,Director,Bachelors,7379.88,1,3,5,4,No,0
+EMP-41153,46,Engineering,Manager,High School,15855.8,12,1,2,5,No,0
+EMP-41154,46,Engineering,Developer,Bachelors,11540.69,6,2,5,2,No,0
+EMP-41155,48,Finance,Director,PhD,24304.07,19,4,1,5,No,0
+EMP-41156,59,Marketing,Developer,Bachelors,22662.96,19,3,2,3,No,0
+EMP-41157,59,Engineering,Developer,Masters,6908.11,3,1,1,5,Yes,1
+EMP-41158,22,Engineering,Manager,Masters,8710.6,1,2,2,2,No,0
+EMP-41159,44,Sales,Developer,Bachelors,14394.72,10,4,4,2,No,0
+EMP-41160,22,Finance,Analyst,High School,7157.06,1,3,5,2,No,0
+EMP-41161,34,Sales,Specialist,High School,12973.58,6,1,4,4,No,0
+EMP-41162,24,Engineering,Manager,Bachelors,12497.82,4,3,1,3,No,0
+EMP-41163,43,Engineering,Manager,Masters,18851.61,15,1,3,3,No,0
+EMP-41164,27,Marketing,Specialist,PhD,12356.98,7,4,3,5,No,0
+EMP-41165,47,HR,Director,PhD,15240.09,14,1,3,3,No,0
+EMP-41166,23,Engineering,Developer,Bachelors,7543.1,1,3,2,5,No,0
+EMP-41167,28,Engineering,Specialist,Masters,5052.2,3,2,2,3,No,0
+EMP-41168,56,Marketing,Manager,High School,18315.79,14,2,2,3,Yes,1
+EMP-41169,43,Engineering,Specialist,High School,13714.74,13,3,4,5,No,0
+EMP-41170,24,Marketing,Developer,Bachelors,8838.23,1,1,5,5,Yes,0
+EMP-41171,53,Marketing,Manager,Masters,21980.98,21,2,3,2,Yes,0
+EMP-41172,59,Marketing,Specialist,Masters,12744.53,3,3,3,2,No,0
+EMP-41173,45,Sales,Analyst,High School,14289.8,11,1,2,2,No,0
+EMP-41174,57,Engineering,Manager,High School,7154.76,2,3,3,5,No,0
+EMP-41175,23,Engineering,Manager,Bachelors,5694.84,1,3,3,2,No,0
+EMP-41176,61,Engineering,Specialist,PhD,14770.26,11,4,2,3,No,0
+EMP-41177,24,Engineering,Specialist,PhD,8259.08,2,4,1,4,Yes,0
+EMP-41178,58,Sales,Manager,High School,21925.19,19,2,4,3,No,0
+EMP-41179,42,Sales,Director,Bachelors,19794.6,14,1,3,2,No,0
+EMP-41180,46,Engineering,Analyst,High School,17352.42,13,2,5,3,No,0
+EMP-41181,52,Engineering,Specialist,PhD,12379.34,8,3,5,3,Yes,0
+EMP-41182,36,Operations,Director,High School,12986.98,7,2,5,5,No,0
+EMP-41183,47,Engineering,Specialist,PhD,24061.26,21,4,5,5,Yes,0
+EMP-41184,39,HR,Specialist,PhD,12027.66,6,2,3,4,No,0
+EMP-41185,22,Engineering,Analyst,Bachelors,9475.22,2,3,4,3,Yes,0
+EMP-41186,28,Marketing,Developer,PhD,9220.59,4,2,1,3,No,0
+EMP-41187,50,HR,Specialist,Masters,16354.54,10,1,4,3,Yes,0
+EMP-41188,27,Finance,Developer,High School,8134.05,6,4,4,2,Yes,0
+EMP-41189,24,Engineering,Specialist,Masters,10225.34,4,1,4,4,No,0
+EMP-41190,38,Engineering,Director,Bachelors,19846.63,17,1,1,2,No,0
+EMP-41191,27,Engineering,Developer,Masters,13121.74,6,1,3,2,Yes,1
+EMP-41192,27,Marketing,Manager,Masters,5990.15,1,1,5,3,No,0
+EMP-41193,31,Engineering,Manager,High School,13783.72,7,3,3,5,Yes,0
+EMP-41194,41,Sales,Executive,Bachelors,17853.23,12,2,2,5,No,0
+EMP-41195,50,Engineering,Developer,Bachelors,13289.7,10,4,1,3,No,0
+EMP-41196,22,Finance,Manager,Masters,8102.06,1,4,1,5,No,0
+EMP-41197,59,Sales,Developer,Masters,15684.27,13,4,4,2,No,0
+EMP-41198,58,Finance,Director,High School,17467.05,15,4,4,4,No,0
+EMP-41199,40,Finance,Director,High School,14102.08,12,4,4,4,No,0
